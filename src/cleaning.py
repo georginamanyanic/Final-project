@@ -1,7 +1,8 @@
 import pandas as pd 
 import re 
 import numpy as np
-
+import json
+import os 
 
 def cleaning_names (df, column):
     for i in range(len(df[column])):
@@ -47,5 +48,29 @@ def filter_and_aggregate(df, column, dict_):
 
 
 
+def invert_coordinates(geojson):
 
+    """Esta función se utiliza para invertir las coordenadas de los archivos .geojson que se encuentran en la carpeta geojson dado que estan
+    al revés. La función toma como valor el archivo .geojson iterar sobre las keys hasta encontrar las coordenadas e invertirlas devolviendo otra vez
+    un archivo invertido"""
+    
+    # Convertir el geojson
+    data = json.loads(geojson)
+    
+    # Iterar sobre las features
+    for feature in data['features']:
+        # Encontrar las coordenadas geométricas
+        coordinates = feature['geometry']['coordinates']
+        
+        # Iterar sobre los polígonos
+        for polygon in coordinates:
+            # Iterar sobre los rings de cada polígono
+            for ring in polygon:
+                # Invertir las coordenadas
+                for i in range(len(ring)):
+                    ring[i] = [ring[i][1], ring[i][0]]
+    
+    # Convertir los datos modificados a geojson otra vez
+    inverted_geojson = json.dumps(data)
+    return inverted_geojson
 
