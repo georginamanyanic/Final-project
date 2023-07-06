@@ -1,0 +1,2990 @@
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,name,zone,hardiness_zone
+20,,,,P,P,,,,,,,,Amaranth,10,7a
+21,,,,P,P,,,,,,,,Amaranth,114,7b
+22,,,P,P,,,,,,,,,Amaranth,13,8a
+23,,,P,P,,,,,,,,,Amaranth,12,8b
+24,,P,,P,,,,,,,,,Amaranth,115,9a
+25,,P,,P,,,,,,,,,Amaranth,116,9b
+26,P,P,,,,,,,,,,,Amaranth,15,10a
+27,P,P,,,,,,,,,,,Amaranth,100,10b
+61,,,,,,,,,P,,,,Angelica,111,4a
+62,,,,,,,,,P,,,,Angelica,112,4b
+63,,,,,P,,,,,,,,Angelica,11,5a
+64,,,,,P,,,,,,,,Angelica,14,5b
+65,,,P,,,,,,,,,,Angelica,16,6a
+66,,,P,,,,,,,,,,Angelica,113,6b
+67,,,P,,,,,,,,,,Angelica,10,7a
+68,,,P,,,,,,,,,,Angelica,114,7b
+69,,,,,,,,,,,P,,Angelica,13,8a
+70,,,,,,,,,,,P,,Angelica,12,8b
+71,,,,,,,,,,,,P,Angelica,115,9a
+72,,,,,,,,,,,P,,Angelica,116,9b
+73,,,,,,,,,,,,P,Angelica,15,10a
+74,,,,,,,,,,,,P,Angelica,100,10b
+126,,S,,,,,,,,,,,Artichokes,111,4a
+127,,,,T,,,,,,,,,Artichokes,111,4a
+128,,,,P,,,,,,,,,Artichokes,111,4a
+129,,S,,,,,,,,,,,Artichokes,112,4b
+130,,,,T,,,,,,,,,Artichokes,112,4b
+131,,,,P,,,,,,,,,Artichokes,112,4b
+132,,S,,,,,,,,,,,Artichokes,11,5a
+133,,,,T,,,,,,,,,Artichokes,11,5a
+134,,,,P,,,,,,,,,Artichokes,11,5a
+135,,S,,,,,,,,,,,Artichokes,14,5b
+136,,,,T,,,,,,,,,Artichokes,14,5b
+137,,,,P,,,,,,,,,Artichokes,14,5b
+138,,S,S,,,,,,,,,,Artichokes,16,6a
+139,,,,,T,,,,,,,,Artichokes,16,6a
+140,,S,S,,,,,,,,,,Artichokes,113,6b
+141,,,,,T,,,,,,,,Artichokes,113,6b
+142,,S,S,,,,,,,,,,Artichokes,10,7a
+143,,,,,T,,,,,,,,Artichokes,10,7a
+144,,S,S,,,,,,,,,,Artichokes,114,7b
+145,,,,T,,,,,,,,,Artichokes,114,7b
+146,,S,S,,,,,,,,,,Artichokes,13,8a
+147,,,,,T,,,,,,,,Artichokes,13,8a
+148,,S,S,,,,,,,,,,Artichokes,12,8b
+149,,,,,T,,,,,,,,Artichokes,12,8b
+150,S,S,,,,,,,,,,,Artichokes,115,9a
+151,,,,T,,,,,,,,,Artichokes,115,9a
+152,S,S,,,,,,,,,,,Artichokes,116,9b
+153,,,,T,,,,,,,,,Artichokes,116,9b
+154,,,,,,,,,,,,S,Artichokes,15,10a
+155,,T,,,,,,,,,,,Artichokes,15,10a
+156,,,,,,,,,,,S,,Artichokes,100,10b
+157,T,,,,,,,,,,,,Artichokes,100,10b
+206,,,S,,,,,,,,,,Asparagus,107,2a
+207,,,,,T,,,,,,,,Asparagus,107,2a
+208,,,,,P,,,,,,,,Asparagus,107,2a
+209,,,S,,,,,,,,,,Asparagus,108,2b
+210,,,,,T,,,,,,,,Asparagus,108,2b
+211,,,,,P,,,,,,,,Asparagus,108,2b
+212,,,,S,,,,,,,,,Asparagus,109,3a
+213,,,,,,T,,,,,,,Asparagus,109,3a
+214,,,,S,,,,,,,,,Asparagus,110,3b
+215,,,,,,T,,,,,,,Asparagus,110,3b
+216,,,,S,,,,,,,,,Asparagus,111,4a
+217,,,,,,T,,,,,,,Asparagus,111,4a
+218,,,,S,,,,,,,,,Asparagus,112,4b
+219,,,,,,T,,,,,,,Asparagus,112,4b
+220,,,S,,,,,,,,,,Asparagus,11,5a
+221,,,,,T,,,,,,,,Asparagus,11,5a
+222,,,S,,,,,,,,,,Asparagus,14,5b
+223,,,,,T,,,,,,,,Asparagus,14,5b
+224,,,S,,,,,,,,,,Asparagus,16,6a
+225,,,,,T,,,,,,,,Asparagus,16,6a
+226,,,S,,,,,,,,,,Asparagus,113,6b
+227,,,,,T,,,,,,,,Asparagus,113,6b
+228,,P,P,,,,,,,,P,P,Asparagus,10,7a
+229,,P,P,,,,,,,,P,P,Asparagus,114,7b
+230,,P,P,,,,,,,,P,P,Asparagus,13,8a
+231,,P,P,,,,,,,,P,P,Asparagus,12,8b
+232,P,P,,,,,,,,,P,P,Asparagus,15,10a
+259,,,,,P,,,,,,,,Asparagus Pea,11,5a
+260,,,,,P,,,,,,,,Asparagus Pea,14,5b
+261,,,,P,,,,,,,,,Asparagus Pea,16,6a
+262,,,,P,,,,,,,,,Asparagus Pea,113,6b
+263,,,,P,,,,,,,,,Asparagus Pea,10,7a
+264,,,,P,,,,,,,,,Asparagus Pea,114,7b
+265,,,,P,P,,,,,,,,Asparagus Pea,13,8a
+266,,,,P,P,,,,,,,,Asparagus Pea,12,8b
+267,,,P,P,,,,,,,,,Asparagus Pea,115,9a
+268,,,P,P,,,,,,,,,Asparagus Pea,116,9b
+269,,,P,,,,,,,,,,Asparagus Pea,15,10a
+270,,,P,,,,,,,,,,Asparagus Pea,100,10b
+271,,P,,,,,,,,,,,Asparagus Pea,101,11a
+272,,P,,,,,,,,,,,Asparagus Pea,102,11b
+310,,,,S,,,,,,,,,Basil,107,2a
+311,,,,,T,,,,,,,,Basil,107,2a
+312,,,,S,,,,,,,,,Basil,108,2b
+313,,,,,T,,,,,,,,Basil,108,2b
+314,,,,S,,,,,,,,,Basil,109,3a
+315,,,,,T,,,,,,,,Basil,109,3a
+316,,,,,P,,,,,,,,Basil,109,3a
+317,,,,S,,,,,,,,,Basil,110,3b
+318,,,,,T,T,,,,,,,Basil,110,3b
+319,,,,,P,P,,,,,,,Basil,110,3b
+320,,,,S,,,,,,,,,Basil,111,4a
+321,,,,,T,T,,,,,,,Basil,111,4a
+322,,,,,P,P,,,,,,,Basil,111,4a
+323,,,,S,,,,,,,,,Basil,112,4b
+324,,,,,T,T,,,,,,,Basil,112,4b
+325,,,,,P,P,,,,,,,Basil,112,4b
+326,,,S,,,,,,,,,,Basil,11,5a
+327,,,,T,,,,,,,,,Basil,11,5a
+328,,,,P,P,,,,,,,,Basil,11,5a
+329,,,S,,,,,,,,,,Basil,14,5b
+330,,,,T,,,,,,,,,Basil,14,5b
+331,,,,P,P,,,,,,,,Basil,14,5b
+332,,,S,,,,,,,,,,Basil,16,6a
+333,,,,T,,,,,,,,,Basil,16,6a
+334,,,,P,P,,,,,,,,Basil,16,6a
+335,,,S,,,,,,,,,,Basil,113,6b
+336,,,,T,,,,,,,,,Basil,113,6b
+337,,,,P,P,,,,,,,,Basil,113,6b
+338,,,S,,,,,,,,,,Basil,10,7a
+339,,,,T,,,,,,,,,Basil,10,7a
+340,,,,P,P,,,,,,,,Basil,10,7a
+341,,,S,,,,,,,,,,Basil,114,7b
+342,,,,T,,,,,,,,,Basil,114,7b
+343,,,,P,P,,,,,,,,Basil,114,7b
+344,,,S,,,,,,,,,,Basil,13,8a
+345,,,,T,,,,,,,,,Basil,13,8a
+346,,,,P,P,,,,,,,,Basil,13,8a
+347,,,S,,,,,,,,,,Basil,12,8b
+348,,,,T,,,,,,,,,Basil,12,8b
+349,,,,P,P,,,,,,,,Basil,12,8b
+350,,S,,,,,,,,,,,Basil,115,9a
+351,,,T,,,,,,,,,,Basil,115,9a
+352,,,P,P,,,,,,,,,Basil,115,9a
+353,,S,,,,,,,,,,,Basil,116,9b
+354,,,T,,,,,,,,,,Basil,116,9b
+355,,,P,P,,,,,,,,,Basil,116,9b
+356,,S,,,,,,,,,,,Basil,15,10a
+357,,,T,T,,,,,,,,,Basil,15,10a
+358,,,P,P,P,,,,,,,,Basil,15,10a
+359,S,,,,,,,,,,,,Basil,100,10b
+360,,T,,,,,,,,,,,Basil,100,10b
+361,,P,P,,,,,,,,,,Basil,100,10b
+362,P,P,,,,,,,,,,,Basil,101,11a
+363,P,,,,,,,,,,,,Basil,102,11b
+364,P,,,,,,,,,,,,Basil,103,12a
+365,P,,,,,,,,,,,,Basil,104,12b
+366,P,,,,,,,,,,,,Basil,105,13a
+367,P,,,,,,,,,,,,Basil,106,13b
+407,,,,,P,P,P,,,,,,Beans - climbing,107,2a
+408,,,,,,P,P,,,,,,Beans - climbing,108,2b
+409,,,,,P,P,P,,,,,,Beans - climbing,109,3a
+410,,,,,P,P,P,,,,,,Beans - climbing,110,3b
+411,,,,,P,P,P,,,,,,Beans - climbing,111,4a
+412,,,,,P,P,,,,,,,Beans - climbing,112,4b
+413,,,,,P,,,,,,,,Beans - climbing,11,5a
+414,,,,,P,,,,,,,,Beans - climbing,14,5b
+415,,,,,P,P,,,,,,,Beans - climbing,16,6a
+416,,,,,P,P,,,,,,,Beans - climbing,113,6b
+417,,,,P,P,,P,P,,,,,Beans - climbing,10,7a
+418,,,,P,P,,P,P,,,,,Beans - climbing,114,7b
+419,,,,P,,,P,P,,,,,Beans - climbing,13,8a
+420,,,,P,,,P,P,,,,,Beans - climbing,12,8b
+421,,,P,P,,,,P,P,,,,Beans - climbing,115,9a
+422,,,P,P,,,,P,P,,,,Beans - climbing,116,9b
+423,P,P,,,,,,P,P,P,P,,Beans - climbing,15,10a
+424,,T,,,,,,,,,,,Beans - climbing,100,10b
+425,,P,P,P,,,,P,P,,,,Beans - climbing,100,10b
+426,P,P,P,,,,,,,P,,,Beans - climbing,101,11a
+427,P,P,P,,,,,,,P,,,Beans - climbing,102,11b
+428,P,P,P,,,,,,,,,,Beans - climbing,103,12a
+429,P,P,P,,,,,,,,,,Beans - climbing,104,12b
+430,P,P,,,,,,,,,,P,Beans - climbing,105,13a
+431,P,P,,,,,,,,,,P,Beans - climbing,106,13b
+470,,,,,P,P,P,,,,,,Beans - dwarf,107,2a
+471,,,,,P,P,,,,,,,Beans - dwarf,108,2b
+472,,,,,P,P,P,,,,,,Beans - dwarf,109,3a
+473,,,,,P,P,P,,,,,,Beans - dwarf,110,3b
+474,,,,,P,P,P,,,,,,Beans - dwarf,111,4a
+475,,,,,P,P,P,,,,,,Beans - dwarf,112,4b
+476,,,,,P,P,,,,,,,Beans - dwarf,11,5a
+477,,,,,P,P,,,,,,,Beans - dwarf,14,5b
+478,,,,,P,P,,,,,,,Beans - dwarf,16,6a
+479,,,,,P,P,P,,,,,,Beans - dwarf,113,6b
+480,,,,P,P,P,,,,,,,Beans - dwarf,10,7a
+481,,,,P,P,P,,,,,,,Beans - dwarf,114,7b
+482,,,P,P,P,,,,,,,,Beans - dwarf,13,8a
+483,,,P,P,P,,,,,,,,Beans - dwarf,12,8b
+484,,,P,P,,,,P,P,,,,Beans - dwarf,115,9a
+485,,,P,P,,,,P,P,,,,Beans - dwarf,116,9b
+486,S,,,,,,,,,,,,Beans - dwarf,15,10a
+487,,T,,,,,,,,,,,Beans - dwarf,15,10a
+488,,P,P,P,,,,,P,,,,Beans - dwarf,15,10a
+489,S,,,,,,,,,,,,Beans - dwarf,100,10b
+490,,T,,,,,,,,,,,Beans - dwarf,100,10b
+491,,P,P,P,,,,,P,,,,Beans - dwarf,100,10b
+492,P,P,P,,,,,,,P,,,Beans - dwarf,101,11a
+493,P,P,P,,,,,,,P,,,Beans - dwarf,102,11b
+494,P,P,P,,,,,,,,,,Beans - dwarf,103,12a
+495,P,P,P,,,,,,,,,,Beans - dwarf,104,12b
+496,P,P,,,,,,,,,,P,Beans - dwarf,105,13a
+497,P,P,,,,,,,,,,P,Beans - dwarf,106,13b
+535,,,S,,,,,,,,,,Beetroot,107,2a
+536,,,,,T,,,,,,,,Beetroot,107,2a
+537,,,,P,P,P,,,,,,,Beetroot,107,2a
+538,,,S,,,,,,,,,,Beetroot,108,2b
+539,,,,,T,,,,,,,,Beetroot,108,2b
+540,,,,P,P,P,,,,,,,Beetroot,108,2b
+541,,,,P,P,P,,,,,,,Beetroot,109,3a
+542,,,,P,P,P,,,,,,,Beetroot,110,3b
+543,,,,P,P,P,P,,,,,,Beetroot,111,4a
+544,,,,P,P,P,P,,,,,,Beetroot,112,4b
+545,,,P,P,P,P,P,,,,,,Beetroot,11,5a
+546,,,P,P,P,P,P,,,,,,Beetroot,14,5b
+547,,,P,P,P,,P,,,,,,Beetroot,16,6a
+548,,,P,P,P,,P,,,,,,Beetroot,113,6b
+549,,P,P,,,,,P,P,,,,Beetroot,10,7a
+550,,P,P,,,,,P,P,,,,Beetroot,114,7b
+551,S,,,,,,,,,,,,Beetroot,13,8a
+552,,T,T,,,,,,,,,,Beetroot,13,8a
+553,,P,P,,,,,P,P,,,,Beetroot,13,8a
+554,S,,,,,,,,,,,,Beetroot,12,8b
+555,,T,T,,,,,,,,,,Beetroot,12,8b
+556,,P,P,,,,,,P,P,,,Beetroot,12,8b
+557,P,P,P,,,,,,P,P,P,P,Beetroot,115,9a
+558,P,P,P,,,,,,P,P,P,P,Beetroot,116,9b
+559,P,P,P,,,,,,P,P,P,P,Beetroot,15,10a
+560,P,P,P,,,,,,P,P,P,P,Beetroot,100,10b
+599,,,,,P,,,,,,,,Borage,110,3b
+600,,,,,P,,,,,,,,Borage,111,4a
+601,,,,,P,,,,,,,,Borage,112,4b
+602,,,,,P,,,,,,,,Borage,11,5a
+603,,,,P,,,,,,,,,Borage,14,5b
+604,,,,P,,,,,,,,,Borage,16,6a
+605,,,,P,,,,,,,,,Borage,113,6b
+606,,,,P,,,,,,,,,Borage,10,7a
+607,,,,P,,,,,,,,,Borage,114,7b
+608,,,P,,,,,,,,,,Borage,13,8a
+609,,,P,,,,,,,,,,Borage,12,8b
+610,,P,,,,,,,,,,,Borage,115,9a
+611,,P,,,,,,,,,,,Borage,116,9b
+612,P,P,,,,,,,,,,,Borage,15,10a
+613,P,P,,,,,,,,,,,Borage,100,10b
+614,,,,,,,,,,,,P,Borage,101,11a
+615,,,,,,,,,,,,P,Borage,102,11b
+682,,,,,P,P,,,,,,,Broad Beans,107,2a
+683,,,,,P,P,,,,,,,Broad Beans,108,2b
+684,,,,P,,,,,,,,,Broad Beans,109,3a
+685,,,,P,,,,,,,,,Broad Beans,110,3b
+686,,,,,P,P,,,,,,,Broad Beans,111,4a
+687,,,,,P,P,,,,,,,Broad Beans,112,4b
+688,,,,,,,,P,P,,,,Broad Beans,11,5a
+689,,,,,,,,P,P,,,,Broad Beans,14,5b
+690,,,,,,,,P,,,,,Broad Beans,16,6a
+691,,,,,,,,P,,,,,Broad Beans,113,6b
+692,,,,,,,,,P,P,,,Broad Beans,10,7a
+693,,,,,,,,,P,P,,,Broad Beans,114,7b
+694,,,,,,,,,P,P,P,,Broad Beans,13,8a
+695,,,,,,,,,P,P,P,,Broad Beans,12,8b
+696,,,,,,,,,,P,,,Broad Beans,115,9a
+697,,,,,,,,,,P,,,Broad Beans,116,9b
+698,,,,,,,,,P,,,,Broad Beans,15,10a
+699,,,,,,,,,P,,,,Broad Beans,100,10b
+757,,,S,,,,,,,,,,Broccoli,109,3a
+758,,,,T,,,,,,,,,Broccoli,109,3a
+759,,,,P,,P,,,,,,,Broccoli,109,3a
+760,,,S,,,,,,,,,,Broccoli,110,3b
+761,,,,T,,,,,,,,,Broccoli,110,3b
+762,,,,P,,P,,,,,,,Broccoli,110,3b
+763,,,S,,,,,,,,,,Broccoli,111,4a
+764,,,,T,,,,,,,,,Broccoli,111,4a
+765,,,,P,,P,,,,,,,Broccoli,111,4a
+766,,,S,,,,,,,,,,Broccoli,112,4b
+767,,,,T,,,,,,,,,Broccoli,112,4b
+768,,,,P,,P,,,,,,,Broccoli,112,4b
+769,,S,,,,,,,,,,,Broccoli,11,5a
+770,,,,T,,,,,,,,,Broccoli,11,5a
+771,,,P,P,,,,,,,,,Broccoli,11,5a
+772,,S,,,,,,,,,,,Broccoli,14,5b
+773,,,,T,,,,,,,,,Broccoli,14,5b
+774,,,P,P,,,,,,,,,Broccoli,14,5b
+775,,,S,S,,,,,,,,,Broccoli,16,6a
+776,,,,,T,T,,,,,,,Broccoli,16,6a
+777,,,S,S,,,,,,,,,Broccoli,113,6b
+778,,,,,T,T,,,,,,,Broccoli,113,6b
+779,S,,,,,,,,,,,,Broccoli,10,7a
+780,,T,,,,,,,,,,,Broccoli,10,7a
+781,,P,P,,,,,P,,,,,Broccoli,10,7a
+782,S,,,,,,,,,,,,Broccoli,114,7b
+783,,T,,,,,,,,,,,Broccoli,114,7b
+784,,P,P,,,,,P,,,,,Broccoli,114,7b
+785,S,,,,,,,,,,,,Broccoli,13,8a
+786,,T,T,,,,,,,,,,Broccoli,13,8a
+787,,P,P,,,,P,P,,,,,Broccoli,13,8a
+788,S,,,,,,,,,,,,Broccoli,12,8b
+789,,T,T,,,,,,,,,,Broccoli,12,8b
+790,,P,P,,,,P,P,,,,,Broccoli,12,8b
+791,P,,,,,,,P,P,P,P,,Broccoli,115,9a
+792,P,P,,,,,,P,P,P,P,,Broccoli,116,9b
+793,,,,,,,S,S,,,,,Broccoli,15,10a
+794,T,,,,,,,,T,T,T,T,Broccoli,15,10a
+795,,,,,,,,,P,P,,,Broccoli,15,10a
+796,,,,,,,S,,,,,,Broccoli,100,10b
+797,T,,,,,,,T,T,T,T,T,Broccoli,100,10b
+798,,,,,,,,P,P,P,P,,Broccoli,100,10b
+864,,,S,,,,,,,,,,Brussels sprouts,107,2a
+865,,,,,T,T,,,,,,,Brussels sprouts,107,2a
+866,,,,,P,P,,,,,,,Brussels sprouts,107,2a
+867,,,S,,,,,,,,,,Brussels sprouts,108,2b
+868,,,,,T,T,,,,,,,Brussels sprouts,108,2b
+869,,,,,P,P,,,,,,,Brussels sprouts,108,2b
+870,,,S,,,,,,,,,,Brussels sprouts,109,3a
+871,,,,T,,,,,,,,,Brussels sprouts,109,3a
+872,,,,P,P,P,,,,,,,Brussels sprouts,109,3a
+873,,,S,,,,,,,,,,Brussels sprouts,110,3b
+874,,,,T,T,,,,,,,,Brussels sprouts,110,3b
+875,,,,P,P,P,,,,,,,Brussels sprouts,110,3b
+876,,,S,,,,,,,,,,Brussels sprouts,111,4a
+877,,,,,T,,,,,,,,Brussels sprouts,111,4a
+878,,,,,P,P,,,,,,,Brussels sprouts,111,4a
+879,,,S,,,,,,,,,,Brussels sprouts,112,4b
+880,,,,,T,,,,,,,,Brussels sprouts,112,4b
+881,,,,,,P,,,,,,,Brussels sprouts,112,4b
+882,,,S,,,,,,,,,,Brussels sprouts,11,5a
+883,,,,,T,,,,,,,,Brussels sprouts,11,5a
+884,,,,,P,,,,,,,,Brussels sprouts,11,5a
+885,,,S,,,,,,,,,,Brussels sprouts,14,5b
+886,,,,,T,,,,,,,,Brussels sprouts,14,5b
+887,,,,,P,,,,,,,,Brussels sprouts,14,5b
+888,,,S,,,,,,,,,,Brussels sprouts,16,6a
+889,,,,,T,,,,,,,,Brussels sprouts,16,6a
+890,,,,,P,P,,,,,,,Brussels sprouts,16,6a
+891,,,S,,,,,,,,,,Brussels sprouts,113,6b
+892,,,,,T,,,,,,,,Brussels sprouts,113,6b
+893,,,,,P,P,,,,,,,Brussels sprouts,113,6b
+894,,S,,,,,,,,,,,Brussels sprouts,10,7a
+895,,,T,,,,,,,,,,Brussels sprouts,10,7a
+896,,,P,,,,,,,,,,Brussels sprouts,10,7a
+897,,S,,,,,,,,,,,Brussels sprouts,114,7b
+898,,,T,,,,,,,,,,Brussels sprouts,114,7b
+899,,,P,,,,,,,,,,Brussels sprouts,114,7b
+900,,S,,,,,,,,,,,Brussels sprouts,13,8a
+901,,,,T,,,,,,,,,Brussels sprouts,13,8a
+902,,,,P,,,,,,,,,Brussels sprouts,13,8a
+903,,S,,,,,,,,,,,Brussels sprouts,12,8b
+904,,,,T,,,,,,,,,Brussels sprouts,12,8b
+905,,,,P,,,,,,,,,Brussels sprouts,12,8b
+906,,,,,,,,,P,,,,Brussels sprouts,115,9a
+907,,,,,,,,,P,,,,Brussels sprouts,116,9b
+908,,,,,,,,,,P,,,Brussels sprouts,15,10a
+909,,,,,,,,,,P,,,Brussels sprouts,100,10b
+1019,,,S,,,,,,,,,,Cabbage,107,2a
+1020,,,,T,,,,,,,,,Cabbage,107,2a
+1021,,,,P,P,P,,,,,,,Cabbage,107,2a
+1022,,,S,,,,,,,,,,Cabbage,108,2b
+1023,,,,T,T,,,,,,,,Cabbage,108,2b
+1024,,,,P,P,P,,,,,,,Cabbage,108,2b
+1025,,,S,,,,,,,,,,Cabbage,109,3a
+1026,,,,T,,,,,,,,,Cabbage,109,3a
+1027,,,,P,P,P,,,,,,,Cabbage,109,3a
+1028,,,S,,,,,,,,,,Cabbage,110,3b
+1029,,,,T,,,,,,,,,Cabbage,110,3b
+1030,,,,P,P,P,,,,,,,Cabbage,110,3b
+1031,,S,S,,,,,,,,,,Cabbage,111,4a
+1032,,,,T,,,,,,,,,Cabbage,111,4a
+1033,,,,P,P,P,,,P,,,,Cabbage,111,4a
+1034,,S,S,,,,,,,,,,Cabbage,112,4b
+1035,,,,T,,,,,,,,,Cabbage,112,4b
+1036,,,,P,P,P,,,,P,,,Cabbage,112,4b
+1037,,,S,,,,,,,,,,Cabbage,11,5a
+1038,,,,T,,,,,,,,,Cabbage,11,5a
+1039,,,,P,,,P,P,P,,,,Cabbage,11,5a
+1040,,,S,,,,,,,,,,Cabbage,14,5b
+1041,,,,T,,,,,,,,,Cabbage,14,5b
+1042,,,,P,,,P,P,P,,,,Cabbage,14,5b
+1043,,,S,,,,,,,,,,Cabbage,16,6a
+1044,,,,T,,,,,,,,,Cabbage,16,6a
+1045,,,,P,,,P,P,P,,,,Cabbage,16,6a
+1046,,,S,,,,,,,,,,Cabbage,113,6b
+1047,,,,T,,,,,,,,,Cabbage,113,6b
+1048,,,,P,,,P,P,P,,,,Cabbage,113,6b
+1049,P,P,P,,,,,P,P,,,,Cabbage,10,7a
+1050,P,P,P,,,,,P,P,,,,Cabbage,114,7b
+1051,P,P,P,,,,,,P,P,,,Cabbage,13,8a
+1052,P,P,P,,,,,,P,P,,,Cabbage,12,8b
+1053,,,,,,,,,,P,P,,Cabbage,115,9a
+1054,,,,,,,,,,P,P,,Cabbage,116,9b
+1055,,,,,,,,S,,,,,Cabbage,15,10a
+1056,,,,,,,,,T,,,,Cabbage,15,10a
+1057,,,,,,,,,P,P,,,Cabbage,15,10a
+1058,,,,,,,,S,,,,,Cabbage,100,10b
+1059,,,,,,,,,T,,,,Cabbage,100,10b
+1060,,,,,,,,,P,P,,,Cabbage,100,10b
+1109,,,S,,,,,,,,,,Cape Gooseberry,110,3b
+1110,,,,,T,,,,,,,,Cape Gooseberry,110,3b
+1111,,,,,P,,,,,,,,Cape Gooseberry,110,3b
+1112,,,S,,,,,,,,,,Cape Gooseberry,111,4a
+1113,,,,,T,,,,,,,,Cape Gooseberry,111,4a
+1114,,,,,P,,,,,,,,Cape Gooseberry,111,4a
+1115,,,S,,,,,,,,,,Cape Gooseberry,112,4b
+1116,,,,,T,,,,,,,,Cape Gooseberry,112,4b
+1117,,,,,P,P,,,,,,,Cape Gooseberry,112,4b
+1118,,,S,,,,,,,,,,Cape Gooseberry,11,5a
+1119,,,,,T,,,,,,,,Cape Gooseberry,11,5a
+1120,,,,,P,,,,,,,,Cape Gooseberry,11,5a
+1121,,,S,,,,,,,,,,Cape Gooseberry,14,5b
+1122,,,,,T,,,,,,,,Cape Gooseberry,14,5b
+1123,,,,,P,,,,,,,,Cape Gooseberry,14,5b
+1124,,S,,,,,,,,,,,Cape Gooseberry,16,6a
+1125,,,,T,,,,,,,,,Cape Gooseberry,16,6a
+1126,,,,P,P,,,,,,,,Cape Gooseberry,16,6a
+1127,,S,,,,,,,,,,,Cape Gooseberry,113,6b
+1128,,,,T,,,,,,,,,Cape Gooseberry,113,6b
+1129,,,,P,P,,,,,,,,Cape Gooseberry,113,6b
+1130,,S,,,,,,,,,,,Cape Gooseberry,10,7a
+1131,,,,T,,,,,,,,,Cape Gooseberry,10,7a
+1132,,,,P,P,,,,,,,,Cape Gooseberry,10,7a
+1133,,S,,,,,,,,,,,Cape Gooseberry,114,7b
+1134,,,,T,,,,,,,,,Cape Gooseberry,114,7b
+1135,,,,P,P,,,,,,,,Cape Gooseberry,114,7b
+1136,S,,,,,,,,,,,,Cape Gooseberry,13,8a
+1137,,,T,,,,,,,,,,Cape Gooseberry,13,8a
+1138,,,P,P,,,,,,,,,Cape Gooseberry,13,8a
+1139,S,,,,,,,,,,,,Cape Gooseberry,12,8b
+1140,,,T,,,,,,,,,,Cape Gooseberry,12,8b
+1141,,,P,P,,,,,,,,,Cape Gooseberry,12,8b
+1142,,,,,,,,,,,,S,Cape Gooseberry,115,9a
+1143,,,T,,,,,,,,,,Cape Gooseberry,115,9a
+1144,,,P,,,,,,P,,,,Cape Gooseberry,115,9a
+1145,,,,,,,,,,,,S,Cape Gooseberry,116,9b
+1146,,,T,,,,,,,,,,Cape Gooseberry,116,9b
+1147,,,P,,,,,,P,,,,Cape Gooseberry,116,9b
+1148,,,,,,,,,,,S,,Cape Gooseberry,15,10a
+1149,,T,,,,,,,,,,,Cape Gooseberry,15,10a
+1150,,P,,,,,,,,,,,Cape Gooseberry,15,10a
+1151,,,,,,,,,,,S,,Cape Gooseberry,100,10b
+1152,,T,,,,,,,,,,,Cape Gooseberry,100,10b
+1153,,P,,,,,,,,,,,Cape Gooseberry,100,10b
+1154,P,,,,,,,,,,,,Cape Gooseberry,101,11a
+1155,P,,,,,,,,,,,,Cape Gooseberry,102,11b
+1156,,,,,,,,,,,,P,Cape Gooseberry,104,12b
+1218,,,S,,,,,,,,,,Capsicum,107,2a
+1219,,,,,T,T,,,,,,,Capsicum,107,2a
+1220,,,,,P,P,,,,,,,Capsicum,107,2a
+1221,,,S,,,,,,,,,,Capsicum,108,2b
+1222,,,,,T,T,,,,,,,Capsicum,108,2b
+1223,,,,,P,P,,,,,,,Capsicum,108,2b
+1224,,,S,,,,,,,,,,Capsicum,109,3a
+1225,,,,,T,T,,,,,,,Capsicum,109,3a
+1226,,,,,P,P,,,,,,,Capsicum,109,3a
+1227,,,S,,,,,,,,,,Capsicum,110,3b
+1228,,,,,T,T,,,,,,,Capsicum,110,3b
+1229,,,,,P,P,,,,,,,Capsicum,110,3b
+1230,,S,S,,,,,,,,,,Capsicum,111,4a
+1231,,,,,T,T,,,,,,,Capsicum,111,4a
+1232,,,,,P,P,,,,,,,Capsicum,111,4a
+1233,,S,S,,,,,,,,,,Capsicum,112,4b
+1234,,,,,T,T,,,,,,,Capsicum,112,4b
+1235,,,,,P,P,,,,,,,Capsicum,112,4b
+1236,,S,S,,,,,,,,,,Capsicum,11,5a
+1237,,,,T,T,,,,,,,,Capsicum,11,5a
+1238,,,,P,P,,,,,,,,Capsicum,11,5a
+1239,,S,S,,,,,,,,,,Capsicum,14,5b
+1240,,,,T,T,,,,,,,,Capsicum,14,5b
+1241,,,,P,P,,,,,,,,Capsicum,14,5b
+1242,,S,S,,,,,,,,,,Capsicum,16,6a
+1243,,,,T,T,,,,,,,,Capsicum,16,6a
+1244,,,,P,P,,,,,,,,Capsicum,16,6a
+1245,,S,S,,,,,,,,,,Capsicum,113,6b
+1246,,,,T,T,,,,,,,,Capsicum,113,6b
+1247,,,,P,P,,,,,,,,Capsicum,113,6b
+1248,,S,S,,,,,,,,,,Capsicum,10,7a
+1249,,,,T,T,T,,,,,,,Capsicum,10,7a
+1250,,,,P,P,P,,,,,,,Capsicum,10,7a
+1251,,S,S,,,,,,,,,,Capsicum,114,7b
+1252,,,,T,T,T,,,,,,,Capsicum,114,7b
+1253,,,,P,P,P,,,,,,,Capsicum,114,7b
+1254,,S,S,,,,,,,,,,Capsicum,13,8a
+1255,,,T,T,,,,,,,,,Capsicum,13,8a
+1256,,,P,P,,,,,,,,,Capsicum,13,8a
+1257,,S,,,,,,,,,,,Capsicum,12,8b
+1258,,T,T,T,,,,,,,,,Capsicum,12,8b
+1259,,P,P,P,,,,,,,,,Capsicum,12,8b
+1260,,S,,,,,,,,,,,Capsicum,115,9a
+1261,,,T,T,,,,,,,,,Capsicum,115,9a
+1262,,,P,P,P,,,P,P,P,,,Capsicum,115,9a
+1263,,S,,,,,,,,,,,Capsicum,116,9b
+1264,,,T,T,,,,,,,,,Capsicum,116,9b
+1265,,,P,P,P,,,P,P,P,,,Capsicum,116,9b
+1266,S,,,,,,,,,,S,S,Capsicum,15,10a
+1267,,T,T,T,,,,,,,,,Capsicum,15,10a
+1268,,P,P,P,P,,,,P,,,,Capsicum,15,10a
+1269,S,,,,,,,,,,S,S,Capsicum,100,10b
+1270,,T,T,T,,,,,,,,,Capsicum,100,10b
+1271,,P,P,P,P,,,,P,,,,Capsicum,100,10b
+1272,,P,P,P,P,,,,,P,P,P,Capsicum,101,11a
+1273,,P,P,P,P,,,,,P,P,P,Capsicum,102,11b
+1274,P,P,P,P,,,,,P,P,P,,Capsicum,103,12a
+1275,P,P,P,P,,,,,P,P,P,,Capsicum,104,12b
+1276,P,P,P,,,,,,,,,P,Capsicum,105,13a
+1277,P,P,P,,,,,,,,,P,Capsicum,106,13b
+1310,,,S,,,,,,,,,,Cardoon,111,4a
+1311,,,,,T,,,,,,,,Cardoon,111,4a
+1312,,,S,,,,,,,,,,Cardoon,112,4b
+1313,,,,,T,,,,,,,,Cardoon,112,4b
+1314,,,,P,,,,,,,,,Cardoon,11,5a
+1315,,,,P,,,,,,,,,Cardoon,14,5b
+1316,,,,P,,,,,,,,,Cardoon,16,6a
+1317,,,,P,,,,,,,,,Cardoon,113,6b
+1318,,,,P,,,,,,,,,Cardoon,10,7a
+1319,,,,P,,,,,,,,,Cardoon,114,7b
+1320,,,P,,,,,,,,P,,Cardoon,13,8a
+1321,,,P,,,,,,,,P,,Cardoon,12,8b
+1322,,P,,,,,,,,,,P,Cardoon,115,9a
+1323,,P,,,,,,,,,,P,Cardoon,116,9b
+1324,,P,,,,,,,,,,P,Cardoon,15,10a
+1325,,P,,,,,,,,,,P,Cardoon,100,10b
+1357,,,,P,P,P,P,,,,,,Carrot,107,2a
+1358,,,,P,P,P,P,,,,,,Carrot,108,2b
+1359,,,,P,P,P,,,,,,,Carrot,109,3a
+1360,,,,P,P,P,,,,,,,Carrot,110,3b
+1361,,,,P,P,P,P,,,,,,Carrot,111,4a
+1362,,,,P,P,P,P,,,,,,Carrot,112,4b
+1363,,,P,P,P,P,P,,,,,,Carrot,11,5a
+1364,,,P,P,P,P,P,,,,,,Carrot,14,5b
+1365,,,P,P,P,P,P,,,,,,Carrot,16,6a
+1366,,,P,P,P,P,P,,,,,,Carrot,113,6b
+1367,P,P,P,,,,,P,P,,,,Carrot,10,7a
+1368,P,P,P,,,,,P,P,,,,Carrot,114,7b
+1369,,P,P,,,,,P,P,,,,Carrot,13,8a
+1370,,P,P,,,,,P,P,,,,Carrot,12,8b
+1371,P,P,,,,,,,,P,P,P,Carrot,115,9a
+1372,P,P,P,,,,,,P,P,P,P,Carrot,116,9b
+1373,P,P,,,,,,,,P,P,P,Carrot,15,10a
+1374,P,P,,,,,,,,P,P,P,Carrot,100,10b
+1433,,S,S,,,,,,,,,,Cauliflower,107,2a
+1434,,,,T,T,T,,,,,,,Cauliflower,107,2a
+1435,,S,S,,,,,,,,,,Cauliflower,108,2b
+1436,,,,T,T,T,,,,,,,Cauliflower,108,2b
+1437,,S,S,,,,,,,,,,Cauliflower,109,3a
+1438,,,,T,T,,,,,,,,Cauliflower,109,3a
+1439,,,,,,P,,,,,,,Cauliflower,109,3a
+1440,,S,S,,,,,,,,,,Cauliflower,110,3b
+1441,,,,T,T,,,,,,,,Cauliflower,110,3b
+1442,,,,,,P,,,,,,,Cauliflower,110,3b
+1443,,S,S,,,,,,,,,,Cauliflower,111,4a
+1444,,,,T,T,,,,,,,,Cauliflower,111,4a
+1445,,,,,,P,,,,,,,Cauliflower,111,4a
+1446,,S,S,,,,,,,,,,Cauliflower,112,4b
+1447,,,,T,T,,,,,,,,Cauliflower,112,4b
+1448,,,,,P,P,,,,,,,Cauliflower,112,4b
+1449,,S,S,,,,,,,,,,Cauliflower,11,5a
+1450,,,,T,,,,,,,,,Cauliflower,11,5a
+1451,,,,P,,,,,,,,,Cauliflower,11,5a
+1452,,S,S,,,,,,,,,,Cauliflower,14,5b
+1453,,,,T,,,,,,,,,Cauliflower,14,5b
+1454,,,,P,,,,,,,,,Cauliflower,14,5b
+1455,,,S,,,,,,,,,,Cauliflower,16,6a
+1456,,,,T,T,,,,,,,,Cauliflower,16,6a
+1457,,,,P,P,,,P,,,,,Cauliflower,16,6a
+1458,,,S,,,,,,,,,,Cauliflower,113,6b
+1459,,,,T,T,,,,,,,,Cauliflower,113,6b
+1460,,,,P,P,,,P,,,,,Cauliflower,113,6b
+1461,,S,,,,,,,,,,,Cauliflower,10,7a
+1462,,,T,,,,,,,,,,Cauliflower,10,7a
+1463,,,P,P,,,P,P,,,,,Cauliflower,10,7a
+1464,,P,P,P,,,,P,P,,,,Cauliflower,114,7b
+1465,S,,,,,,,,,,,,Cauliflower,13,8a
+1466,,T,T,,,,,,,,,,Cauliflower,13,8a
+1467,,,P,,,,,P,,,,,Cauliflower,13,8a
+1468,S,,,,,,,,,,,,Cauliflower,12,8b
+1469,,T,T,,,,,,,,,,Cauliflower,12,8b
+1470,,,P,,,,,P,,,,,Cauliflower,12,8b
+1471,,,,,,,,S,,,,,Cauliflower,115,9a
+1472,,,,,,,,,T,,,,Cauliflower,115,9a
+1473,,,,,,,,,S,,,,Cauliflower,116,9b
+1474,,,,,,,,,,T,,,Cauliflower,116,9b
+1475,P,,,,,,,,,P,P,P,Cauliflower,15,10a
+1476,P,,,,,,,,,P,P,P,Cauliflower,100,10b
+1535,,,S,,,,,,,,,,Celeriac,111,4a
+1536,,,,,T,,,,,,,,Celeriac,111,4a
+1537,,,,,P,,,,,,,,Celeriac,111,4a
+1538,,,S,,,,,,,,,,Celeriac,112,4b
+1539,,,,,T,T,,,,,,,Celeriac,112,4b
+1540,,,,,P,P,,,,,,,Celeriac,112,4b
+1541,,,S,,,,,,,,,,Celeriac,11,5a
+1542,,,,,T,,,,,,,,Celeriac,11,5a
+1543,,,,,P,,,,,,,,Celeriac,11,5a
+1544,,,S,,,,,,,,,,Celeriac,14,5b
+1545,,,,,T,,,,,,,,Celeriac,14,5b
+1546,,,,,P,,,,,,,,Celeriac,14,5b
+1547,S,S,,,,,,,,,,,Celeriac,16,6a
+1548,,,T,,,,,,,,,,Celeriac,16,6a
+1549,,,P,P,,,,,,,,,Celeriac,16,6a
+1550,,,S,S,,,,,,,,,Celeriac,113,6b
+1551,,,,,T,,,,,,,,Celeriac,113,6b
+1552,,,,,P,,,,,,,,Celeriac,113,6b
+1553,,S,S,,,,,,,,,,Celeriac,10,7a
+1554,,,,T,,,,,,,,,Celeriac,10,7a
+1555,,,,P,P,,,,P,,,,Celeriac,10,7a
+1556,,S,S,,,,,,,,,,Celeriac,114,7b
+1557,,,,T,,,,,,,,,Celeriac,114,7b
+1558,,,,P,P,,,,P,,,,Celeriac,114,7b
+1559,S,S,,,,,,,,,,,Celeriac,13,8a
+1560,,,T,,,,,,,,,,Celeriac,13,8a
+1561,,,P,P,,,,,,,,,Celeriac,13,8a
+1562,S,S,,,,,,,,,,,Celeriac,12,8b
+1563,,,T,,,,,,,,,,Celeriac,12,8b
+1564,,,P,P,,,,,,,,,Celeriac,12,8b
+1565,S,,,,,,,,,,,S,Celeriac,115,9a
+1566,,T,,,,,,,,,,,Celeriac,115,9a
+1567,,P,P,,,,,,,,,,Celeriac,115,9a
+1568,S,,,,,,,,,,,S,Celeriac,116,9b
+1569,,T,,,,,,,,,,,Celeriac,116,9b
+1570,,P,P,,,,,,,,,,Celeriac,116,9b
+1571,S,,,,,,,,,,,S,Celeriac,15,10a
+1572,,T,,,,,,,,,,,Celeriac,15,10a
+1573,,P,P,,,,,,,,,,Celeriac,15,10a
+1574,S,,,,,,,,,,,S,Celeriac,100,10b
+1575,,T,,,,,,,,,,,Celeriac,100,10b
+1576,,P,P,,,,,,,,,,Celeriac,100,10b
+1637,,,S,,,,,,,,,,Celery,107,2a
+1638,,,,,T,,,,,,,,Celery,107,2a
+1639,,,S,,,,,,,,,,Celery,108,2b
+1640,,,,,T,,,,,,,,Celery,108,2b
+1641,,,S,,,,,,,,,,Celery,109,3a
+1642,,,,,T,,,,,,,,Celery,109,3a
+1643,,,S,,,,,,,,,,Celery,110,3b
+1644,,,,,T,,,,,,,,Celery,110,3b
+1645,,S,,,,,,,,,,,Celery,111,4a
+1646,,,,,T,,,,,,,,Celery,111,4a
+1647,,S,,,,,,,,,,,Celery,112,4b
+1648,,,,,T,,,,,,,,Celery,112,4b
+1649,,S,S,,,,,,,,,,Celery,11,5a
+1650,,,,,T,T,,,,,,,Celery,11,5a
+1651,,S,S,,,,,,,,,,Celery,14,5b
+1652,,,,,T,T,,,,,,,Celery,14,5b
+1653,S,S,,,,,,,,,,,Celery,16,6a
+1654,,,,,T,T,,,,,,,Celery,16,6a
+1655,,S,S,,,,,,,,,,Celery,113,6b
+1656,,,,,T,T,,,,,,,Celery,113,6b
+1657,S,S,,,,,,,,,,,Celery,10,7a
+1658,,,,,T,,,,,,,,Celery,10,7a
+1659,,,,,P,P,,,,,,,Celery,10,7a
+1660,S,S,,,,,,,,,,,Celery,114,7b
+1661,,,,T,T,T,,,,,,,Celery,114,7b
+1662,,,,P,P,P,P,,,,,,Celery,114,7b
+1663,S,,,,,,,,,,,S,Celery,13,8a
+1664,,,P,P,,,,,,,,,Celery,13,8a
+1665,S,,,,,,,,,,,S,Celery,12,8b
+1666,,,P,P,,,,,,,,,Celery,12,8b
+1667,,,,,,,,,,,S,S,Celery,115,9a
+1668,T,T,,,,,,,,,,,Celery,115,9a
+1669,,,,,,,,,,,S,S,Celery,116,9b
+1670,T,T,,,,,,,,,,,Celery,116,9b
+1671,,,,,,,,S,,,,,Celery,15,10a
+1672,,,,,,,,,,T,,,Celery,15,10a
+1673,,,,,,,,,,P,,,Celery,15,10a
+1674,,,,,,,,S,,,,,Celery,100,10b
+1675,,,,,,,,,,T,,,Celery,100,10b
+1710,,,S,,,,,,,,,,Chicory,110,3b
+1711,,,,,T,,,,,,,,Chicory,110,3b
+1712,,,,S,,,,,,,,,Chicory,111,4a
+1713,,,,,,T,,,,,,,Chicory,111,4a
+1714,,,,S,,,,,,,,,Chicory,112,4b
+1715,,,,,,T,,,,,,,Chicory,112,4b
+1716,,,S,,,,,,,,,,Chicory,11,5a
+1717,,,,,T,,,,,,,,Chicory,11,5a
+1718,,,,P,P,,,,,,,,Chicory,11,5a
+1719,,,S,,,,,,,,,,Chicory,14,5b
+1720,,,,,T,,,,,,,,Chicory,14,5b
+1721,,,,P,P,,,,,,,,Chicory,14,5b
+1722,S,,,,,,,,,,,,Chicory,16,6a
+1723,,,T,,,,,,,,,,Chicory,16,6a
+1724,,,,,,,P,,,,,,Chicory,16,6a
+1725,S,,,,,,,,,,,,Chicory,113,6b
+1726,,,T,,,,,,,,,,Chicory,113,6b
+1727,,,,,,,P,,,,,,Chicory,113,6b
+1728,,S,,,,,,,,,,,Chicory,10,7a
+1729,,,,T,,,,,,,,,Chicory,10,7a
+1730,,S,,,,,,,,,,,Chicory,114,7b
+1731,,,,T,,,,,,,,,Chicory,114,7b
+1732,,,,,,,,,P,P,,,Chicory,13,8a
+1733,,,,,,,,,P,P,,,Chicory,12,8b
+1734,,,,,,,,,,,P,P,Chicory,115,9a
+1735,,,,,,,,,,,P,P,Chicory,116,9b
+1795,,,S,,,,,,,,,,Chilli peppers,107,2a
+1796,,,,,T,T,,,,,,,Chilli peppers,107,2a
+1797,,,S,,,,,,,,,,Chilli peppers,108,2b
+1798,,,,,T,T,,,,,,,Chilli peppers,108,2b
+1799,,,S,,,,,,,,,,Chilli peppers,109,3a
+1800,,,,,T,T,,,,,,,Chilli peppers,109,3a
+1801,,,S,,,,,,,,,,Chilli peppers,110,3b
+1802,,,,,T,T,,,,,,,Chilli peppers,110,3b
+1803,,,S,,,,,,,,,,Chilli peppers,111,4a
+1804,,,,,T,,,,,,,,Chilli peppers,111,4a
+1805,,,,,P,P,,,,,,,Chilli peppers,111,4a
+1806,,,S,,,,,,,,,,Chilli peppers,112,4b
+1807,,,,,T,,,,,,,,Chilli peppers,112,4b
+1808,,,,,P,P,,,,,,,Chilli peppers,112,4b
+1809,,,S,,,,,,,,,,Chilli peppers,11,5a
+1810,,,,,T,T,,,,,,,Chilli peppers,11,5a
+1811,,,,,P,P,,,,,,,Chilli peppers,11,5a
+1812,,S,S,,,,,,,,,,Chilli peppers,14,5b
+1813,,,,,T,T,,,,,,,Chilli peppers,14,5b
+1814,,,,,P,P,,,,,,,Chilli peppers,14,5b
+1815,,,S,,,,,,,,,,Chilli peppers,16,6a
+1816,,,,T,T,,,,,,,,Chilli peppers,16,6a
+1817,,,,P,P,,,,,,,,Chilli peppers,16,6a
+1818,,,S,,,,,,,,,,Chilli peppers,113,6b
+1819,,,,T,T,,,,,,,,Chilli peppers,113,6b
+1820,,,,P,P,,,,,,,,Chilli peppers,113,6b
+1821,,S,S,,,,,,,,,,Chilli peppers,10,7a
+1822,,,,,T,T,,,,,,,Chilli peppers,10,7a
+1823,,,,,P,P,,,,,,,Chilli peppers,10,7a
+1824,,S,S,,,,,,,,,,Chilli peppers,114,7b
+1825,,,,,T,T,,,,,,,Chilli peppers,114,7b
+1826,,,,,P,P,,,,,,,Chilli peppers,114,7b
+1827,S,S,,,,,,,,,,,Chilli peppers,13,8a
+1828,,,,T,T,,,,,,,,Chilli peppers,13,8a
+1829,,,,P,P,,,,,,,,Chilli peppers,13,8a
+1830,S,S,,,,,,,,,,,Chilli peppers,12,8b
+1831,,,,T,T,,,,,,,,Chilli peppers,12,8b
+1832,,,,P,P,,,,,,,,Chilli peppers,12,8b
+1833,S,S,,,,,,,,,,,Chilli peppers,115,9a
+1834,,,,T,T,,,,,,,,Chilli peppers,115,9a
+1835,,,P,P,P,,,,,,,,Chilli peppers,115,9a
+1836,S,S,,,,,,,,,,,Chilli peppers,116,9b
+1837,,,,T,T,,,,,,,,Chilli peppers,116,9b
+1838,,,P,P,P,,,,,,,,Chilli peppers,116,9b
+1839,S,,,,,,,,S,,,,Chilli peppers,15,10a
+1840,,T,,,,,,,,T,T,,Chilli peppers,15,10a
+1841,,P,P,,,,,,,P,P,P,Chilli peppers,15,10a
+1842,S,,,,,,,,,,,,Chilli peppers,100,10b
+1843,,T,,T,,,,,,,,,Chilli peppers,100,10b
+1844,,P,P,P,,,,,,,,,Chilli peppers,100,10b
+1845,P,P,P,,,,,,,,,,Chilli peppers,101,11a
+1846,P,P,P,,,,,,,,,,Chilli peppers,102,11b
+1847,P,P,P,,,,,,,,,,Chilli peppers,103,12a
+1848,P,P,P,,,,,,,,,,Chilli peppers,104,12b
+1849,P,P,P,,,,,,,,,,Chilli peppers,105,13a
+1850,P,P,P,,,,,,,,,P,Chilli peppers,106,13b
+1900,,,,,,S,,,,,,,Chinese cabbage,110,3b
+1901,,,,,,,T,,,,,,Chinese cabbage,110,3b
+1902,,,,,,,P,,,,,,Chinese cabbage,110,3b
+1903,,,,,,S,,,,,,,Chinese cabbage,111,4a
+1904,,,,,,,T,,,,,,Chinese cabbage,111,4a
+1905,,,,,,,P,,,,,,Chinese cabbage,111,4a
+1906,,,,,,S,,,,,,,Chinese cabbage,112,4b
+1907,,,,,,,T,,,,,,Chinese cabbage,112,4b
+1908,,,,,,,P,,,,,,Chinese cabbage,112,4b
+1909,,,,,S,,,,,,,,Chinese cabbage,11,5a
+1910,,,,,,T,,,,,,,Chinese cabbage,11,5a
+1911,,,,,,P,,,,,,,Chinese cabbage,11,5a
+1912,,,,,S,,,,,,,,Chinese cabbage,14,5b
+1913,,,,,,T,,,,,,,Chinese cabbage,14,5b
+1914,,,,,,P,,,,,,,Chinese cabbage,14,5b
+1915,,,,,S,,,,,,,,Chinese cabbage,16,6a
+1916,,,,,,T,,,,,,,Chinese cabbage,16,6a
+1917,,,,,,P,P,,,,,,Chinese cabbage,16,6a
+1918,,,,,S,,,,,,,,Chinese cabbage,113,6b
+1919,,,,,,T,,,,,,,Chinese cabbage,113,6b
+1920,,,,,,P,P,,,,,,Chinese cabbage,113,6b
+1921,,,,,,,S,,,,,,Chinese cabbage,10,7a
+1922,,,,,,,,T,,,,,Chinese cabbage,10,7a
+1923,,,,,,,,P,,,,,Chinese cabbage,10,7a
+1924,,,,,,,S,,,,,,Chinese cabbage,114,7b
+1925,,,,,,,,T,,,,,Chinese cabbage,114,7b
+1926,,,,,,,,P,,,,,Chinese cabbage,114,7b
+1927,,,,,,,S,,,,,,Chinese cabbage,13,8a
+1928,,,,,,,,T,,,,,Chinese cabbage,13,8a
+1929,,,,,,,,P,,,,,Chinese cabbage,13,8a
+1930,,,,,,,S,,,,,,Chinese cabbage,12,8b
+1931,,,,,,,,T,,,,,Chinese cabbage,12,8b
+1932,,,,,,,,P,,,,,Chinese cabbage,12,8b
+1933,,,,,,,,,S,,,,Chinese cabbage,115,9a
+1934,,,,,,,,,,P,,,Chinese cabbage,115,9a
+1935,,,,,,,,,S,,,,Chinese cabbage,116,9b
+1936,,,,,,,,,,P,,,Chinese cabbage,116,9b
+1937,,,,,,,,,S,,,,Chinese cabbage,15,10a
+1938,,,,,,,,,,T,,,Chinese cabbage,15,10a
+1939,,,,,,,,,,P,,,Chinese cabbage,15,10a
+1940,,,,,,,,,S,,,,Chinese cabbage,100,10b
+1941,,,,,,,,,,P,,,Chinese cabbage,100,10b
+1942,S,,,,,,,,,,,,Chinese cabbage,101,11a
+1943,,P,,,,,,,,,,,Chinese cabbage,101,11a
+1944,S,,,,,,,,,,,,Chinese cabbage,102,11b
+1945,,P,,,,,,,,,,,Chinese cabbage,102,11b
+2012,,,,S,,,,,,,,,Chives,110,3b
+2013,,,,,,T,,,,,,,Chives,110,3b
+2014,,,,,P,P,,,,,,,Chives,110,3b
+2015,,,,S,,,,,,,,,Chives,111,4a
+2016,,,,,,T,,,,,,,Chives,111,4a
+2017,,,,,P,P,,,,,,,Chives,111,4a
+2018,,,,S,,,,,,,,,Chives,112,4b
+2019,,,,,,T,,,,,,,Chives,112,4b
+2020,,,,,P,P,,,,,,,Chives,112,4b
+2021,,,S,,,,S,,,,,,Chives,11,5a
+2022,,,,,T,,,T,,,,,Chives,11,5a
+2023,,,,P,P,,,,,,,,Chives,11,5a
+2024,,,S,,,,S,,,,,,Chives,14,5b
+2025,,,,,T,,,T,,,,,Chives,14,5b
+2026,,,,P,P,,,,,,,,Chives,14,5b
+2027,,,S,,,,S,,,,,,Chives,16,6a
+2028,,,,,T,,,T,,,,,Chives,16,6a
+2029,,,,P,P,,,,,,,,Chives,16,6a
+2030,,,S,,,,S,,,,,,Chives,113,6b
+2031,,,,,T,,,T,,,,,Chives,113,6b
+2032,,,,P,P,,,,,,,,Chives,113,6b
+2033,,,S,,,,,S,,,,,Chives,10,7a
+2034,,,,,T,,,,,T,,,Chives,10,7a
+2035,,,,P,P,,,,P,P,,,Chives,10,7a
+2036,,,S,,,,,S,,,,,Chives,114,7b
+2037,,,,,T,,,,,T,,,Chives,114,7b
+2038,,,,P,P,,,,P,P,,,Chives,114,7b
+2039,,S,,,,,,S,,,,,Chives,13,8a
+2040,,,,T,,,,,,T,,,Chives,13,8a
+2041,,,P,P,,,,,P,P,,,Chives,13,8a
+2042,,S,,,,,S,,,,,,Chives,12,8b
+2043,,,,T,,,,,T,,,,Chives,12,8b
+2044,,,P,P,,,,P,P,,,,Chives,12,8b
+2045,,S,,,,,,,,,,,Chives,115,9a
+2046,,,T,,,,,,,,,,Chives,115,9a
+2047,,,P,,,,,,,,,,Chives,115,9a
+2048,,S,,,,,,,,,,,Chives,116,9b
+2049,,,T,,,,,,,,,,Chives,116,9b
+2050,,,P,,,,,,,,,,Chives,116,9b
+2051,,,,,,,,S,,,,,Chives,15,10a
+2052,,,,,,,,,T,,,,Chives,15,10a
+2053,,,,,,,,,P,P,P,P,Chives,15,10a
+2054,,,,,,,,,S,,,,Chives,100,10b
+2055,,,,,,,,,,T,,,Chives,100,10b
+2056,,,,,,,,,,P,P,P,Chives,100,10b
+2057,P,P,,,,,,,,,,,Chives,101,11a
+2072,,,,P,,,,,,,,,Choko/Chayote,115,9a
+2073,,,,P,,,,,,,,,Choko/Chayote,116,9b
+2074,,,P,,,,,,,,,,Choko/Chayote,15,10a
+2075,,,P,,,,,,,,,,Choko/Chayote,100,10b
+2076,,P,,,,,,,,,,,Choko/Chayote,101,11a
+2077,,P,,,,,,,,,,,Choko/Chayote,102,11b
+2078,,P,,,,,,,,,,,Choko/Chayote,103,12a
+2079,,P,,,,,,,,,,,Choko/Chayote,104,12b
+2080,P,,,,,,,,,,,,Choko/Chayote,105,13a
+2081,P,,,,,,,,,,,,Choko/Chayote,106,13b
+2123,,,S,,,,,,,,,,Collards,107,2a
+2124,,,,,T,,,,,,,,Collards,107,2a
+2125,,,,P,P,P,P,,,,,,Collards,107,2a
+2126,,,S,,,,,,,,,,Collards,108,2b
+2127,,,,,T,,,,,,,,Collards,108,2b
+2128,,,,P,P,P,P,,,,,,Collards,108,2b
+2129,,,,P,P,P,,,,,,,Collards,109,3a
+2130,,,,P,P,P,,,,,,,Collards,110,3b
+2131,,,,P,P,P,,,,,,,Collards,111,4a
+2132,,,,P,P,P,,,,,,,Collards,112,4b
+2133,,,S,,,,,,,,,,Collards,11,5a
+2134,,,,T,,,,,,,,,Collards,11,5a
+2135,,,,P,P,,,,,,,,Collards,11,5a
+2136,,,S,,,,,,,,,,Collards,14,5b
+2137,,,,T,,,,,,,,,Collards,14,5b
+2138,,,,P,P,,,,,,,,Collards,14,5b
+2139,,,S,,,,,,,,,,Collards,16,6a
+2140,,,,T,T,,,,,,,,Collards,16,6a
+2141,,,,P,P,,P,P,,,,,Collards,16,6a
+2142,,,S,,,,,,,,,,Collards,113,6b
+2143,,,,T,T,,,,,,,,Collards,113,6b
+2144,,,,P,P,,P,P,,,,,Collards,113,6b
+2145,,P,P,,,,,P,P,,,,Collards,10,7a
+2146,,P,P,P,,,,P,P,,,,Collards,114,7b
+2147,,P,P,,,,,P,P,,,,Collards,13,8a
+2148,,P,P,,,,,P,P,,,,Collards,12,8b
+2149,,,,,,,S,,,,,,Collards,115,9a
+2150,,,,,,,,,T,T,T,,Collards,115,9a
+2151,,P,P,,,,,,P,P,,,Collards,115,9a
+2152,,,,,,,S,,,,,,Collards,116,9b
+2153,,,,,,,,,T,,,,Collards,116,9b
+2154,,P,P,,,,,,P,P,,,Collards,116,9b
+2155,P,P,,,,,,,P,P,P,P,Collards,15,10a
+2156,,,,,,,S,,,,,,Collards,100,10b
+2157,,,,,,,,T,T,,,,Collards,100,10b
+2158,P,P,,,,,,P,P,P,P,P,Collards,100,10b
+2204,,,,S,,,,,,,,,Coriander,110,3b
+2205,,,,,,T,,,,,,,Coriander,110,3b
+2206,,,,,P,P,,,,,,,Coriander,110,3b
+2207,,,,S,,,,,,,,,Coriander,111,4a
+2208,,,,,,T,,,,,,,Coriander,111,4a
+2209,,,,,P,P,,,,,,,Coriander,111,4a
+2210,,,,S,,,,,,,,,Coriander,112,4b
+2211,,,,,,T,,,,,,,Coriander,112,4b
+2212,,,,,P,P,,,,,,,Coriander,112,4b
+2213,,,S,,,,,,,,,,Coriander,11,5a
+2214,,,,,T,,,,,,,,Coriander,11,5a
+2215,,,,P,P,,,,,,,,Coriander,11,5a
+2216,,,S,,,,,,,,,,Coriander,14,5b
+2217,,,,,T,,,,,,,,Coriander,14,5b
+2218,,,,P,P,,,,,,,,Coriander,14,5b
+2219,,,S,,,,,,,,,,Coriander,16,6a
+2220,,,,,T,,,,,,,,Coriander,16,6a
+2221,,,,P,P,,,,,,,,Coriander,16,6a
+2222,,,S,,,,,,,,,,Coriander,113,6b
+2223,,,,,T,,,,,,,,Coriander,113,6b
+2224,,,,P,P,,,,,,,,Coriander,113,6b
+2225,,,S,,,,,,,,,,Coriander,10,7a
+2226,,,,,T,,,,,,,,Coriander,10,7a
+2227,,,,P,P,,,,,,,,Coriander,10,7a
+2228,,,S,,,,,,,,,,Coriander,114,7b
+2229,,,,,T,,,,,,,,Coriander,114,7b
+2230,,,,P,P,,,,,,,,Coriander,114,7b
+2231,,S,,,,,,,,,,,Coriander,13,8a
+2232,,,,T,,,,,,,,,Coriander,13,8a
+2233,,,P,P,,,,,,,,,Coriander,13,8a
+2234,,S,,,,,,,,,,,Coriander,12,8b
+2235,,,,T,,,,,,,,,Coriander,12,8b
+2236,,,P,P,,,,,,,,,Coriander,12,8b
+2237,S,,,,,,,,,,,,Coriander,115,9a
+2238,,,T,,,,,,,,,,Coriander,115,9a
+2239,,P,P,,,,,,,,,,Coriander,115,9a
+2240,S,,,,,,,,,,,,Coriander,116,9b
+2241,,,T,,,,,,,,,,Coriander,116,9b
+2242,,P,P,,,,,,,,,,Coriander,116,9b
+2243,S,,,,,,,,,,,,Coriander,15,10a
+2244,,,T,,,,,,,,,,Coriander,15,10a
+2245,,P,P,,,,,,,,,,Coriander,15,10a
+2246,S,,,,,,,,,,,,Coriander,100,10b
+2247,,,T,,,,,,,,,,Coriander,100,10b
+2248,,P,P,,,,,,,,,,Coriander,100,10b
+2249,P,P,,,,,,,,,,,Coriander,101,11a
+2250,P,P,,,,,,,,,,,Coriander,102,11b
+2251,,,,,,,,,,,,P,Coriander,103,12a
+2252,P,,,,,,,,,,,,Coriander,104,12b
+2282,,,,P,,,,,,,,,Corn Salad,107,2a
+2283,,,,P,,,,,,,,,Corn Salad,108,2b
+2284,,,P,,,,,,,,,,Corn Salad,109,3a
+2285,,,P,,,,,,,,,,Corn Salad,110,3b
+2286,,,P,,,,,,,,,,Corn Salad,111,4a
+2287,,,P,,,,,,,,,,Corn Salad,112,4b
+2288,,,P,,,,,,,,,,Corn Salad,11,5a
+2289,,,P,,,,,,,,,,Corn Salad,14,5b
+2290,,,P,P,,,,,,,,,Corn Salad,16,6a
+2291,,,P,P,,,,,,,,,Corn Salad,113,6b
+2292,,P,,,,,,,,P,,,Corn Salad,10,7a
+2293,,P,,,,,,,,P,,,Corn Salad,114,7b
+2294,,P,P,,,,,,,,P,,Corn Salad,13,8a
+2295,,P,P,,,,,,,,P,,Corn Salad,12,8b
+2296,P,,,,,,,,,,,P,Corn Salad,115,9a
+2297,P,,,,,,,,,,,P,Corn Salad,116,9b
+2305,,,,P,P,,,,,,,,Cowpeas,11,5a
+2306,,,,P,P,,,,,,,,Cowpeas,14,5b
+2307,,,,P,P,,,,,,,,Cowpeas,16,6a
+2308,,,,P,P,,,,,,,,Cowpeas,113,6b
+2309,,,,P,P,,,,,,,,Cowpeas,10,7a
+2310,,,,P,P,P,,,,,,,Cowpeas,114,7b
+2311,,,P,P,P,,,,,,,,Cowpeas,13,8a
+2312,,,P,P,P,,,,,,,,Cowpeas,12,8b
+2313,,,P,P,P,P,P,P,,,,,Cowpeas,115,9a
+2314,,,P,P,P,P,P,P,,,,,Cowpeas,116,9b
+2315,,,,P,P,P,P,P,,,,,Cowpeas,15,10a
+2316,,,P,P,P,P,P,P,,,,,Cowpeas,100,10b
+2380,,,,S,,,,,,,,,Cucumber,107,2a
+2381,,,,,T,T,,,,,,,Cucumber,107,2a
+2382,,,,S,,,,,,,,,Cucumber,108,2b
+2383,,,,,T,T,,,,,,,Cucumber,108,2b
+2384,,,,S,S,,,,,,,,Cucumber,109,3a
+2385,,,,,T,T,T,,,,,,Cucumber,109,3a
+2386,,,,,P,P,,,,,,,Cucumber,109,3a
+2387,,,,S,S,,,,,,,,Cucumber,110,3b
+2388,,,,,T,T,T,,,,,,Cucumber,110,3b
+2389,,,,,P,P,,,,,,,Cucumber,110,3b
+2390,,,,S,S,,,,,,,,Cucumber,111,4a
+2391,,,,,T,T,T,,,,,,Cucumber,111,4a
+2392,,,,,P,P,,,,,,,Cucumber,111,4a
+2393,,,,S,S,,,,,,,,Cucumber,112,4b
+2394,,,,,T,T,T,,,,,,Cucumber,112,4b
+2395,,,,,P,P,,,,,,,Cucumber,112,4b
+2396,,,,S,S,,,,,,,,Cucumber,11,5a
+2397,,,,,T,T,T,,,,,,Cucumber,11,5a
+2398,,,,,P,P,,,,,,,Cucumber,11,5a
+2399,,,,S,S,,,,,,,,Cucumber,14,5b
+2400,,,,,T,T,T,,,,,,Cucumber,14,5b
+2401,,,,,P,P,,,,,,,Cucumber,14,5b
+2402,,,,S,S,,,,,,,,Cucumber,16,6a
+2403,,,,,T,T,T,,,,,,Cucumber,16,6a
+2404,,,,,P,P,,,,,,,Cucumber,16,6a
+2405,,,,S,S,,,,,,,,Cucumber,113,6b
+2406,,,,,T,T,T,,,,,,Cucumber,113,6b
+2407,,,,,P,P,,,,,,,Cucumber,113,6b
+2408,,,S,S,S,,,,,,,,Cucumber,10,7a
+2409,,,,T,T,T,T,,,,,,Cucumber,10,7a
+2410,,,,P,P,P,,,,,,,Cucumber,10,7a
+2411,,,S,S,S,,,,,,,,Cucumber,114,7b
+2412,,,,T,T,T,T,,,,,,Cucumber,114,7b
+2413,,,,P,P,P,,,,,,,Cucumber,114,7b
+2414,,S,S,S,S,,,,,,,,Cucumber,13,8a
+2415,,,,T,T,T,T,,,,,,Cucumber,13,8a
+2416,,,,P,P,P,,,,,,,Cucumber,13,8a
+2417,,S,S,S,S,,,,,,,,Cucumber,12,8b
+2418,,,,T,T,T,T,,,,,,Cucumber,12,8b
+2419,,,,P,P,P,,,,,,,Cucumber,12,8b
+2420,,S,S,S,S,,,,,,,,Cucumber,115,9a
+2421,,,,T,T,T,T,,,,,,Cucumber,115,9a
+2422,,,P,P,P,P,,,,,,,Cucumber,115,9a
+2423,,S,S,S,S,,,,,,,,Cucumber,116,9b
+2424,,,,T,T,T,T,,,,,,Cucumber,116,9b
+2425,,,P,P,P,P,,,,,,,Cucumber,116,9b
+2426,,S,S,S,S,S,S,S,,,,,Cucumber,15,10a
+2427,,,,T,T,T,T,T,T,,,,Cucumber,15,10a
+2428,,,P,P,P,P,P,P,,,,,Cucumber,15,10a
+2429,,S,S,S,S,S,S,S,,,,,Cucumber,100,10b
+2430,,,,T,T,T,T,T,T,,,,Cucumber,100,10b
+2431,,,P,P,P,P,P,P,,,,,Cucumber,100,10b
+2432,S,S,S,,,,,S,S,S,S,S,Cucumber,101,11a
+2433,T,T,T,T,,,,,T,T,T,T,Cucumber,101,11a
+2434,P,P,P,,,,,P,P,P,P,P,Cucumber,101,11a
+2435,S,S,S,,,,,S,S,S,S,S,Cucumber,102,11b
+2436,T,T,T,T,,,,,T,T,T,T,Cucumber,102,11b
+2437,P,P,P,,,,,P,P,P,P,P,Cucumber,102,11b
+2438,S,S,S,,,,,S,S,S,S,S,Cucumber,103,12a
+2439,T,T,T,T,,,,,T,T,T,T,Cucumber,103,12a
+2440,P,P,P,,,,,P,P,P,P,P,Cucumber,103,12a
+2441,S,S,S,,,,,S,S,S,S,S,Cucumber,104,12b
+2442,T,T,T,T,,,,,T,T,T,T,Cucumber,104,12b
+2443,P,P,P,,,,,P,P,P,P,P,Cucumber,104,12b
+2470,,,,,,P,,,,,,,Daikon,107,2a
+2471,,,,,,P,,,,,,,Daikon,108,2b
+2472,,,,,,,P,,,,,,Daikon,109,3a
+2473,,,,,,,P,,,,,,Daikon,110,3b
+2474,,,,,,,P,,,,,,Daikon,111,4a
+2475,,,,,,,P,,,,,,Daikon,112,4b
+2476,,,,,P,,,,,,,,Daikon,11,5a
+2477,,,,,P,,,,,,,,Daikon,14,5b
+2478,,,,,P,,,,,,,,Daikon,16,6a
+2479,,,,,P,,,,,,,,Daikon,113,6b
+2480,,,,P,,,,,,,,,Daikon,10,7a
+2481,,,,P,,,,,,,,,Daikon,114,7b
+2482,,,P,,,,,,P,,,,Daikon,13,8a
+2483,,,P,,,,,,P,,,,Daikon,12,8b
+2484,,P,,,,,,,,P,,,Daikon,115,9a
+2485,,P,,,,,,,,P,,,Daikon,116,9b
+2486,,P,,,,,,,,,,,Daikon,15,10a
+2487,,P,,,,,,,,,P,,Daikon,100,10b
+2488,,,,,,,,,,,,P,Daikon,101,11a
+2489,,,,,,,,,,,,P,Daikon,102,11b
+2527,,,,,P,,,,,,,,Dill,107,2a
+2528,,,,,P,,,,,,,,Dill,108,2b
+2529,,,,,P,,,,,,,,Dill,109,3a
+2530,,,,,P,,,,,,,,Dill,110,3b
+2531,,,,,P,P,,,,,,,Dill,111,4a
+2532,,,,,P,P,,,,,,,Dill,112,4b
+2533,,,,,P,P,,,,,,,Dill,11,5a
+2534,,,,,P,P,,,,,,,Dill,14,5b
+2535,,,,P,P,,,,,,,,Dill,16,6a
+2536,,,,P,P,,,,,,,,Dill,113,6b
+2537,,,,P,P,P,,,,,,,Dill,10,7a
+2538,,,,P,P,P,,,,,,,Dill,114,7b
+2539,,,,P,P,,,,,,,,Dill,13,8a
+2540,,,P,,P,,,,,,,,Dill,12,8b
+2541,,P,,,,,,,,,,,Dill,115,9a
+2542,,P,,,,,,,,,,,Dill,116,9b
+2543,,P,,,,,,,,,,,Dill,15,10a
+2544,,P,,,,,,,,,,,Dill,100,10b
+2545,P,,,,,,,,,,P,P,Dill,101,11a
+2546,P,,,,,,,,,,P,P,Dill,102,11b
+2547,P,,,,,,,,,,P,P,Dill,103,12a
+2548,P,,,,,,,,,,P,P,Dill,104,12b
+2549,P,,,,,,,,,,,P,Dill,105,13a
+2550,,,,,,,,,,,,P,Dill,106,13b
+2605,,,S,,,,,,,,,,Eggplant,109,3a
+2606,,,,,T,,,,,,,,Eggplant,109,3a
+2607,,,,,P,,,,,,,,Eggplant,109,3a
+2608,,,S,,,,,,,,,,Eggplant,110,3b
+2609,,,,,T,,,,,,,,Eggplant,110,3b
+2610,,,,,P,,,,,,,,Eggplant,110,3b
+2611,,,S,,,,,,,,,,Eggplant,111,4a
+2612,,,,T,T,,,,,,,,Eggplant,111,4a
+2613,,,,P,P,,,,,,,,Eggplant,111,4a
+2614,,,S,,,,,,,,,,Eggplant,112,4b
+2615,,,,T,T,,,,,,,,Eggplant,112,4b
+2616,,,,P,P,,,,,,,,Eggplant,112,4b
+2617,,S,S,,,,,,,,,,Eggplant,11,5a
+2618,,,,,T,,,,,,,,Eggplant,11,5a
+2619,,,,,P,,,,,,,,Eggplant,11,5a
+2620,,S,S,,,,,,,,,,Eggplant,14,5b
+2621,,,,,T,,,,,,,,Eggplant,14,5b
+2622,,,,,P,,,,,,,,Eggplant,14,5b
+2623,,S,S,,,,,,,,,,Eggplant,16,6a
+2624,,,,,T,,,,,,,,Eggplant,16,6a
+2625,,,,,P,,,,,,,,Eggplant,16,6a
+2626,,S,S,,,,,,,,,,Eggplant,113,6b
+2627,,,,,T,,,,,,,,Eggplant,113,6b
+2628,,,,,P,,,,,,,,Eggplant,113,6b
+2629,,S,S,,,,,,,,,,Eggplant,10,7a
+2630,,,,T,T,,,,,,,,Eggplant,10,7a
+2631,,,,P,P,,,,,,,,Eggplant,10,7a
+2632,,S,S,,,,,,,,,,Eggplant,114,7b
+2633,,,,T,T,,,,,,,,Eggplant,114,7b
+2634,,,,P,P,,,,,,,,Eggplant,114,7b
+2635,,S,,,,,,,,,,,Eggplant,13,8a
+2636,,T,T,,,,,,,,,,Eggplant,13,8a
+2637,,P,P,,,,,,,,,,Eggplant,13,8a
+2638,,S,,,,,,,,,,,Eggplant,12,8b
+2639,,T,T,,,,,,,,,,Eggplant,12,8b
+2640,,P,P,,,,,,,,,,Eggplant,12,8b
+2641,,S,,,,,,,,,,,Eggplant,115,9a
+2642,,,P,P,P,,,,,,,,Eggplant,115,9a
+2643,,S,,,,,,,,,,,Eggplant,116,9b
+2644,,,P,P,P,,,,,,,,Eggplant,116,9b
+2645,S,S,,,,,,,,,,,Eggplant,15,10a
+2646,,P,P,,,,,P,P,,,,Eggplant,15,10a
+2647,S,S,,,,,,,,,,,Eggplant,100,10b
+2648,,P,P,,,,,P,P,,,,Eggplant,100,10b
+2649,P,P,P,,,,,,,P,,,Eggplant,101,11a
+2650,P,P,P,,,,,,,P,,,Eggplant,102,11b
+2651,P,P,P,,,,,,,,,,Eggplant,103,12a
+2652,P,P,P,,,,,,,,,,Eggplant,104,12b
+2653,P,,,,,,,,,,,,Eggplant,105,13a
+2654,P,,,,,,,,,,,,Eggplant,106,13b
+2698,,,S,,,,,,,,,,Endive,109,3a
+2699,,,,T,,,,,,,,,Endive,109,3a
+2700,,,,P,,,,,,,,,Endive,109,3a
+2701,,,S,,,,,,,,,,Endive,110,3b
+2702,,,,T,,,,,,,,,Endive,110,3b
+2703,,,,P,,,,,,,,,Endive,110,3b
+2704,,,S,,,,,,,,,,Endive,111,4a
+2705,,,,T,T,,,,,,,,Endive,111,4a
+2706,,,,P,P,,,,,,,,Endive,111,4a
+2707,,,S,,,,,,,,,,Endive,112,4b
+2708,,,,T,T,,,,,,,,Endive,112,4b
+2709,,,,P,P,,,,,,,,Endive,112,4b
+2710,,,S,,,,,,,,,,Endive,11,5a
+2711,,,,T,T,,,,,,,,Endive,11,5a
+2712,,,,P,P,P,,,,,,,Endive,11,5a
+2713,,,S,,,,,,,,,,Endive,14,5b
+2714,,,,T,T,,,,,,,,Endive,14,5b
+2715,,,,P,P,P,,,,,,,Endive,14,5b
+2716,,,S,,,,,,,,,,Endive,16,6a
+2717,,,,T,T,,,,,,,,Endive,16,6a
+2718,,,,P,P,P,,,,,,,Endive,16,6a
+2719,,,S,,,,,,,,,,Endive,113,6b
+2720,,,,T,T,,,,,,,,Endive,113,6b
+2721,,,,P,P,P,,,,,,,Endive,113,6b
+2722,,,S,,,,,,,,,,Endive,10,7a
+2723,,,,T,T,,,,,,,,Endive,10,7a
+2724,,,,P,P,P,,,,,,,Endive,10,7a
+2725,,,S,,,,,,,,,,Endive,114,7b
+2726,,,,T,T,,,,,,,,Endive,114,7b
+2727,,,,P,P,P,,,,,,,Endive,114,7b
+2728,,S,,,,,,,,,,,Endive,13,8a
+2729,,,T,T,,,,,,,,,Endive,13,8a
+2730,,,P,P,P,,,,,,,,Endive,13,8a
+2731,,S,,,,,,,,,,,Endive,12,8b
+2732,,,T,T,,,,,,,,,Endive,12,8b
+2733,,,P,P,P,,,,,,,,Endive,12,8b
+2734,S,,,,,,,,,,,,Endive,115,9a
+2735,,T,,,,,,,,,,,Endive,115,9a
+2736,,P,P,,,,,,P,,,,Endive,115,9a
+2737,S,,,,,,,,,,,,Endive,116,9b
+2738,,T,,,,,,,,,,,Endive,116,9b
+2739,,P,P,,,,,,P,,,,Endive,116,9b
+2740,S,,,,,,,,,,,,Endive,15,10a
+2741,,T,,,,,,,,,,,Endive,15,10a
+2742,,P,P,,,,,,P,,,,Endive,15,10a
+2743,S,,,,,,,,,,,,Endive,100,10b
+2744,,T,,,,,,,,,,,Endive,100,10b
+2745,,P,P,,,,,,P,,,,Endive,100,10b
+2787,,,,S,,,,,,,,,Fennel,110,3b
+2788,,,,,T,,,,,,,,Fennel,110,3b
+2789,,,,,,P,,,,,,,Fennel,110,3b
+2790,,,,S,,,,,,,,,Fennel,111,4a
+2791,,,,,T,,,,,,,,Fennel,111,4a
+2792,,,,,,P,,,,,,,Fennel,111,4a
+2793,,,,S,,,,,,,,,Fennel,112,4b
+2794,,,,,T,,,,,,,,Fennel,112,4b
+2795,,,,,P,P,,,,,,,Fennel,112,4b
+2796,,,S,,,,,,,,,,Fennel,11,5a
+2797,,,,T,,,,,,,,,Fennel,11,5a
+2798,,,,,P,,,,,,,,Fennel,11,5a
+2799,,,S,,,,,,,,,,Fennel,14,5b
+2800,,,,T,,,,,,,,,Fennel,14,5b
+2801,,,,,P,,,,,,,,Fennel,14,5b
+2802,,,S,,,,,,,,,,Fennel,16,6a
+2803,,,,T,,,,,,,,,Fennel,16,6a
+2804,,,,,P,,,,,,,,Fennel,16,6a
+2805,,,S,,,,,,,,,,Fennel,113,6b
+2806,,,,T,,,,,,,,,Fennel,113,6b
+2807,,,,,P,,,,,,,,Fennel,113,6b
+2808,,,S,,,,,,,,,,Fennel,10,7a
+2809,,,,T,,,,,,,,,Fennel,10,7a
+2810,,,,,P,,,,,,,,Fennel,10,7a
+2811,,,S,,,,,,,,,,Fennel,114,7b
+2812,,,,T,,,,,,,,,Fennel,114,7b
+2813,,,,,P,,,,,,,,Fennel,114,7b
+2814,,S,,,,,,,,,,,Fennel,13,8a
+2815,,,T,,,,,,,,,,Fennel,13,8a
+2816,,,,P,,,,,,,,,Fennel,13,8a
+2817,,S,,,,,,,,,,,Fennel,12,8b
+2818,,,T,,,,,,,,,,Fennel,12,8b
+2819,,,,P,,,,,,,,,Fennel,12,8b
+2820,,S,,,,,,,,,,,Fennel,115,9a
+2821,,,T,,,,,,,,,,Fennel,115,9a
+2822,,,,P,,,,,P,P,,,Fennel,115,9a
+2823,,,,,,,,,P,P,,,Fennel,116,9b
+2824,S,,,,,,,,,,,,Fennel,15,10a
+2825,,T,,,,,,,,,,,Fennel,15,10a
+2826,,P,P,,,,,,,,,,Fennel,15,10a
+2827,S,,,,,,,,,,,,Fennel,100,10b
+2828,,T,,,,,,,,,,,Fennel,100,10b
+2829,,P,P,,,,,,,,,,Fennel,100,10b
+2830,,,,,,,,,,,P,P,Fennel,101,11a
+2831,,,,,,,,,,,P,P,Fennel,102,11b
+2832,P,,,,,,,,,,,P,Fennel,103,12a
+2833,P,,,,,,,,,,,P,Fennel,104,12b
+2834,P,,,,,,,,,,,,Fennel,105,13a
+2835,P,,,,,,,,,,,,Fennel,106,13b
+2878,,,,S,,,,,,,,,Florence Fennel,110,3b
+2879,,,,,T,,,,,,,,Florence Fennel,110,3b
+2880,,,,,,P,,,,,,,Florence Fennel,110,3b
+2881,,,,S,,,,,,,,,Florence Fennel,111,4a
+2882,,,,,T,,,,,,,,Florence Fennel,111,4a
+2883,,,,,,P,,,,,,,Florence Fennel,111,4a
+2884,,,,S,,,,,,,,,Florence Fennel,112,4b
+2885,,,,,T,,,,,,,,Florence Fennel,112,4b
+2886,,,,,P,P,,,,,,,Florence Fennel,112,4b
+2887,,,S,,,,,,,,,,Florence Fennel,11,5a
+2888,,,,T,,,,,,,,,Florence Fennel,11,5a
+2889,,,,,P,,,,,,,,Florence Fennel,11,5a
+2890,,,S,,,,,,,,,,Florence Fennel,14,5b
+2891,,,,T,,,,,,,,,Florence Fennel,14,5b
+2892,,,,,P,,,,,,,,Florence Fennel,14,5b
+2893,,,S,,,,,,,,,,Florence Fennel,16,6a
+2894,,,,T,,,,,,,,,Florence Fennel,16,6a
+2895,,,,,P,,,,,,,,Florence Fennel,16,6a
+2896,,,S,,,,,,,,,,Florence Fennel,113,6b
+2897,,,,T,,,,,,,,,Florence Fennel,113,6b
+2898,,,,,P,,,,,,,,Florence Fennel,113,6b
+2899,,,S,,,,,,,,,,Florence Fennel,10,7a
+2900,,,,T,,,,,,,,,Florence Fennel,10,7a
+2901,,,,,P,,,,,,,,Florence Fennel,10,7a
+2902,,,S,,,,,,,,,,Florence Fennel,114,7b
+2903,,,,T,,,,,,,,,Florence Fennel,114,7b
+2904,,,,,P,,,,,,,,Florence Fennel,114,7b
+2905,,S,,,,,,,,,,,Florence Fennel,13,8a
+2906,,,T,,,,,,,,,,Florence Fennel,13,8a
+2907,,,,P,,,,,,,,,Florence Fennel,13,8a
+2908,,S,,,,,,,,,,,Florence Fennel,12,8b
+2909,,,T,,,,,,,,,,Florence Fennel,12,8b
+2910,,,,P,,,,,,,,,Florence Fennel,12,8b
+2911,,S,,,,,,,,,,,Florence Fennel,115,9a
+2912,,,T,,,,,,,,,,Florence Fennel,115,9a
+2913,,,,P,,,,,P,P,,,Florence Fennel,115,9a
+2914,,S,,,,,,,,,,,Florence Fennel,116,9b
+2915,,,T,,,,,,,,,,Florence Fennel,116,9b
+2916,,,,P,,,,,P,P,,,Florence Fennel,116,9b
+2917,S,,,,,,,,,,,,Florence Fennel,15,10a
+2918,,T,,,,,,,,,,,Florence Fennel,15,10a
+2919,,P,P,,,,,,,,,,Florence Fennel,15,10a
+2920,S,,,,,,,,,,,,Florence Fennel,100,10b
+2921,,T,,,,,,,,,,,Florence Fennel,100,10b
+2922,,P,P,,,,,,,,,,Florence Fennel,100,10b
+2923,,,,,,,,,,,P,P,Florence Fennel,101,11a
+2924,,,,,,,,,,,P,P,Florence Fennel,102,11b
+2925,P,,,,,,,,,,,P,Florence Fennel,103,12a
+2926,P,,,,,,,,,,,P,Florence Fennel,104,12b
+2927,P,,,,,,,,,,,,Florence Fennel,105,13a
+2928,P,,,,,,,,,,,,Florence Fennel,106,13b
+2964,,,,S,,,,,,,,,French tarragon,111,4a
+2965,,,,,T,,,,,,,,French tarragon,111,4a
+2966,,,,,P,P,,,,,,,French tarragon,111,4a
+2967,,,,S,,,,,,,,,French tarragon,112,4b
+2968,,,,,T,,,,,,,,French tarragon,112,4b
+2969,,,,,P,P,,,,,,,French tarragon,112,4b
+2970,,,S,,,,,,,,,,French tarragon,11,5a
+2971,,,,T,,,,,,,,,French tarragon,11,5a
+2972,,,,P,P,,,,,,,,French tarragon,11,5a
+2973,,,S,,,,,,,,,,French tarragon,14,5b
+2974,,,,T,,,,,,,,,French tarragon,14,5b
+2975,,,,P,P,,,,,,,,French tarragon,14,5b
+2976,,,S,,,,,,,,,,French tarragon,16,6a
+2977,,,,T,,,,,,,,,French tarragon,16,6a
+2978,,,,P,P,,,,,,,,French tarragon,16,6a
+2979,,,S,,,,,,,,,,French tarragon,113,6b
+2980,,,,T,,,,,,,,,French tarragon,113,6b
+2981,,,,P,P,,,,,,,,French tarragon,113,6b
+2982,,,S,,,,,,,,,,French tarragon,10,7a
+2983,,,,T,,,,,,,,,French tarragon,10,7a
+2984,,,,P,P,,,,,,,,French tarragon,10,7a
+2985,,,S,,,,,,,,,,French tarragon,114,7b
+2986,,,,T,,,,,,,,,French tarragon,114,7b
+2987,,,,P,P,,,,,,,,French tarragon,114,7b
+2988,,,P,,,,,,,P,,,French tarragon,13,8a
+2989,,,P,,,,,,,P,,,French tarragon,12,8b
+2990,,P,P,,,,,,,P,,,French tarragon,115,9a
+2991,,P,P,,,,,,,P,,,French tarragon,116,9b
+2992,,P,,,,,,,,,,,French tarragon,15,10a
+2993,,P,,,,,,,,,,,French tarragon,100,10b
+2994,P,,,,,,,,,,,,French tarragon,101,11a
+2995,P,,,,,,,,,,,,French tarragon,102,11b
+3026,,,,P,,,,,,,,,Garlic,109,3a
+3027,,,,P,,,,,,,,,Garlic,110,3b
+3028,,,,P,,,,P,P,,,,Garlic,111,4a
+3029,,,,P,,,,P,P,,,,Garlic,112,4b
+3030,,,,,,,,,P,P,,,Garlic,11,5a
+3031,,,,,,,,,P,P,,,Garlic,14,5b
+3032,,,,P,,,,P,P,,,,Garlic,16,6a
+3033,,,,P,,,,P,P,,,,Garlic,113,6b
+3034,,,P,,,,,,P,P,,,Garlic,10,7a
+3035,,,P,,,,,,P,P,,,Garlic,114,7b
+3036,,P,P,,,,,,,,,,Garlic,13,8a
+3037,,P,P,,,,,,,,,,Garlic,12,8b
+3047,,P,,,,,,,,,,,Ginger,15,10a
+3048,,P,,,,,,,,,,,Ginger,100,10b
+3049,,P,,,,,,,,,,,Ginger,101,11a
+3050,,P,,,,,,,,,,,Ginger,102,11b
+3051,P,,,,,,,,,,,,Ginger,103,12a
+3052,P,,,,,,,,,,,,Ginger,104,12b
+3053,P,,,,,,,,,,,,Ginger,105,13a
+3054,P,,,,,,,,,,,,Ginger,106,13b
+3079,,,,,,P,,,,,,,Horseradish,110,3b
+3080,,,,P,,,,,,,,,Horseradish,111,4a
+3081,,,,P,,,,,,,,,Horseradish,112,4b
+3082,,,P,P,,,,,,,,,Horseradish,11,5a
+3083,,,P,P,,,,,,,,,Horseradish,14,5b
+3084,,P,P,,,,,,,,,,Horseradish,16,6a
+3085,,P,P,,,,,,,,,,Horseradish,113,6b
+3086,,,P,,,,,,,,,,Horseradish,10,7a
+3087,,,P,,,,,,,,,,Horseradish,114,7b
+3088,,,,P,,,,,P,,,,Horseradish,13,8a
+3089,,,,P,,,,,P,,,,Horseradish,12,8b
+3090,,,P,,,,,,,P,,,Horseradish,115,9a
+3091,,,P,,,,,,,P,,,Horseradish,116,9b
+3116,,,,,P,,,,,,,,Jerusalem Artichokes,107,2a
+3117,,,,,P,,,,,,,,Jerusalem Artichokes,108,2b
+3118,,,,,P,,,,,,,,Jerusalem Artichokes,109,3a
+3119,,,,,P,,,,,,,,Jerusalem Artichokes,110,3b
+3120,,,,,P,,,,,,,,Jerusalem Artichokes,111,4a
+3121,,,,,P,,,,,,,,Jerusalem Artichokes,112,4b
+3122,,,,P,,,,,,,,,Jerusalem Artichokes,11,5a
+3123,,,,P,,,,,,,,,Jerusalem Artichokes,14,5b
+3124,,,,P,,,,,,,,,Jerusalem Artichokes,16,6a
+3125,,,,P,,,,,,,,,Jerusalem Artichokes,113,6b
+3126,,,,P,,,,,,P,,,Jerusalem Artichokes,10,7a
+3127,,,,P,,,,,,P,,,Jerusalem Artichokes,114,7b
+3128,,,P,,,,,,,,P,,Jerusalem Artichokes,13,8a
+3129,,,P,,,,,,,,P,,Jerusalem Artichokes,12,8b
+3130,,P,,,,,,,,,,P,Jerusalem Artichokes,115,9a
+3131,,P,,,,,,,,,,P,Jerusalem Artichokes,116,9b
+3173,,,S,,,,,,,,,,Kale,107,2a
+3174,,,,,T,,,,,,,,Kale,107,2a
+3175,,,,,P,P,P,,,,,,Kale,107,2a
+3176,,,S,,,,,,,,,,Kale,108,2b
+3177,,,,,T,,,,,,,,Kale,108,2b
+3178,,,,,P,P,P,,,,,,Kale,108,2b
+3179,,,,P,P,P,P,,,,,,Kale,109,3a
+3180,,,,P,P,P,P,,,,,,Kale,110,3b
+3181,,,,P,P,P,P,,,,,,Kale,111,4a
+3182,,,,P,P,P,P,,,,,,Kale,112,4b
+3183,,S,,,,,,,,,,,Kale,11,5a
+3184,,,T,T,T,,,,,,,,Kale,11,5a
+3185,,,P,P,P,,,,,,,,Kale,11,5a
+3186,,S,,,,,,,,,,,Kale,14,5b
+3187,,,T,T,,,,,,,,,Kale,14,5b
+3188,,,P,P,,,,,,,,,Kale,14,5b
+3189,,,,,,,P,P,,,,,Kale,16,6a
+3190,,,,,,,P,P,,,,,Kale,113,6b
+3191,S,,,,,,,,,,,,Kale,10,7a
+3192,,,T,,,,,,,,,,Kale,10,7a
+3193,,P,P,,,,,P,,,,,Kale,10,7a
+3194,S,,,,,,,,,,,,Kale,114,7b
+3195,,,T,,,,,,,,,,Kale,114,7b
+3196,,P,P,P,,,,P,,,,,Kale,114,7b
+3197,S,,,,,,,,,,,,Kale,13,8a
+3198,,T,T,,,,,,,,,,Kale,13,8a
+3199,,P,P,,,,,P,,,,,Kale,13,8a
+3200,S,,,,,,,,,,,,Kale,12,8b
+3201,,T,T,,,,,,,,,,Kale,12,8b
+3202,,P,P,,,,,P,,,,,Kale,12,8b
+3203,,P,P,,,,,,,,,,Kale,115,9a
+3204,,P,P,,,,,,P,P,P,P,Kale,116,9b
+3205,P,,,,,,,,P,P,P,P,Kale,15,10a
+3206,P,,,,,,,,P,P,P,P,Kale,100,10b
+3252,,,,,P,P,,,,,,,Kohlrabi,107,2a
+3253,,,,,P,P,,,,,,,Kohlrabi,108,2b
+3254,,,,P,P,P,P,,,,,,Kohlrabi,109,3a
+3255,,,,P,P,P,P,,,,,,Kohlrabi,110,3b
+3256,,,,P,P,P,,,,,,,Kohlrabi,111,4a
+3257,,,,P,P,P,,,,,,,Kohlrabi,112,4b
+3258,,,,P,P,P,,,,,,,Kohlrabi,11,5a
+3259,,,,P,P,P,,,,,,,Kohlrabi,14,5b
+3260,,,,P,P,,,,,,,,Kohlrabi,16,6a
+3261,,,,P,P,,,,,,,,Kohlrabi,113,6b
+3262,,,,P,P,P,,,P,P,,,Kohlrabi,10,7a
+3263,,,,P,P,P,,,P,P,,,Kohlrabi,114,7b
+3264,P,P,P,,,,,,P,P,,,Kohlrabi,13,8a
+3265,P,P,P,,,,,,P,P,,,Kohlrabi,12,8b
+3266,P,P,P,,,,,,P,P,P,P,Kohlrabi,115,9a
+3267,,P,P,,,,,,P,P,P,P,Kohlrabi,116,9b
+3268,P,P,,,,,,,,P,P,P,Kohlrabi,15,10a
+3269,P,P,,,,,,,,P,P,P,Kohlrabi,100,10b
+3330,,,S,,,,,,,,,,Leeks,107,2a
+3331,,,,,T,,,,,,,,Leeks,107,2a
+3332,,,,,P,,,,,,,,Leeks,107,2a
+3333,,,S,,,,,,,,,,Leeks,108,2b
+3334,,,,,T,,,,,,,,Leeks,108,2b
+3335,,,,,P,,,,,,,,Leeks,108,2b
+3336,,S,S,,,,,,,,,,Leeks,109,3a
+3337,,,,T,T,,,,,,,,Leeks,109,3a
+3338,,,,P,P,P,,,,,,,Leeks,109,3a
+3339,,S,S,,,,,,,,,,Leeks,110,3b
+3340,,,,T,T,,,,,,,,Leeks,110,3b
+3341,,,,P,P,P,,,,,,,Leeks,110,3b
+3342,,S,S,,,,,,,,,,Leeks,111,4a
+3343,,,,T,T,,,,,,,,Leeks,111,4a
+3344,,,,P,P,P,,,,,,,Leeks,111,4a
+3345,,S,S,,,,,,,,,,Leeks,112,4b
+3346,,,,T,T,,,,,,,,Leeks,112,4b
+3347,,,,P,P,P,,,,,,,Leeks,112,4b
+3348,,S,S,,,,,,,,,,Leeks,11,5a
+3349,,,,T,T,,,,,,,,Leeks,11,5a
+3350,,,,P,P,P,,,,,,,Leeks,11,5a
+3351,,S,S,,,,,,,,,,Leeks,14,5b
+3352,,,,T,T,,,,,,,,Leeks,14,5b
+3353,,,,P,P,,,,,,,,Leeks,14,5b
+3354,,S,S,,,,,,,,,,Leeks,16,6a
+3355,,,,T,T,,,,,,,,Leeks,16,6a
+3356,,,,P,P,,,,,,,,Leeks,16,6a
+3357,,S,S,,,,,,,,,,Leeks,113,6b
+3358,,,,T,,,,,,,,,Leeks,113,6b
+3359,,,,P,P,P,,,,,,,Leeks,113,6b
+3360,,S,S,,,,,,,,,,Leeks,10,7a
+3361,,,,,T,,,,,,,,Leeks,10,7a
+3362,,,,P,P,,,P,P,,,,Leeks,10,7a
+3363,,S,S,,,,,,,,,,Leeks,114,7b
+3364,,,,,T,,,,,,,,Leeks,114,7b
+3365,,,,P,P,,,P,P,,,,Leeks,114,7b
+3366,,S,S,,,,,,,,,,Leeks,13,8a
+3367,,,,,T,,,,,,,,Leeks,13,8a
+3368,,,,P,P,,,P,P,,,,Leeks,13,8a
+3369,,S,S,,,,,,,,,,Leeks,12,8b
+3370,,,,,T,,,,,,,,Leeks,12,8b
+3371,,,,P,P,,,P,P,,,,Leeks,12,8b
+3372,S,S,,,,,,,,,,,Leeks,115,9a
+3373,,,,T,,,,,,,,,Leeks,115,9a
+3374,,,P,P,,,,,P,P,,,Leeks,115,9a
+3375,S,S,,,,,,,,,,,Leeks,116,9b
+3376,,,,T,,,,,,,,,Leeks,116,9b
+3377,,,P,P,,,,P,P,,,,Leeks,116,9b
+3378,S,S,,,,,,,,,,,Leeks,15,10a
+3379,,,,T,,,,,,,,,Leeks,15,10a
+3380,,,P,P,,,,P,P,,,,Leeks,15,10a
+3381,P,,,,,,,,,P,P,P,Leeks,100,10b
+3426,,,,,S,,,,,,,,Lemon Balm,111,4a
+3427,,,,,,T,,,,,,,Lemon Balm,111,4a
+3428,,,,,,P,,,,,,,Lemon Balm,111,4a
+3429,,,,,S,,,,,,,,Lemon Balm,112,4b
+3430,,,,,,T,,,,,,,Lemon Balm,112,4b
+3431,,,,,,P,,,,,,,Lemon Balm,112,4b
+3432,,,,S,,,,,,,,,Lemon Balm,11,5a
+3433,,,,,T,,,,,,,,Lemon Balm,11,5a
+3434,,,,,P,,,,,,,,Lemon Balm,11,5a
+3435,,,,S,,,,,,,,,Lemon Balm,14,5b
+3436,,,,,T,,,,,,,,Lemon Balm,14,5b
+3437,,,,,P,,,,,,,,Lemon Balm,14,5b
+3438,,,,S,,,,,,,,,Lemon Balm,16,6a
+3439,,,,,T,,,,,,,,Lemon Balm,16,6a
+3440,,,,,P,,,,,,,,Lemon Balm,16,6a
+3441,,,,S,,,,,,,,,Lemon Balm,113,6b
+3442,,,,,T,,,,,,,,Lemon Balm,113,6b
+3443,,,,,P,,,,,,,,Lemon Balm,113,6b
+3444,,,S,,,,,,,,,,Lemon Balm,10,7a
+3445,,,,T,,,,,,,,,Lemon Balm,10,7a
+3446,,,,P,,,,,,,,,Lemon Balm,10,7a
+3447,,,S,,,,,,,,,,Lemon Balm,114,7b
+3448,,,,T,,,,,,,,,Lemon Balm,114,7b
+3449,,,,P,,,,,,,,,Lemon Balm,114,7b
+3450,,S,,,,,,,,,,,Lemon Balm,13,8a
+3451,,,T,,,,,,,,,,Lemon Balm,13,8a
+3452,,,P,,,,,,,,,,Lemon Balm,13,8a
+3453,,S,,,,,,,,,,,Lemon Balm,12,8b
+3454,,,T,,,,,,,,,,Lemon Balm,12,8b
+3455,,,P,,,,,,,,,,Lemon Balm,12,8b
+3456,,S,,,,,,,,,,,Lemon Balm,115,9a
+3457,,,T,,,,,,,,,,Lemon Balm,115,9a
+3458,,,P,,,,,,,,,,Lemon Balm,115,9a
+3459,,S,,,,,,,,,,,Lemon Balm,116,9b
+3460,,,T,,,,,,,,,,Lemon Balm,116,9b
+3461,,,P,,,,,,,,,,Lemon Balm,116,9b
+3529,,,S,,,,,,,,,,Lettuce,107,2a
+3530,,,,,T,,,,,,,,Lettuce,107,2a
+3531,,,,P,P,P,P,,,,,,Lettuce,107,2a
+3532,,,S,,,,,,,,,,Lettuce,108,2b
+3533,,,,T,,,,,,,,,Lettuce,108,2b
+3534,,,,P,P,P,P,,,,,,Lettuce,108,2b
+3535,,,S,,,,,,,,,,Lettuce,109,3a
+3536,,,,T,,,,,,,,,Lettuce,109,3a
+3537,,,,P,P,,,,,,,,Lettuce,109,3a
+3538,,,S,,,,,,,,,,Lettuce,110,3b
+3539,,,,T,,,,,,,,,Lettuce,110,3b
+3540,,,,P,P,,,,,,,,Lettuce,110,3b
+3541,,,S,,,,,,,,,,Lettuce,111,4a
+3542,,,,T,,,,,,,,,Lettuce,111,4a
+3543,,,,P,P,P,,,,,,,Lettuce,111,4a
+3544,,,S,,,,,,,,,,Lettuce,112,4b
+3545,,,,T,,,,,,,,,Lettuce,112,4b
+3546,,,,P,P,P,,,,,,,Lettuce,112,4b
+3547,,S,S,,,,,,,,,,Lettuce,11,5a
+3548,,,,T,T,,,,,,,,Lettuce,11,5a
+3549,,,,P,P,P,P,,,,,,Lettuce,11,5a
+3550,,S,S,,,,,,,,,,Lettuce,14,5b
+3551,,,,T,T,,,,,,,,Lettuce,14,5b
+3552,,,,P,P,P,P,,,,,,Lettuce,14,5b
+3553,,S,S,,,,,,,,,,Lettuce,16,6a
+3554,,,,T,T,,,,,,,,Lettuce,16,6a
+3555,,,,P,P,P,P,,,,,,Lettuce,16,6a
+3556,,S,S,,,,,,,,,,Lettuce,113,6b
+3557,,,,T,T,,,,,,,,Lettuce,113,6b
+3558,,,,P,P,P,P,,,,,,Lettuce,113,6b
+3559,S,,,,,,,S,,,,,Lettuce,10,7a
+3560,,T,T,,,,,,T,,,,Lettuce,10,7a
+3561,P,P,P,,,,,,P,,,,Lettuce,10,7a
+3562,S,,,,,,,S,,,,,Lettuce,114,7b
+3563,,T,T,T,,,,,T,,,,Lettuce,114,7b
+3564,P,P,P,P,,,,,P,,,,Lettuce,114,7b
+3565,S,S,,,,,,,,,,,Lettuce,13,8a
+3566,,,T,,,,,,,,,,Lettuce,13,8a
+3567,,P,P,,,,,P,P,,,,Lettuce,13,8a
+3568,S,S,,,,,,,,,,,Lettuce,12,8b
+3569,,,T,,,,,,,,,,Lettuce,12,8b
+3570,,P,P,,,,,P,P,,,,Lettuce,12,8b
+3571,,P,P,P,,,,,P,P,,,Lettuce,115,9a
+3572,,P,P,P,,,,P,P,P,,,Lettuce,116,9b
+3573,,P,P,P,,,,,P,P,P,P,Lettuce,15,10a
+3574,,P,P,P,,,,,P,P,P,P,Lettuce,100,10b
+3642,,,,S,,,,,,,,,Luffa,111,4a
+3643,,,,,,T,,,,,,,Luffa,111,4a
+3644,,,,,,P,,,,,,,Luffa,111,4a
+3645,,,,S,,,,,,,,,Luffa,112,4b
+3646,,,,,,T,,,,,,,Luffa,112,4b
+3647,,,,,,P,,,,,,,Luffa,112,4b
+3648,,,,S,S,,,,,,,,Luffa,11,5a
+3649,,,,,,T,,,,,,,Luffa,11,5a
+3650,,,,,,P,,,,,,,Luffa,11,5a
+3651,,,,S,S,,,,,,,,Luffa,14,5b
+3652,,,,,,T,,,,,,,Luffa,14,5b
+3653,,,,,,P,,,,,,,Luffa,14,5b
+3654,,,,S,S,,,,,,,,Luffa,16,6a
+3655,,,,,,T,,,,,,,Luffa,16,6a
+3656,,,,,,P,,,,,,,Luffa,16,6a
+3657,,,,S,S,,,,,,,,Luffa,113,6b
+3658,,,,,,T,,,,,,,Luffa,113,6b
+3659,,,,,,P,,,,,,,Luffa,113,6b
+3660,,,S,S,,,,,,,,,Luffa,10,7a
+3661,,,,,T,,,,,,,,Luffa,10,7a
+3662,,,,,P,P,,,,,,,Luffa,10,7a
+3663,,,S,S,,,,,,,,,Luffa,114,7b
+3664,,,,,T,,,,,,,,Luffa,114,7b
+3665,,,,,P,P,,,,,,,Luffa,114,7b
+3666,,,S,S,,,,,,,,,Luffa,13,8a
+3667,,,,,T,,,,,,,,Luffa,13,8a
+3668,,,,,P,P,,,,,,,Luffa,13,8a
+3669,,,S,S,,,,,,,,,Luffa,12,8b
+3670,,,,,T,,,,,,,,Luffa,12,8b
+3671,,,,,P,P,,,,,,,Luffa,12,8b
+3672,,S,,,,,,,,,,,Luffa,115,9a
+3673,,,T,,,,,,,,,,Luffa,115,9a
+3674,,,P,P,,,,,,,,,Luffa,115,9a
+3675,,S,,,,,,,,,,,Luffa,116,9b
+3676,,,T,,,,,,,,,,Luffa,116,9b
+3677,,,P,P,,,,,,,,,Luffa,116,9b
+3678,,S,,,,,,,,,,,Luffa,15,10a
+3679,,,T,,,,,,,,,,Luffa,15,10a
+3680,,,P,P,,,,,,,,,Luffa,15,10a
+3681,,S,,,,,,,,,,,Luffa,100,10b
+3682,,,T,,,,,,,,,,Luffa,100,10b
+3683,,,P,P,,,,,,,,,Luffa,100,10b
+3684,S,,,,,,,,,,,,Luffa,101,11a
+3685,,T,,,,,,,,,,,Luffa,101,11a
+3686,,P,P,,,,,,,,,,Luffa,101,11a
+3687,S,,,,,,,,,,,,Luffa,102,11b
+3688,,T,,,,,,,,,,,Luffa,102,11b
+3689,,P,P,,,,,,,,,,Luffa,102,11b
+3690,P,P,,,,,,,,,,P,Luffa,103,12a
+3691,P,P,,,,,,,,,,P,Luffa,104,12b
+3692,P,P,,,,,,,,,,P,Luffa,105,13a
+3693,P,P,,,,,,,,,,P,Luffa,106,13b
+3753,,,S,,,,,,,,,,Marrow,107,2a
+3754,,,,,T,,,,,,,,Marrow,107,2a
+3755,,,,,P,,,,,,,,Marrow,107,2a
+3756,,,S,,,,,,,,,,Marrow,108,2b
+3757,,,,,T,,,,,,,,Marrow,108,2b
+3758,,,,,P,,,,,,,,Marrow,108,2b
+3759,,,S,S,,,,,,,,,Marrow,109,3a
+3760,,,,,T,,,,,,,,Marrow,109,3a
+3761,,,,,P,P,,,,,,,Marrow,109,3a
+3762,,,S,S,,,,,,,,,Marrow,110,3b
+3763,,,,,T,,,,,,,,Marrow,110,3b
+3764,,,,,P,P,,,,,,,Marrow,110,3b
+3765,,,S,S,,,,,,,,,Marrow,111,4a
+3766,,,,,T,,,,,,,,Marrow,111,4a
+3767,,,,,P,P,,,,,,,Marrow,111,4a
+3768,,,S,S,,,,,,,,,Marrow,112,4b
+3769,,,,,P,P,,,,,,,Marrow,112,4b
+3770,,,S,S,,,,,,,,,Marrow,11,5a
+3771,,,,,P,P,,,,,,,Marrow,11,5a
+3772,,S,S,,,,,,,,,,Marrow,14,5b
+3773,,,,T,T,,,,,,,,Marrow,14,5b
+3774,,,,P,P,P,,,,,,,Marrow,14,5b
+3775,,S,S,,,,,,,,,,Marrow,16,6a
+3776,,,,T,T,,,,,,,,Marrow,16,6a
+3777,,,,P,P,P,,,,,,,Marrow,16,6a
+3778,,S,S,,,,,,,,,,Marrow,113,6b
+3779,,,,T,T,,,,,,,,Marrow,113,6b
+3780,,,,P,P,P,,,,,,,Marrow,113,6b
+3781,,S,S,,,,,,,,,,Marrow,10,7a
+3782,,,,P,P,P,,,,,,,Marrow,10,7a
+3783,,S,S,,,,,,,,,,Marrow,114,7b
+3784,,,,P,P,P,,,,,,,Marrow,114,7b
+3785,,S,S,,,,,,,,,,Marrow,13,8a
+3786,,,,T,,,,,,,,,Marrow,13,8a
+3787,,,,P,P,P,,,,,,,Marrow,13,8a
+3788,,S,S,,,,,,,,,,Marrow,12,8b
+3789,,,,T,,,,,,,,,Marrow,12,8b
+3790,,,,P,P,P,,,,,,,Marrow,12,8b
+3791,S,S,,,,,,,,,,,Marrow,115,9a
+3792,,,T,,,,,,,,,,Marrow,115,9a
+3793,,,P,P,P,,,,,,,,Marrow,115,9a
+3794,S,S,,,,,,,,,,,Marrow,116,9b
+3795,,,T,,,,,,,,,,Marrow,116,9b
+3796,,,P,P,P,,,,,,,,Marrow,116,9b
+3797,S,,,,,,,,,,,,Marrow,15,10a
+3798,,T,T,,,,,,,,,,Marrow,15,10a
+3799,,P,P,P,,,,,,,,,Marrow,15,10a
+3800,S,,,,,,,,,,,,Marrow,100,10b
+3801,,T,T,,,,,,,,,,Marrow,100,10b
+3802,,P,P,P,,,,,,,,,Marrow,100,10b
+3803,S,,,,,,,,,,,,Marrow,101,11a
+3804,,T,T,,,,,,,,,,Marrow,101,11a
+3805,,P,P,P,,,,,,,,,Marrow,101,11a
+3806,S,,,,,,,,,,,,Marrow,102,11b
+3807,,T,T,,,,,,,,,,Marrow,102,11b
+3808,,P,P,P,,,,,,,,,Marrow,102,11b
+3809,P,P,,,,,,,,,,,Marrow,103,12a
+3810,P,P,,,,,,,,,,,Marrow,104,12b
+3811,P,,,,,,,,,,P,P,Marrow,105,13a
+3812,P,,,,,,,,,,P,P,Marrow,106,13b
+3878,,,S,,,,,,,,,,Mint,111,4a
+3879,,,,,T,,,,,,,,Mint,111,4a
+3880,,,,,P,P,,,,,,,Mint,111,4a
+3881,,,S,,,,,,,,,,Mint,112,4b
+3882,,,,,T,,,,,,,,Mint,112,4b
+3883,,,,,P,P,,,,,,,Mint,112,4b
+3884,,S,,,,,,,,,,,Mint,11,5a
+3885,,,,T,,,,,,,,,Mint,11,5a
+3886,,,,P,P,,,,,,,,Mint,11,5a
+3887,,S,,,,,,,,,,,Mint,14,5b
+3888,,,,T,,,,,,,,,Mint,14,5b
+3889,,,,P,P,,,,,,,,Mint,14,5b
+3890,,S,,,,,,,,,,,Mint,16,6a
+3891,,,,T,,,,,,,,,Mint,16,6a
+3892,,,,P,P,,,,,,,,Mint,16,6a
+3893,,S,,,,,,,,,,,Mint,113,6b
+3894,,,,T,,,,,,,,,Mint,113,6b
+3895,,,,P,P,,,,,,,,Mint,113,6b
+3896,,S,,,,,,,,,,,Mint,10,7a
+3897,,,,T,,,,,,,,,Mint,10,7a
+3898,,,,P,P,,,,,,,,Mint,10,7a
+3899,,S,,,,,,,,,,,Mint,114,7b
+3900,,,,T,,,,,,,,,Mint,114,7b
+3901,,,,P,P,,,,,,,,Mint,114,7b
+3902,,,,P,,,,,,,,,Mint,13,8a
+3903,,,,P,,,,,,,,,Mint,12,8b
+3904,,,P,,,,,,,,,,Mint,115,9a
+3905,,,P,,,,,,,,,,Mint,116,9b
+3968,,,,,P,,,,,,,,Mizuna,107,2a
+3969,,,,,P,,,,,,,,Mizuna,108,2b
+3970,,,,,P,,,,,,,,Mizuna,109,3a
+3971,,,,,P,,,,,,,,Mizuna,110,3b
+3972,,,,P,,,,,,,,,Mizuna,111,4a
+3973,,,,P,,,,,,,,,Mizuna,112,4b
+3974,,,P,,,,,,,,,,Mizuna,11,5a
+3975,,,P,,,,,,,,,,Mizuna,14,5b
+3976,,P,P,,,,,,,,,,Mizuna,16,6a
+3977,,,P,,,,,,,,,,Mizuna,113,6b
+3978,,P,P,,,,,,,,,,Mizuna,10,7a
+3979,,P,P,,,,,,,,,,Mizuna,114,7b
+3980,P,P,,,,,,,,,,,Mizuna,13,8a
+3981,P,P,,,,,,,,,,,Mizuna,12,8b
+3982,P,,,,,,,,,,,P,Mizuna,115,9a
+3983,P,,,,,,,,,,,P,Mizuna,116,9b
+3984,P,,,,,,,,,,,P,Mizuna,15,10a
+3985,P,,,,,,,,,,,P,Mizuna,100,10b
+3986,P,,,,,,,,,,,P,Mizuna,101,11a
+3987,P,,,,,,,,,,,P,Mizuna,102,11b
+4055,,,S,,,,,,,,,,Mustard greens,107,2a
+4056,,,,,T,,,,,,,,Mustard greens,107,2a
+4057,,,,P,P,P,,,,,,,Mustard greens,107,2a
+4058,,,S,,,,,,,,,,Mustard greens,108,2b
+4059,,,,T,T,T,,,,,,,Mustard greens,108,2b
+4060,,,,P,P,P,,,,,,,Mustard greens,108,2b
+4061,,,S,,,,,,,,,,Mustard greens,109,3a
+4062,,,,T,,,,,,,,,Mustard greens,109,3a
+4063,,,,P,P,,,,,,,,Mustard greens,109,3a
+4064,,,S,,,,,,,,,,Mustard greens,110,3b
+4065,,,,T,,,,,,,,,Mustard greens,110,3b
+4066,,,,P,P,,,,,,,,Mustard greens,110,3b
+4067,,,S,,,,,,,,,,Mustard greens,111,4a
+4068,,,,T,,,,,,,,,Mustard greens,111,4a
+4069,,,,P,P,,,,,,,,Mustard greens,111,4a
+4070,,,S,,,,,,,,,,Mustard greens,112,4b
+4071,,,,T,,,,,,,,,Mustard greens,112,4b
+4072,,,,P,P,P,,,,,,,Mustard greens,112,4b
+4073,,,S,,,,,,,,,,Mustard greens,11,5a
+4074,,,,T,T,,,,,,,,Mustard greens,11,5a
+4075,,,,P,P,,P,,,,,,Mustard greens,11,5a
+4076,,S,,,,,,,,,,,Mustard greens,14,5b
+4077,,,T,T,,,,,,,,,Mustard greens,14,5b
+4078,,,P,P,,,P,,,,,,Mustard greens,14,5b
+4079,,,S,,,,,,,,,,Mustard greens,16,6a
+4080,,,,T,T,,,,,,,,Mustard greens,16,6a
+4081,,,,P,P,,P,,,,,,Mustard greens,16,6a
+4082,,,S,,,,,,,,,,Mustard greens,113,6b
+4083,,,,T,T,,,,,,,,Mustard greens,113,6b
+4084,,,,P,P,,P,,,,,,Mustard greens,113,6b
+4085,S,,,,,,S,,,,,,Mustard greens,10,7a
+4086,,T,T,,,,,T,T,,,,Mustard greens,10,7a
+4087,P,P,P,,,,,P,P,,,,Mustard greens,10,7a
+4088,S,,,,,,S,,,,,,Mustard greens,114,7b
+4089,,T,T,T,,,,T,T,,,,Mustard greens,114,7b
+4090,P,P,P,P,,,,P,P,,,,Mustard greens,114,7b
+4091,S,,,,,,,,,,,,Mustard greens,13,8a
+4092,,,T,,,,,,,,,,Mustard greens,13,8a
+4093,,P,P,,,,,P,P,,,,Mustard greens,13,8a
+4094,S,,,,,,,,,,,,Mustard greens,12,8b
+4095,,,T,,,,,,,,,,Mustard greens,12,8b
+4096,,P,P,,,,,P,P,,,,Mustard greens,12,8b
+4097,,P,P,,,,,,P,P,,,Mustard greens,115,9a
+4098,,P,P,,,,,,P,P,,,Mustard greens,116,9b
+4099,P,P,P,,,,,,P,P,P,P,Mustard greens,15,10a
+4100,,P,P,,,,,,P,P,P,P,Mustard greens,100,10b
+4140,,,S,,,,,,,,,,NZ Spinach,111,4a
+4141,,,,,T,,,,,,,,NZ Spinach,111,4a
+4142,,,,,P,,,,,,,,NZ Spinach,111,4a
+4143,,,S,,,,,,,,,,NZ Spinach,112,4b
+4144,,,,,T,,,,,,,,NZ Spinach,112,4b
+4145,,,,,P,,,,,,,,NZ Spinach,112,4b
+4146,,,S,,,,,,,,,,NZ Spinach,11,5a
+4147,,,,,T,,,,,,,,NZ Spinach,11,5a
+4148,,,,,P,,,,,,,,NZ Spinach,11,5a
+4149,,,S,,,,,,,,,,NZ Spinach,14,5b
+4150,,,,,T,,,,,,,,NZ Spinach,14,5b
+4151,,,,,P,,,,,,,,NZ Spinach,14,5b
+4152,,,,P,P,,,,,,,,NZ Spinach,16,6a
+4153,,,,P,P,,,,,,,,NZ Spinach,113,6b
+4154,,,,P,P,,,,,,,,NZ Spinach,10,7a
+4155,,,,P,P,,,,,,,,NZ Spinach,114,7b
+4156,,,P,P,,,,,,,,,NZ Spinach,13,8a
+4157,,,P,P,,,,,,,,,NZ Spinach,12,8b
+4158,,P,,,,,,,,,P,P,NZ Spinach,115,9a
+4159,,P,,,,,,,,,P,P,NZ Spinach,116,9b
+4160,,,,,,,,,,P,P,,NZ Spinach,15,10a
+4161,P,,,,,,,,,P,P,P,NZ Spinach,100,10b
+4162,P,,,,,,,,,,,,NZ Spinach,101,11a
+4163,P,,,,,,,,,,,,NZ Spinach,102,11b
+4164,P,,,,,,,,,,,,NZ Spinach,103,12a
+4165,P,,,,,,,,,,,,NZ Spinach,104,12b
+4166,P,,,,,,,,,,,,NZ Spinach,105,13a
+4167,P,,,,,,,,,,,,NZ Spinach,106,13b
+4206,,,,S,,,,,,,,,Okra,111,4a
+4207,,,,,,T,,,,,,,Okra,111,4a
+4208,,,,,P,P,,,,,,,Okra,111,4a
+4209,,,,S,,,,,,,,,Okra,112,4b
+4210,,,,,,T,,,,,,,Okra,112,4b
+4211,,,,,P,P,,,,,,,Okra,112,4b
+4212,,,S,,,,,,,,,,Okra,11,5a
+4213,,,,,T,,,,,,,,Okra,11,5a
+4214,,,,,P,,,,,,,,Okra,11,5a
+4215,,,S,,,,,,,,,,Okra,14,5b
+4216,,,,,T,,,,,,,,Okra,14,5b
+4217,,,,,P,,,,,,,,Okra,14,5b
+4218,,,S,,,,,,,,,,Okra,16,6a
+4219,,,,T,,,,,,,,,Okra,16,6a
+4220,,,,P,P,,,,,,,,Okra,16,6a
+4221,,,S,,,,,,,,,,Okra,113,6b
+4222,,,,T,,,,,,,,,Okra,113,6b
+4223,,,,P,P,,,,,,,,Okra,113,6b
+4224,,,S,,,,,,,,,,Okra,10,7a
+4225,,,,,T,,,,,,,,Okra,10,7a
+4226,,,,P,P,P,P,,,,,,Okra,10,7a
+4227,,,S,,,,,,,,,,Okra,114,7b
+4228,,,,,T,,,,,,,,Okra,114,7b
+4229,,,,P,P,P,P,,,,,,Okra,114,7b
+4230,,,S,,,,,,,,,,Okra,13,8a
+4231,,,,,T,,,,,,,,Okra,13,8a
+4232,,,,P,P,P,,,,,,,Okra,13,8a
+4233,,,S,,,,,,,,,,Okra,12,8b
+4234,,,,,T,,,,,,,,Okra,12,8b
+4235,,,,P,P,P,,,,,,,Okra,12,8b
+4236,,S,,,,,,,,,,,Okra,115,9a
+4237,,,T,T,,,,,,,,,Okra,115,9a
+4238,,,P,P,,P,,,,,,,Okra,115,9a
+4239,,S,,,,,,,,,,,Okra,116,9b
+4240,,,T,T,,,,,,,,,Okra,116,9b
+4241,,,P,P,,P,,,,,,,Okra,116,9b
+4242,S,S,,,,,,,,,,,Okra,15,10a
+4243,,,T,T,,,,,,,,,Okra,15,10a
+4244,,P,P,P,,P,,,,,,,Okra,15,10a
+4245,S,S,,,,,,,,,,,Okra,100,10b
+4246,,,T,T,,,,,,,,,Okra,100,10b
+4247,,P,P,P,,P,,,,,,P,Okra,100,10b
+4315,,S,,,,,,,,,,,Onion,107,2a
+4316,,,T,,,,,,,,,,Onion,107,2a
+4317,,,P,P,P,,,,,,,,Onion,107,2a
+4318,,S,,,,,,,,,,,Onion,108,2b
+4319,,,T,,,,,,,,,,Onion,108,2b
+4320,,,P,P,P,,,,,,,,Onion,108,2b
+4321,,S,,,,,,,,,,,Onion,109,3a
+4322,,,,T,,,,,,,,,Onion,109,3a
+4323,,,,P,,,,,,,,,Onion,109,3a
+4324,,S,,,,,,,,,,,Onion,110,3b
+4325,,,,T,,,,,,,,,Onion,110,3b
+4326,,,,P,,,,,,,,,Onion,110,3b
+4327,,S,,,,,,,,,,,Onion,111,4a
+4328,,,,T,,,,,,,,,Onion,111,4a
+4329,,,,P,,,,,,,,,Onion,111,4a
+4330,,S,,,,,,,,,,,Onion,112,4b
+4331,,,,T,,,,,,,,,Onion,112,4b
+4332,,,,P,,,,,,,,,Onion,112,4b
+4333,,S,,,,,,,,,,,Onion,11,5a
+4334,,,P,P,,,,,,,,,Onion,11,5a
+4335,,S,,,,,,,,,,,Onion,14,5b
+4336,,,P,P,,,,,,,,,Onion,14,5b
+4337,,,P,P,,,,,,,,,Onion,16,6a
+4338,,,P,P,,,,,,,,,Onion,113,6b
+4339,P,P,P,,,,,,P,P,P,P,Onion,10,7a
+4340,P,P,P,,,,,,P,P,P,P,Onion,114,7b
+4341,P,P,P,,,,,,P,P,P,P,Onion,13,8a
+4342,P,P,P,,,,,,P,P,P,P,Onion,12,8b
+4343,,,,P,,,,P,P,P,P,,Onion,115,9a
+4344,,,,P,,,,P,P,P,P,P,Onion,116,9b
+4345,,,,P,,,,P,P,P,P,P,Onion,15,10a
+4346,,,,P,,,,P,P,P,P,,Onion,100,10b
+4404,,,S,,,,,,,,,,Oregano,11,5a
+4405,,,,,T,,,,,,,,Oregano,11,5a
+4406,,,,P,P,,,,,,,,Oregano,11,5a
+4407,,,S,,,,,,,,,,Oregano,14,5b
+4408,,,,,T,,,,,,,,Oregano,14,5b
+4409,,,,P,P,,,,,,,,Oregano,14,5b
+4410,,,S,,,,,,,,,,Oregano,16,6a
+4411,,,,,T,,,,,,,,Oregano,16,6a
+4412,,,,P,P,,,,,,,,Oregano,16,6a
+4413,,,S,,,,,,,,,,Oregano,113,6b
+4414,,,,,T,,,,,,,,Oregano,113,6b
+4415,,,,P,P,,,,,,,,Oregano,113,6b
+4416,,,S,,,,,,,,,,Oregano,10,7a
+4417,,,,,T,,,,,,,,Oregano,10,7a
+4418,,,,P,P,,,,,,,,Oregano,10,7a
+4419,,,S,,,,,,,,,,Oregano,114,7b
+4420,,,,,T,,,,,,,,Oregano,114,7b
+4421,,,,P,P,,,,,,,,Oregano,114,7b
+4422,,S,,,,,,,,,,,Oregano,13,8a
+4423,,,,T,,,,,,,,,Oregano,13,8a
+4424,,,P,P,,,,,,,,,Oregano,13,8a
+4425,,S,,,,,,,,,,,Oregano,12,8b
+4426,,,,T,,,,,,,,,Oregano,12,8b
+4427,,,P,P,,,,,,,,,Oregano,12,8b
+4428,S,,,,,,,,,,,,Oregano,115,9a
+4429,,,T,,,,,,,,,,Oregano,115,9a
+4430,,P,P,,,,,,,,,,Oregano,115,9a
+4431,S,,,,,,,,,,,,Oregano,116,9b
+4432,,,T,,,,,,,,,,Oregano,116,9b
+4433,,P,P,,,,,,,,,,Oregano,116,9b
+4434,S,,,,,,,,,,,,Oregano,15,10a
+4435,,,T,,,,,,,,,,Oregano,15,10a
+4436,,P,P,,,,,,,,,,Oregano,15,10a
+4437,S,,,,,,,,,,,,Oregano,100,10b
+4438,,,T,,,,,,,,,,Oregano,100,10b
+4439,,P,P,,,,,,,,,,Oregano,100,10b
+4440,P,P,,,,,,,,,,,Oregano,101,11a
+4441,P,P,,,,,,,,,,,Oregano,102,11b
+4442,,,,,,,,,,,,P,Oregano,103,12a
+4508,,,,,,P,P,,,,,,Pak Choy,107,2a
+4509,,,,,,P,P,,,,,,Pak Choy,108,2b
+4510,,,,,,P,P,,,,,,Pak Choy,109,3a
+4511,,,,,,P,P,,,,,,Pak Choy,110,3b
+4512,,,,,P,P,P,,,,,,Pak Choy,111,4a
+4513,,,,,P,P,P,,,,,,Pak Choy,112,4b
+4514,,,S,,,,,,,,,,Pak Choy,11,5a
+4515,,,,T,,,,,,,,,Pak Choy,11,5a
+4516,,,,P,P,,,,,,,,Pak Choy,11,5a
+4517,,,S,,,,,,,,,,Pak Choy,14,5b
+4518,,,,T,,,,,,,,,Pak Choy,14,5b
+4519,,,,P,P,,,,,,,,Pak Choy,14,5b
+4520,,,S,,,,,,,,,,Pak Choy,16,6a
+4521,,,,T,,,,,,,,,Pak Choy,16,6a
+4522,,,,P,,,,,,,,,Pak Choy,16,6a
+4523,,,S,,,,,,,,,,Pak Choy,113,6b
+4524,,,,T,,,,,,,,,Pak Choy,113,6b
+4525,,,,P,,,,,,,,,Pak Choy,113,6b
+4526,,,,,,,,P,P,,,,Pak Choy,10,7a
+4527,,,,,,,,P,P,,,,Pak Choy,114,7b
+4528,,,,,,,,,,P,P,,Pak Choy,13,8a
+4529,,,,,,,,,,P,P,,Pak Choy,12,8b
+4530,P,,,,,,,,,,P,P,Pak Choy,115,9a
+4531,P,,,,,,,,,,P,P,Pak Choy,116,9b
+4532,P,,,,,,,,,,P,,Pak Choy,15,10a
+4533,P,,,,,,,,,,P,,Pak Choy,100,10b
+4605,,,P,,,,,,,,,,Parsley,107,2a
+4606,,,P,,,,,,,,,,Parsley,108,2b
+4607,,S,,,,,,,,,,,Parsley,109,3a
+4608,,,,T,,,,,,,,,Parsley,109,3a
+4609,,,,P,P,,,,,,,,Parsley,109,3a
+4610,,S,,,,,,,,,,,Parsley,110,3b
+4611,,,,T,,,,,,,,,Parsley,110,3b
+4612,,,,P,P,,,,,,,,Parsley,110,3b
+4613,,,S,,,,,,,,,,Parsley,111,4a
+4614,,,,T,T,,,,,,,,Parsley,111,4a
+4615,,,,P,P,,,,,,,,Parsley,111,4a
+4616,,,S,,,,,,,,,,Parsley,112,4b
+4617,,,,T,,,,,,,,,Parsley,112,4b
+4618,,,,P,P,,,,,,,,Parsley,112,4b
+4619,,,S,,,,,,,,,,Parsley,11,5a
+4620,,,,T,,,,,,,,,Parsley,11,5a
+4621,,,,P,P,P,,,,,,,Parsley,11,5a
+4622,,S,S,,,,,,,,,,Parsley,14,5b
+4623,,,,T,T,,,,,,,,Parsley,14,5b
+4624,,,,P,P,,,,,,,,Parsley,14,5b
+4625,,S,S,,,,,,,,,,Parsley,16,6a
+4626,,,,T,T,,,,,,,,Parsley,16,6a
+4627,,,,P,P,,,,,,,,Parsley,16,6a
+4628,,S,S,,,,,,,,,,Parsley,113,6b
+4629,,,,T,T,,,,,,,,Parsley,113,6b
+4630,,,,P,P,,,,,,,,Parsley,113,6b
+4631,,,S,,,,,,,,,,Parsley,10,7a
+4632,,,,,T,,,,,,,,Parsley,10,7a
+4633,,,,,P,P,,,,,,,Parsley,10,7a
+4634,,,S,,,,,,,,,,Parsley,114,7b
+4635,,,,T,T,,,,,,,,Parsley,114,7b
+4636,,,,P,P,P,,,,,,,Parsley,114,7b
+4637,S,,,,,,,,,,,,Parsley,13,8a
+4638,,,T,T,,,,,,,,,Parsley,13,8a
+4639,,,P,P,P,,,,,,,,Parsley,13,8a
+4640,S,,,,,,,,,,,,Parsley,12,8b
+4641,,,T,T,,,,,,,,,Parsley,12,8b
+4642,,,P,P,,,,,,,,,Parsley,12,8b
+4643,,S,,,,,,,,,,,Parsley,115,9a
+4644,,,,T,,,,,,,,,Parsley,115,9a
+4645,,,,P,P,,,,,,,,Parsley,115,9a
+4646,,S,,,,,,,,,,,Parsley,116,9b
+4647,,,,T,,,,,,,,,Parsley,116,9b
+4648,,,P,P,P,,,,,P,,,Parsley,116,9b
+4649,,S,,,,,,,,,,,Parsley,15,10a
+4650,,,T,,,,,,,,,,Parsley,15,10a
+4651,,,P,P,,,,,,P,,,Parsley,15,10a
+4652,,S,,,,,,,,,,,Parsley,100,10b
+4653,,,T,,,,,,,,,,Parsley,100,10b
+4654,,,P,P,,,,,,P,,,Parsley,100,10b
+4655,P,P,P,P,,,,,,,,,Parsley,101,11a
+4656,P,P,P,P,,,,,,,,,Parsley,102,11b
+4657,P,P,P,P,,,,,,,,,Parsley,103,12a
+4658,P,P,P,P,,,,,,,,,Parsley,104,12b
+4659,P,P,P,P,,,,,,,,,Parsley,105,13a
+4660,P,P,P,P,,,,,,,,,Parsley,106,13b
+4695,,,,P,P,,,,,,,,Parsnip,107,2a
+4696,,,,P,P,,,,,,,,Parsnip,108,2b
+4697,,,P,P,P,,,,,,,,Parsnip,109,3a
+4698,,,P,P,P,,,,,,,,Parsnip,110,3b
+4699,,,S,,,,,,,,,,Parsnip,111,4a
+4700,,,,,T,,,,,,,,Parsnip,111,4a
+4701,,,,,P,P,,,,,,,Parsnip,111,4a
+4702,,,S,,,,,,,,,,Parsnip,112,4b
+4703,,,,,T,,,,,,,,Parsnip,112,4b
+4704,,,,,P,P,,,,,,,Parsnip,112,4b
+4705,,S,S,S,,,,,,,,,Parsnip,14,5b
+4706,,,,,T,,,,,,,,Parsnip,14,5b
+4707,,,,,P,P,,,,,,,Parsnip,14,5b
+4708,,S,S,S,,,,,,,,,Parsnip,16,6a
+4709,,,,,T,,,,,,,,Parsnip,16,6a
+4710,,,,,P,P,,,,,,,Parsnip,16,6a
+4711,,S,S,S,,,,,,,,,Parsnip,113,6b
+4712,,,,,T,,,,,,,,Parsnip,113,6b
+4713,,,,,P,P,,,,,,,Parsnip,113,6b
+4714,,S,S,S,,,,,,,,,Parsnip,10,7a
+4715,,,,,T,,,,,,,,Parsnip,10,7a
+4716,,,,,P,P,,,,,,,Parsnip,10,7a
+4717,,S,S,,,,,,,,,,Parsnip,114,7b
+4718,,,,T,T,,,,,,,,Parsnip,114,7b
+4719,,,,P,P,P,,,,,,,Parsnip,114,7b
+4720,S,S,S,,,,,,,,,,Parsnip,13,8a
+4721,,,,T,,,,,,,,,Parsnip,13,8a
+4722,,,,P,P,,,,,,,,Parsnip,13,8a
+4723,S,S,S,,,,,,,,,,Parsnip,12,8b
+4724,,,,T,,,,,,,,,Parsnip,12,8b
+4725,,,,P,P,,,,,,,,Parsnip,12,8b
+4726,S,S,,,,,,,,,,,Parsnip,115,9a
+4727,,,T,,,,,,,,,,Parsnip,115,9a
+4728,,,P,P,P,,,,,,,,Parsnip,115,9a
+4729,S,S,,,,,,,,,,,Parsnip,116,9b
+4730,,,T,,,,,,,,,,Parsnip,116,9b
+4731,,,P,P,P,,,,,,,,Parsnip,116,9b
+4769,,,P,P,P,,,,,,,,Peas,107,2a
+4770,,,P,P,P,,,,,,,,Peas,108,2b
+4771,,,P,P,P,,,,,,,,Peas,109,3a
+4772,,,P,P,P,,,,,,,,Peas,110,3b
+4773,,,P,P,P,,,,,,,,Peas,111,4a
+4774,,,P,P,P,,,,,,,,Peas,112,4b
+4775,,,P,P,P,,,,,,,,Peas,11,5a
+4776,,,P,P,P,,,,,,,,Peas,14,5b
+4777,,,P,P,P,,,,,,,,Peas,16,6a
+4778,,,P,P,P,,,,,,,,Peas,113,6b
+4779,,,P,P,,,,,,,,,Peas,10,7a
+4780,,,P,P,,,,,,,,,Peas,114,7b
+4781,P,P,P,,,,,,,,,,Peas,13,8a
+4782,P,P,P,,,,,,,,,,Peas,12,8b
+4783,P,P,P,,,,,,,,,,Peas,115,9a
+4784,P,P,P,,,,,,,,,,Peas,116,9b
+4785,P,P,,,,,,,,,P,P,Peas,15,10a
+4786,P,P,,,,,,,,,P,P,Peas,100,10b
+4787,P,P,,,,,,,,,,,Peas,101,11a
+4788,P,P,,,,,,,,,,,Peas,102,11b
+4816,,,,P,P,,,,,,,,Potato,107,2a
+4817,,,,P,P,,,,,,,,Potato,108,2b
+4818,,,,P,P,,,,,,,,Potato,109,3a
+4819,,,,P,P,,,,,,,,Potato,110,3b
+4820,,,,P,P,,,,,,,,Potato,111,4a
+4821,,,,P,P,,,,,,,,Potato,112,4b
+4822,,,,P,P,,,,,,,,Potato,11,5a
+4823,,,,P,P,,,,,,,,Potato,14,5b
+4824,,,,P,P,,,,,,,,Potato,16,6a
+4825,,,,P,P,,,,,,,,Potato,113,6b
+4826,,,P,P,,,,P,,,,,Potato,10,7a
+4827,,,P,P,,,,,,,,,Potato,114,7b
+4828,,P,P,P,,,,P,,,,,Potato,13,8a
+4829,,P,P,P,,,,P,,,,,Potato,12,8b
+4830,P,,,,,,,,,P,P,,Potato,115,9a
+4831,P,,,,,,,,,P,P,,Potato,116,9b
+4832,P,P,,,,,,,,P,P,,Potato,15,10a
+4833,P,P,,,,,,,,P,P,,Potato,100,10b
+4834,P,P,,,,,,,,,,P,Potato,101,11a
+4835,P,P,,,,,,,,,,P,Potato,102,11b
+4896,,,,S,,,,,,,,,Pumpkin,107,2a
+4897,,,,,T,,,,,,,,Pumpkin,107,2a
+4898,,,,,P,,,,,,,,Pumpkin,107,2a
+4899,,,,S,,,,,,,,,Pumpkin,108,2b
+4900,,,,,T,,,,,,,,Pumpkin,108,2b
+4901,,,,,P,,,,,,,,Pumpkin,108,2b
+4902,,S,S,,,,,,,,,,Pumpkin,109,3a
+4903,,,,,T,,,,,,,,Pumpkin,109,3a
+4904,,,,,P,,,,,,,,Pumpkin,109,3a
+4905,,S,S,,,,,,,,,,Pumpkin,110,3b
+4906,,,,,T,,,,,,,,Pumpkin,110,3b
+4907,,,,,P,,,,,,,,Pumpkin,110,3b
+4908,,S,S,,,,,,,,,,Pumpkin,111,4a
+4909,,,,,T,,,,,,,,Pumpkin,111,4a
+4910,,,,,P,,,,,,,,Pumpkin,111,4a
+4911,,S,S,,,,,,,,,,Pumpkin,112,4b
+4912,,,,,T,,,,,,,,Pumpkin,112,4b
+4913,,,,,P,,,,,,,,Pumpkin,112,4b
+4914,,S,S,,,,,,,,,,Pumpkin,11,5a
+4915,,,,,T,,,,,,,,Pumpkin,11,5a
+4916,,,,,P,,,,,,,,Pumpkin,11,5a
+4917,,,S,,,,,,,,,,Pumpkin,14,5b
+4918,,,,,T,,,,,,,,Pumpkin,14,5b
+4919,,,,,P,,,,,,,,Pumpkin,14,5b
+4920,,,S,,,,,,,,,,Pumpkin,16,6a
+4921,,,,,T,,,,,,,,Pumpkin,16,6a
+4922,,,,,P,,,,,,,,Pumpkin,16,6a
+4923,,,S,S,,,,,,,,,Pumpkin,113,6b
+4924,,,,,T,T,,,,,,,Pumpkin,113,6b
+4925,,,,,P,P,,,,,,,Pumpkin,113,6b
+4926,,,S,S,,,,,,,,,Pumpkin,10,7a
+4927,,,,,T,,,,,,,,Pumpkin,10,7a
+4928,,,,,P,P,,,,,,,Pumpkin,10,7a
+4929,,S,S,,,,,,,,,,Pumpkin,114,7b
+4930,,,,T,T,,,,,,,,Pumpkin,114,7b
+4931,,,,P,P,P,,,,,,,Pumpkin,114,7b
+4932,,,S,S,,,,,,,,,Pumpkin,13,8a
+4933,,,,,T,,,,,,,,Pumpkin,13,8a
+4934,,,,,P,,,,,,,,Pumpkin,13,8a
+4935,,,S,S,,,,,,,,,Pumpkin,12,8b
+4936,,,,,T,,,,,,,,Pumpkin,12,8b
+4937,,,,,P,,,,,,,,Pumpkin,12,8b
+4938,S,,,,,,,,,,,,Pumpkin,115,9a
+4939,,T,T,,,,,,,,,,Pumpkin,115,9a
+4940,,P,P,P,,,,P,,,,,Pumpkin,115,9a
+4941,S,,,,,,,,,,,,Pumpkin,116,9b
+4942,,T,T,,,,,,,,,,Pumpkin,116,9b
+4943,,P,P,P,,,,P,,,,,Pumpkin,116,9b
+4944,,P,P,,,,,P,,,,,Pumpkin,15,10a
+4945,,P,P,,,,,,,,,,Pumpkin,100,10b
+4946,P,P,,,,,,,,,,,Pumpkin,101,11a
+4947,P,P,,,,,,,,,,,Pumpkin,102,11b
+4948,P,,,,,,,,,,,,Pumpkin,103,12a
+4949,P,,,,,,,,,,,,Pumpkin,104,12b
+4950,P,,,,,,,,,,,,Pumpkin,105,13a
+4951,P,,,,,,,,,,,,Pumpkin,106,13b
+4979,,,P,P,P,P,P,P,,,,,Radish,107,2a
+4980,,,P,P,P,P,P,P,,,,,Radish,108,2b
+4981,,,,P,P,P,,P,,,,,Radish,109,3a
+4982,,,,P,P,P,,P,,,,,Radish,110,3b
+4983,,,,P,P,P,,P,,,,,Radish,111,4a
+4984,,,,P,P,P,,P,,,,,Radish,112,4b
+4985,,,P,P,P,,,P,,,,,Radish,11,5a
+4986,,,P,P,P,,,P,,,,,Radish,14,5b
+4987,,,P,P,P,,P,,,,,,Radish,16,6a
+4988,,,P,P,P,,,,,,,,Radish,113,6b
+4989,T,,,,,,,,,,,,Radish,10,7a
+4990,P,P,P,,,,,,P,P,,,Radish,10,7a
+4991,P,P,P,P,,,,,P,P,,,Radish,114,7b
+4992,T,,,,,,,,,,,,Radish,13,8a
+4993,P,P,P,,,,,,P,P,,,Radish,13,8a
+4994,T,,,,,,,,,,,,Radish,12,8b
+4995,P,P,P,,,,,,P,P,,,Radish,12,8b
+4996,P,P,P,,,,,,P,P,P,P,Radish,115,9a
+4997,P,P,P,,,,,P,P,P,P,P,Radish,116,9b
+4998,P,P,P,,,,,,P,P,P,P,Radish,15,10a
+4999,P,P,P,,,,,,P,P,P,P,Radish,100,10b
+5026,,,S,,,,,,,,,,Rhubarb,107,2a
+5027,,,,T,,,,,,,,,Rhubarb,107,2a
+5028,,,,P,,,,,,,,,Rhubarb,107,2a
+5029,,,S,,,,,,,,,,Rhubarb,108,2b
+5030,,,,T,,,,,,,,,Rhubarb,108,2b
+5031,,,,P,,,,,,,,,Rhubarb,108,2b
+5032,,,,,,,P,,,,,,Rhubarb,109,3a
+5033,,,,,,,P,,,,,,Rhubarb,110,3b
+5034,,,,,,,P,,,,,,Rhubarb,111,4a
+5035,,,,,,,P,,,,,,Rhubarb,112,4b
+5036,,,,P,,,,,,,,,Rhubarb,11,5a
+5037,,,P,,,,,,,,,,Rhubarb,14,5b
+5038,,,P,,,,,,,,,,Rhubarb,16,6a
+5039,,,P,,,,,,,,,,Rhubarb,113,6b
+5040,,P,,,,,,,,,,,Rhubarb,10,7a
+5041,,P,,,,,,,,,,,Rhubarb,114,7b
+5042,,P,,,,,,,,,,,Rhubarb,13,8a
+5043,,P,,,,,,,,,,,Rhubarb,12,8b
+5071,,,,,,P,P,,,,,,Rocket,107,2a
+5072,,,,,,P,P,,,,,,Rocket,108,2b
+5073,,,,,,P,P,,,,,,Rocket,109,3a
+5074,,,,,,P,P,,,,,,Rocket,110,3b
+5075,,,,S,,,,,,,,,Rocket,111,4a
+5076,,,,,T,,,,,,,,Rocket,111,4a
+5077,,,,,P,P,,P,,,,,Rocket,111,4a
+5078,,,,S,,,,,,,,,Rocket,112,4b
+5079,,,,,T,,,,,,,,Rocket,112,4b
+5080,,,,,P,P,,P,,,,,Rocket,112,4b
+5081,,,S,,,,,,,,,,Rocket,11,5a
+5082,,,,T,,,,,,,,,Rocket,11,5a
+5083,,,,P,P,,,P,,,,,Rocket,11,5a
+5084,,,S,,,,,,,,,,Rocket,14,5b
+5085,,,,T,,,,,,,,,Rocket,14,5b
+5086,,,,P,P,,,P,,,,,Rocket,14,5b
+5087,,,,,,P,P,P,,,,,Rocket,16,6a
+5088,,,,,,P,P,P,,,,,Rocket,113,6b
+5089,,,,,,,P,P,P,,,,Rocket,10,7a
+5090,,,,,,,P,P,P,,,,Rocket,114,7b
+5091,,,,,,,,P,P,P,,,Rocket,13,8a
+5092,,,,,,,,,P,P,P,,Rocket,12,8b
+5093,S,,,,,,,,,,,,Rocket,115,9a
+5094,,T,,,,,,,,,,,Rocket,115,9a
+5095,,P,P,,,,,,,P,P,,Rocket,115,9a
+5096,S,,,,,,,,,,,,Rocket,116,9b
+5097,,T,,,,,,,,,,,Rocket,116,9b
+5098,,P,P,,,,,,,P,P,,Rocket,116,9b
+5099,S,,,,,,,,,,,,Rocket,15,10a
+5100,,T,,,,,,,,,,,Rocket,15,10a
+5101,,P,P,,,,,,,,P,,Rocket,15,10a
+5102,S,,,,,,,,,,,,Rocket,100,10b
+5103,,T,,,,,,,,,,,Rocket,100,10b
+5104,,P,P,,,,,,,,P,,Rocket,100,10b
+5145,,,,S,,,,,,,,,Rockmelon,111,4a
+5146,,,,,,T,,,,,,,Rockmelon,111,4a
+5147,,,,,,P,,,,,,,Rockmelon,111,4a
+5148,,,,S,,,,,,,,,Rockmelon,112,4b
+5149,,,,,,T,,,,,,,Rockmelon,112,4b
+5150,,,,,,P,,,,,,,Rockmelon,112,4b
+5151,,,S,S,,,,,,,,,Rockmelon,11,5a
+5152,,,,,T,T,,,,,,,Rockmelon,11,5a
+5153,,,,,P,P,,,,,,,Rockmelon,11,5a
+5154,,,S,S,,,,,,,,,Rockmelon,14,5b
+5155,,,,,T,T,,,,,,,Rockmelon,14,5b
+5156,,,,,P,P,,,,,,,Rockmelon,14,5b
+5157,,,S,S,,,,,,,,,Rockmelon,16,6a
+5158,,,,,T,T,,,,,,,Rockmelon,16,6a
+5159,,,,,P,P,,,,,,,Rockmelon,16,6a
+5160,,,S,S,,,,,,,,,Rockmelon,113,6b
+5161,,,,,T,T,,,,,,,Rockmelon,113,6b
+5162,,,,,P,P,,,,,,,Rockmelon,113,6b
+5163,,,S,S,,,,,,,,,Rockmelon,10,7a
+5164,,,,,T,T,,,,,,,Rockmelon,10,7a
+5165,,,,,P,P,,,,,,,Rockmelon,10,7a
+5166,,,S,S,,,,,,,,,Rockmelon,114,7b
+5167,,,,,T,T,,,,,,,Rockmelon,114,7b
+5168,,,,,P,P,,,,,,,Rockmelon,114,7b
+5169,,S,S,,,,,,,,,,Rockmelon,13,8a
+5170,,,,T,,,,,,,,,Rockmelon,13,8a
+5171,,,P,P,,,,,,,,,Rockmelon,13,8a
+5172,,S,S,,,,,,,,,,Rockmelon,12,8b
+5173,,,,T,,,,,,,,,Rockmelon,12,8b
+5174,,,P,P,,,,,,,,,Rockmelon,12,8b
+5175,S,S,,,,,,,,,,,Rockmelon,115,9a
+5176,,,T,T,,,,,,,,,Rockmelon,115,9a
+5177,,,P,P,P,,,,,,,,Rockmelon,115,9a
+5178,S,S,,,,,,,,,,,Rockmelon,116,9b
+5179,,,T,T,,,,,,,,,Rockmelon,116,9b
+5180,,,P,P,P,,,,,,,,Rockmelon,116,9b
+5181,S,S,,,,,,,,,,,Rockmelon,15,10a
+5182,,,T,T,,,,,,,,,Rockmelon,15,10a
+5183,,,P,P,P,,,,,,,,Rockmelon,15,10a
+5184,S,S,,,,,,,,,,,Rockmelon,100,10b
+5185,,,T,T,,,,,,,,,Rockmelon,100,10b
+5186,,,P,P,P,,,,,,,,Rockmelon,100,10b
+5187,P,,,,,,,,,,,,Rockmelon,101,11a
+5188,P,,,,,,,,,,,,Rockmelon,102,11b
+5189,P,,,,,,,,,,,,Rockmelon,103,12a
+5190,P,,,,,,,,,,,,Rockmelon,104,12b
+5191,,,P,P,P,P,P,,,,,,Rockmelon,105,13a
+5192,,,P,P,P,P,,,,,,,Rockmelon,106,13b
+5212,S,,,,,,,,,,,,Rosella,115,9a
+5213,,,T,,,,,,,,,,Rosella,115,9a
+5214,,,P,,,,,,,,,,Rosella,115,9a
+5215,S,,,,,,,,,,,,Rosella,116,9b
+5216,,,T,,,,,,,,,,Rosella,116,9b
+5217,,,P,,,,,,,,,,Rosella,116,9b
+5218,S,,,,,,,,,,,,Rosella,15,10a
+5219,,,T,,,,,,,,,,Rosella,15,10a
+5220,,,P,,,,,,,,,,Rosella,15,10a
+5221,S,,,,,,,,,,,,Rosella,100,10b
+5222,,,T,,,,,,,,,,Rosella,100,10b
+5223,,,P,,,,,,,,,,Rosella,100,10b
+5224,S,,,,,,,,,,,,Rosella,101,11a
+5225,,,T,,,,,,,,,,Rosella,101,11a
+5226,,,P,,,,,,,,,,Rosella,101,11a
+5227,S,,,,,,,,,,,,Rosella,102,11b
+5228,,,T,,,,,,,,,,Rosella,102,11b
+5229,,,P,,,,,,,,,,Rosella,102,11b
+5230,S,,,,,,,,,,,,Rosella,103,12a
+5231,,,T,,,,,,,,,,Rosella,103,12a
+5232,,,P,,,,,,,,,,Rosella,103,12a
+5233,S,,,,,,,,,,,,Rosella,104,12b
+5234,,,T,,,,,,,,,,Rosella,104,12b
+5235,,,P,,,,,,,,,,Rosella,104,12b
+5236,S,,,,,,,,,,,,Rosella,105,13a
+5237,,,T,,,,,,,,,,Rosella,105,13a
+5238,,,P,,,,,,,,,,Rosella,105,13a
+5239,S,,,,,,,,,,,,Rosella,106,13b
+5240,,,T,,,,,,,,,,Rosella,106,13b
+5241,,,P,,,,,,,,,,Rosella,106,13b
+5282,,,,,S,,,,,,,,Rosemary,111,4a
+5283,,,,,,T,,,,,,,Rosemary,111,4a
+5284,,,,,S,,,,,,,,Rosemary,112,4b
+5285,,,,,,T,,,,,,,Rosemary,112,4b
+5286,,,,S,,,,,,,,,Rosemary,11,5a
+5287,,,,,T,,,,,,,,Rosemary,11,5a
+5288,,,,S,,,,,,,,,Rosemary,14,5b
+5289,,,,,T,,,,,,,,Rosemary,14,5b
+5290,,,S,,,,,,,,,,Rosemary,16,6a
+5291,,,,T,,,,,,,,,Rosemary,16,6a
+5292,,,S,,,,,,,,,,Rosemary,113,6b
+5293,,,,T,,,,,,,,,Rosemary,113,6b
+5294,,,S,,,,,,,,,,Rosemary,10,7a
+5295,,,,T,,,,,,,,,Rosemary,10,7a
+5296,,,,P,P,,,,,,,,Rosemary,10,7a
+5297,,,S,,,,,,,,,,Rosemary,114,7b
+5298,,,,T,,,,,,,,,Rosemary,114,7b
+5299,,,,P,P,,,,,,,,Rosemary,114,7b
+5300,S,S,,,,,,,,,,,Rosemary,13,8a
+5301,,,T,,,,,,,,,,Rosemary,13,8a
+5302,,,P,P,,,,,,,,,Rosemary,13,8a
+5303,S,S,,,,,,,,,,,Rosemary,12,8b
+5304,,,T,,,,,,,,,,Rosemary,12,8b
+5305,,,P,P,,,,,,,,,Rosemary,12,8b
+5306,S,,,,,,,,,,,,Rosemary,115,9a
+5307,,T,,,,,,,,,,,Rosemary,115,9a
+5308,,P,P,,,,,,,,,,Rosemary,115,9a
+5309,S,,,,,,,,,,,,Rosemary,116,9b
+5310,,T,,,,,,,,,,,Rosemary,116,9b
+5311,,P,P,,,,,,,P,,,Rosemary,116,9b
+5312,S,,,,,,,,,,,,Rosemary,15,10a
+5313,,T,,,,,,,,,,,Rosemary,15,10a
+5314,,P,P,,,,,,,P,,,Rosemary,15,10a
+5315,S,,,,,,,,,,,,Rosemary,100,10b
+5316,,T,,,,,,,,,,,Rosemary,100,10b
+5317,,P,P,,,,,,,P,,,Rosemary,100,10b
+5385,,,,,,P,,,,,,,Rutabaga,107,2a
+5386,,,,,,P,,,,,,,Rutabaga,108,2b
+5387,,,,,,P,P,,,,,,Rutabaga,109,3a
+5388,,,,,,P,P,,,,,,Rutabaga,110,3b
+5389,,,,,,P,P,,,,,,Rutabaga,111,4a
+5390,,,,,,P,P,,,,,,Rutabaga,112,4b
+5391,,,,,,,P,P,,,,,Rutabaga,11,5a
+5392,,,,,,,P,P,,,,,Rutabaga,14,5b
+5393,,,,,,,P,P,,,,,Rutabaga,16,6a
+5394,,,,,,,,P,P,,,,Rutabaga,113,6b
+5395,,,,,,,,P,P,P,,,Rutabaga,10,7a
+5396,,,,,,,,P,P,P,,,Rutabaga,114,7b
+5397,,,,,,,,,,P,P,P,Rutabaga,13,8a
+5398,,,,,,,,,,P,P,P,Rutabaga,12,8b
+5399,,,,,,,,,,,P,P,Rutabaga,115,9a
+5400,,,,,,,,,,,P,P,Rutabaga,116,9b
+5401,P,,,,,,,,,,,P,Rutabaga,15,10a
+5402,P,,,,,,,,,,,P,Rutabaga,100,10b
+5439,,,,P,,,,,,,,,Sage,11,5a
+5440,,,,P,,,,,,,,,Sage,14,5b
+5441,,,P,P,,,,,,,,,Sage,16,6a
+5442,,,P,P,,,,,,,,,Sage,113,6b
+5443,,,P,P,P,,,,,,,,Sage,10,7a
+5444,,,P,P,P,,,,,,,,Sage,114,7b
+5445,,,,P,P,,,,,,,,Sage,13,8a
+5446,,,,P,P,,,,,,,,Sage,12,8b
+5447,,P,P,P,,,,,,,,,Sage,115,9a
+5448,,P,P,P,,,,,,,,,Sage,116,9b
+5449,,,,,,,,,,P,,,Sage,15,10a
+5450,,,,,,,,,,P,,,Sage,100,10b
+5475,,,,,P,,,,,,,,Salsify,110,3b
+5476,,,,,P,,,,,,,,Salsify,111,4a
+5477,,,,,P,,,,,,,,Salsify,112,4b
+5478,,,,P,P,,,,,,,,Salsify,11,5a
+5479,,,,P,P,,,,,,,,Salsify,14,5b
+5480,,,P,P,,,,,,,,,Salsify,16,6a
+5481,,,P,P,,,,,,,,,Salsify,113,6b
+5482,,,P,P,,,,,,,,,Salsify,10,7a
+5483,,,P,P,,,,,,,,,Salsify,114,7b
+5484,,,,,,,,,,P,P,,Salsify,13,8a
+5485,,,,,,,,,,P,P,,Salsify,12,8b
+5486,,,,,,,,P,P,,,,Salsify,115,9a
+5487,,,,,,,,P,P,,,,Salsify,116,9b
+5488,,,,,,,,,,,P,P,Salsify,15,10a
+5489,,,,,,,,,,,P,P,Salsify,100,10b
+5521,,,,,P,P,P,,,,,,Savory - summer savory,107,2a
+5522,,,,,P,P,P,,,,,,Savory - summer savory,108,2b
+5523,,,,,P,P,P,,,,,,Savory - summer savory,109,3a
+5524,,,,,P,P,P,,,,,,Savory - summer savory,110,3b
+5525,,,,,P,P,P,,,,,,Savory - summer savory,111,4a
+5526,,,,,P,P,P,,,,,,Savory - summer savory,112,4b
+5527,,,,P,P,P,,,,,,,Savory - summer savory,11,5a
+5528,,,,P,P,P,,,,,,,Savory - summer savory,14,5b
+5529,,,,P,P,P,,,,,,,Savory - summer savory,16,6a
+5530,,,,P,P,P,,,,,,,Savory - summer savory,113,6b
+5531,,,,P,P,P,,,,,,,Savory - summer savory,10,7a
+5532,,,,P,P,P,,,,,,,Savory - summer savory,114,7b
+5533,,,P,P,P,,,,,,,,Savory - summer savory,13,8a
+5534,,,P,P,P,,,,,,,,Savory - summer savory,12,8b
+5535,,S,,,,,,,,,,,Savory - summer savory,115,9a
+5536,,,T,T,,,,,,,,,Savory - summer savory,115,9a
+5537,,,P,P,,,,,,,,,Savory - summer savory,115,9a
+5538,,S,,,,,,,,,,,Savory - summer savory,116,9b
+5539,,,T,T,,,,,,,,,Savory - summer savory,116,9b
+5540,,,P,P,,,,,,,,,Savory - summer savory,116,9b
+5541,,S,,,,,,,,,,,Savory - summer savory,15,10a
+5542,,,T,,,,,,,,,,Savory - summer savory,15,10a
+5543,,,P,,,,,,,,,,Savory - summer savory,15,10a
+5544,,S,,,,,,,,,,,Savory - summer savory,100,10b
+5545,,,P,,,,,,,,,,Savory - summer savory,100,10b
+5546,P,P,,,,,,,,,,,Savory - summer savory,101,11a
+5547,P,P,,,,,,,,,,,Savory - summer savory,102,11b
+5548,P,,,,,,,,,,,P,Savory - summer savory,103,12a
+5549,P,,,,,,,,,,,P,Savory - summer savory,104,12b
+5550,P,,,,,,,,,,,,Savory - summer savory,105,13a
+5551,P,,,,,,,,,,,,Savory - summer savory,106,13b
+5593,,,S,S,,,,,,,,,Savory - winter savory,11,5a
+5594,,,,,T,,,,,,,,Savory - winter savory,11,5a
+5595,,,,,P,P,,,,,,,Savory - winter savory,11,5a
+5596,,,S,S,,,,,,,,,Savory - winter savory,14,5b
+5597,,,,,T,,,,,,,,Savory - winter savory,14,5b
+5598,,,,,P,P,,,,,,,Savory - winter savory,14,5b
+5599,,,S,S,,,,,,,,,Savory - winter savory,16,6a
+5600,,,,,T,,,,,,,,Savory - winter savory,16,6a
+5601,,,,,P,P,,,,,,,Savory - winter savory,16,6a
+5602,,,S,S,,,,,,,,,Savory - winter savory,113,6b
+5603,,,,,T,,,,,,,,Savory - winter savory,113,6b
+5604,,,,,P,P,,,,,,,Savory - winter savory,113,6b
+5605,,,S,S,,,,,,,,,Savory - winter savory,10,7a
+5606,,,,,T,,,,,,,,Savory - winter savory,10,7a
+5607,,,,,P,P,,,,,,,Savory - winter savory,10,7a
+5608,,,S,S,,,,,,,,,Savory - winter savory,114,7b
+5609,,,,,T,,,,,,,,Savory - winter savory,114,7b
+5610,,,,,P,P,,,,,,,Savory - winter savory,114,7b
+5611,,S,S,,,,,,,,,,Savory - winter savory,13,8a
+5612,,,,T,,,,,,,,,Savory - winter savory,13,8a
+5613,,,,P,P,,,,,,,,Savory - winter savory,13,8a
+5614,,S,S,,,,,,,,,,Savory - winter savory,12,8b
+5615,,,,T,,,,,,,,,Savory - winter savory,12,8b
+5616,,,,P,P,,,,,,,,Savory - winter savory,12,8b
+5669,,,,S,,,,,,,,,Shallots,107,2a
+5670,,,,,T,T,,,,,,,Shallots,107,2a
+5671,,,,,P,P,,,,,,,Shallots,107,2a
+5672,,,,S,,,,,,,,,Shallots,109,3a
+5673,,,,,T,T,,,,,,,Shallots,109,3a
+5674,,,,,P,P,,,,,,,Shallots,109,3a
+5675,,,,S,,,,,,,,,Shallots,110,3b
+5676,,,,,T,T,,,,,,,Shallots,110,3b
+5677,,,,,P,P,,,,,,,Shallots,110,3b
+5678,,,S,S,,,,,,,,,Shallots,111,4a
+5679,,,,,T,T,,,,,,,Shallots,111,4a
+5680,,,,,P,P,,,,,,,Shallots,111,4a
+5681,,,S,,,,,,,,,,Shallots,112,4b
+5682,,,,T,T,,,,,,,,Shallots,112,4b
+5683,,,,P,P,,,,,,,,Shallots,112,4b
+5684,,,P,,,,,,P,,,,Shallots,11,5a
+5685,,,P,,,,,,P,,,,Shallots,14,5b
+5686,,,P,,,,,,P,,,,Shallots,16,6a
+5687,,,P,,,,,,P,,,,Shallots,113,6b
+5688,,,P,,,,,,,P,,,Shallots,10,7a
+5689,,,P,,,,,,,P,,,Shallots,114,7b
+5690,,,P,,,,,,,,P,,Shallots,13,8a
+5691,,,P,,,,,,,,P,,Shallots,12,8b
+5692,P,,,,,,,,P,P,P,P,Shallots,115,9a
+5693,P,P,,,,,,,P,P,P,P,Shallots,116,9b
+5694,P,P,P,,,,,,P,P,P,P,Shallots,15,10a
+5695,P,P,P,,,,,,P,P,P,P,Shallots,100,10b
+5736,,,S,,,,,,,,,,Silverbeet,107,2a
+5737,,,,,T,,,,,,,,Silverbeet,107,2a
+5738,,,,P,P,,,,,,,,Silverbeet,107,2a
+5739,,,S,,,,,,,,,,Silverbeet,109,3a
+5740,,,,,T,,,,,,,,Silverbeet,109,3a
+5741,,,,P,P,P,,,,,,,Silverbeet,109,3a
+5742,,,S,,,,,,,,,,Silverbeet,110,3b
+5743,,,,,T,,,,,,,,Silverbeet,110,3b
+5744,,,,P,P,P,,,,,,,Silverbeet,110,3b
+5745,,,S,,,,,,,,,,Silverbeet,111,4a
+5746,,,,,T,,,,,,,,Silverbeet,111,4a
+5747,,,,P,P,P,,,,,,,Silverbeet,111,4a
+5748,,,S,,,,,,,,,,Silverbeet,112,4b
+5749,,,,,T,,,,,,,,Silverbeet,112,4b
+5750,,,,P,P,P,,,,,,,Silverbeet,112,4b
+5751,,S,,,,,,,,,,,Silverbeet,11,5a
+5752,,,,T,,,,,,,,,Silverbeet,11,5a
+5753,,,P,P,,,,,,,,,Silverbeet,11,5a
+5754,,S,,,,,,,,,,,Silverbeet,14,5b
+5755,,,,T,,,,,,,,,Silverbeet,14,5b
+5756,,,P,P,,,,,,,,,Silverbeet,14,5b
+5757,,,P,P,P,P,P,,,,,,Silverbeet,16,6a
+5758,,,P,P,P,P,P,,,,,,Silverbeet,113,6b
+5759,,S,,,,,,,,,,,Silverbeet,10,7a
+5760,,,,T,,,,,,,,,Silverbeet,10,7a
+5761,,,P,P,,,,,,,,,Silverbeet,10,7a
+5762,,S,,,,,,,,,,,Silverbeet,114,7b
+5763,,,,T,,,,,,,,,Silverbeet,114,7b
+5764,,,P,P,,,,,,,,,Silverbeet,114,7b
+5765,S,,,,,,,,,,,,Silverbeet,13,8a
+5766,,,T,,,,,,,,,,Silverbeet,13,8a
+5767,,P,P,,,,,P,P,,,,Silverbeet,13,8a
+5768,S,,,,,,,,,,,,Silverbeet,12,8b
+5769,,,T,,,,,,,,,,Silverbeet,12,8b
+5770,,P,P,,,,,P,P,,,,Silverbeet,12,8b
+5771,P,P,,,,,,,,,,,Silverbeet,115,9a
+5772,P,P,,,,,,,,,,,Silverbeet,116,9b
+5815,,,,,P,,,,,,,,Snow Peas,107,2a
+5816,,,,,P,,,,,,,,Snow Peas,108,2b
+5817,,,,P,P,,,,,,,,Snow Peas,109,3a
+5818,,,,P,P,,,,,,,,Snow Peas,110,3b
+5819,,,,P,P,,,,,,,,Snow Peas,111,4a
+5820,,,,P,P,,,,,,,,Snow Peas,112,4b
+5821,,,P,P,P,,,,,,,,Snow Peas,11,5a
+5822,,,P,P,P,,,,,,,,Snow Peas,14,5b
+5823,,,P,P,,,,,,,,,Snow Peas,16,6a
+5824,,,P,P,,,,,,,,,Snow Peas,113,6b
+5825,,,P,P,,,,,,,,,Snow Peas,10,7a
+5826,,,P,P,,,,,,,,,Snow Peas,114,7b
+5827,P,,,,,,,,P,,,,Snow Peas,13,8a
+5828,P,,,,,,,,P,,,,Snow Peas,12,8b
+5829,,,,,,,,,,P,P,,Snow Peas,115,9a
+5830,,,,,,,,,,P,P,,Snow Peas,116,9b
+5831,P,P,,,,,,,,,,,Snow Peas,15,10a
+5832,P,P,,,,,,,,,,,Snow Peas,100,10b
+5866,,,,P,P,,,P,,,,,Spinach,107,2a
+5867,,,,P,P,,,P,,,,,Spinach,108,2b
+5868,,,,P,P,P,P,,,,,,Spinach,109,3a
+5869,,,,P,P,P,P,,,,,,Spinach,110,3b
+5870,,,,P,P,P,,P,,,,,Spinach,111,4a
+5871,,,,P,P,,,P,,,,,Spinach,112,4b
+5872,,,,P,,,,P,P,,,,Spinach,11,5a
+5873,,,,P,,,,P,P,,,,Spinach,14,5b
+5874,,,,P,,,,P,P,,,,Spinach,16,6a
+5875,,,,P,,,,P,P,,,,Spinach,113,6b
+5876,P,P,P,P,,,,,P,P,,,Spinach,10,7a
+5877,P,P,P,P,,,,,P,P,,,Spinach,114,7b
+5878,P,P,P,,,,,,P,P,,,Spinach,13,8a
+5879,,P,P,,,,,,P,P,,,Spinach,12,8b
+5880,,P,,,,,,,,,P,P,Spinach,115,9a
+5881,,P,,,,,,,,,P,P,Spinach,116,9b
+5882,P,P,,,,,,,,P,P,,Spinach,15,10a
+5883,P,P,,,,,,,,P,P,P,Spinach,100,10b
+5945,,,S,,,,,,,,,,Spring onions,107,2a
+5946,,,,,T,,,,,,,,Spring onions,107,2a
+5947,,,,,P,,,,,,,,Spring onions,107,2a
+5948,,,S,,,,,,,,,,Spring onions,108,2b
+5949,,,,,T,,,,,,,,Spring onions,108,2b
+5950,,,,,P,,,,,,,,Spring onions,108,2b
+5951,,,S,,,,,,,,,,Spring onions,109,3a
+5952,,,,,T,,,,,,,,Spring onions,109,3a
+5953,,,,,P,P,,,,,,,Spring onions,109,3a
+5954,,,S,,,,,,,,,,Spring onions,110,3b
+5955,,,,,T,,,,,,,,Spring onions,110,3b
+5956,,,,,P,P,,,,,,,Spring onions,110,3b
+5957,,,P,P,,,,,,,,,Spring onions,111,4a
+5958,,,P,P,,,,,,,,,Spring onions,112,4b
+5959,,S,,,,,,,,,,,Spring onions,11,5a
+5960,,,,P,,,,,,,,,Spring onions,11,5a
+5961,,S,,,,,,,,,,,Spring onions,14,5b
+5962,,,,P,,,,,,,,,Spring onions,14,5b
+5963,,S,,,,,,,,,,,Spring onions,16,6a
+5964,,,,T,,,,,,,,,Spring onions,16,6a
+5965,,,,P,P,P,P,,,,,,Spring onions,16,6a
+5966,,S,,,,,,,,,,,Spring onions,113,6b
+5967,,,,T,,,,,,,,,Spring onions,113,6b
+5968,,,,P,P,P,P,,,,,,Spring onions,113,6b
+5969,,,S,,,,,,,,,,Spring onions,10,7a
+5970,,,,,T,,,,,,,,Spring onions,10,7a
+5971,,,,,P,,,,P,P,,,Spring onions,10,7a
+5972,,,S,,,,,,,,,,Spring onions,114,7b
+5973,,,,,T,,,,,,,,Spring onions,114,7b
+5974,,,,,P,,,,P,P,,,Spring onions,114,7b
+5975,,,,,,,,,,P,P,,Spring onions,13,8a
+5976,,,,,,,,,,P,P,,Spring onions,12,8b
+5977,,,,,,,,,,,P,P,Spring onions,115,9a
+5978,,,,,,,,,,,P,P,Spring onions,116,9b
+5979,P,,,,,,,,,,,P,Spring onions,15,10a
+5980,P,,,,,,,,,,,P,Spring onions,100,10b
+6041,,,,S,,,,,,,,,Squash,107,2a
+6042,,,,,T,,,,,,,,Squash,107,2a
+6043,,,,,P,P,,,,,,,Squash,107,2a
+6044,,,,S,,,,,,,,,Squash,108,2b
+6045,,,,,T,,,,,,,,Squash,108,2b
+6046,,,,,P,P,,,,,,,Squash,108,2b
+6047,,,,S,,,,,,,,,Squash,109,3a
+6048,,,,,,T,,,,,,,Squash,109,3a
+6049,,,,,P,P,,,,,,,Squash,109,3a
+6050,,,,S,,,,,,,,,Squash,110,3b
+6051,,,,,,T,,,,,,,Squash,110,3b
+6052,,,,,P,P,,,,,,,Squash,110,3b
+6053,,,,S,,,,,,,,,Squash,111,4a
+6054,,,,,,T,,,,,,,Squash,111,4a
+6055,,,,,P,P,,,,,,,Squash,111,4a
+6056,,,,S,,,,,,,,,Squash,112,4b
+6057,,,,,,T,,,,,,,Squash,112,4b
+6058,,,,,P,P,,,,,,,Squash,112,4b
+6059,,,S,,,,,,,,,,Squash,11,5a
+6060,,,,T,T,,,,,,,,Squash,11,5a
+6061,,,,P,P,,,,,,,,Squash,11,5a
+6062,,,S,,,,,,,,,,Squash,14,5b
+6063,,,,T,T,,,,,,,,Squash,14,5b
+6064,,,,P,P,,,,,,,,Squash,14,5b
+6065,,,S,,,,,,,,,,Squash,16,6a
+6066,,,,T,T,,,,,,,,Squash,16,6a
+6067,,,,P,P,,,,,,,,Squash,16,6a
+6068,,,S,,,,,,,,,,Squash,113,6b
+6069,,,,T,T,,,,,,,,Squash,113,6b
+6070,,,,P,P,,,,,,,,Squash,113,6b
+6071,,,S,,,,,,,,,,Squash,10,7a
+6072,,,,,T,,,,,,,,Squash,10,7a
+6073,,,,P,P,,,P,,,,,Squash,10,7a
+6074,,,S,,,,,,,,,,Squash,114,7b
+6075,,,,,T,,,,,,,,Squash,114,7b
+6076,,,,P,P,,,P,,,,,Squash,114,7b
+6077,,,S,,,,,,,,,,Squash,13,8a
+6078,,,,,T,,,,,,,,Squash,13,8a
+6079,,,,P,P,,,P,,,,,Squash,13,8a
+6080,,,S,,,,,,,,,,Squash,12,8b
+6081,,,,,T,,,,,,,,Squash,12,8b
+6082,,,,P,P,,,P,,,,,Squash,12,8b
+6083,,,,P,,,,P,P,,,,Squash,115,9a
+6084,,,,P,,,,P,P,,,,Squash,116,9b
+6085,,,P,P,,,,P,P,,,,Squash,15,10a
+6086,,,P,P,,,,P,P,,,,Squash,100,10b
+6125,,,S,S,,,,,,,,,Strawberries from seeds,107,2a
+6126,,,,,,T,,,,,,,Strawberries from seeds,107,2a
+6127,,,,,,P,,,,,,,Strawberries from seeds,107,2a
+6128,,,S,S,,,,,,,,,Strawberries from seeds,108,2b
+6129,,,,,,T,,,,,,,Strawberries from seeds,108,2b
+6130,,S,S,,,,,,,,,,Strawberries from seeds,109,3a
+6131,,,,,T,T,,,,,,,Strawberries from seeds,109,3a
+6132,,,,,P,P,,,,,,,Strawberries from seeds,109,3a
+6133,,S,S,,,,,,,,,,Strawberries from seeds,110,3b
+6134,,,,,T,,,,,,,,Strawberries from seeds,110,3b
+6135,,,,,P,P,,,,,,,Strawberries from seeds,110,3b
+6136,,S,S,,,,,,,,,,Strawberries from seeds,111,4a
+6137,,,,,T,,,,,,,,Strawberries from seeds,111,4a
+6138,,,,,P,P,,,,,,,Strawberries from seeds,111,4a
+6139,,S,S,,,,,,,,,,Strawberries from seeds,112,4b
+6140,,,,,T,,,,,,,,Strawberries from seeds,112,4b
+6141,,,,,P,P,,,,,,,Strawberries from seeds,112,4b
+6142,,S,S,,,,,,,,,,Strawberries from seeds,11,5a
+6143,,,,,T,,,,,,,,Strawberries from seeds,11,5a
+6144,,,,,P,P,,,,,,,Strawberries from seeds,11,5a
+6145,,S,S,,,,,,,,,,Strawberries from seeds,14,5b
+6146,,,,,T,,,,,,,,Strawberries from seeds,14,5b
+6147,,,,,P,P,,,,,,,Strawberries from seeds,14,5b
+6148,,S,S,,,,,,,,,,Strawberries from seeds,16,6a
+6149,,,,,T,,,,,,,,Strawberries from seeds,16,6a
+6150,,,,,P,P,,,,,,,Strawberries from seeds,16,6a
+6151,,S,S,,,,,,,,,,Strawberries from seeds,113,6b
+6152,,,,,T,,,,,,,,Strawberries from seeds,113,6b
+6153,,,,,P,P,,,,,,,Strawberries from seeds,113,6b
+6154,,S,S,,,,,,,,,,Strawberries from seeds,10,7a
+6155,,,,,T,,,,,,,,Strawberries from seeds,10,7a
+6156,,,,,P,P,,,,,,,Strawberries from seeds,10,7a
+6157,,S,S,,,,,,,,,,Strawberries from seeds,114,7b
+6158,,,,,T,,,,,,,,Strawberries from seeds,114,7b
+6159,,,,,P,P,,,,,,,Strawberries from seeds,114,7b
+6160,S,S,,,,,,,,,,,Strawberries from seeds,13,8a
+6161,,,,T,,,,,,,,,Strawberries from seeds,13,8a
+6162,,,,P,P,,,,,,,,Strawberries from seeds,13,8a
+6163,S,S,,,,,,,,,,,Strawberries from seeds,12,8b
+6164,,,,T,,,,,,,,,Strawberries from seeds,12,8b
+6165,,,,P,P,,,,,,,,Strawberries from seeds,12,8b
+6166,S,S,,,,,,,,,,,Strawberries from seeds,115,9a
+6167,,,,T,T,,,,,,,,Strawberries from seeds,115,9a
+6168,S,S,,,,,,,,,,,Strawberries from seeds,116,9b
+6169,,,,T,T,,,,,,,,Strawberries from seeds,116,9b
+6170,S,S,,,,,,,,,,,Strawberries from seeds,15,10a
+6171,,,,T,T,,,,,,,,Strawberries from seeds,15,10a
+6172,S,S,,,,,,,,,,,Strawberries from seeds,100,10b
+6173,,,,T,T,,,,,,,,Strawberries from seeds,100,10b
+6174,S,S,,,,,,,,,,,Strawberries from seeds,101,11a
+6175,,,T,,,,,,,,,,Strawberries from seeds,101,11a
+6176,S,S,,,,,,,,,,,Strawberries from seeds,102,11b
+6177,,,T,,,,,,,,,,Strawberries from seeds,102,11b
+6178,S,,,,,,,,,,,,Strawberries from seeds,103,12a
+6179,,P,,,,,,,,,,,Strawberries from seeds,103,12a
+6180,S,,,,,,,,,,,,Strawberries from seeds,104,12b
+6181,,P,,,,,,,,,,,Strawberries from seeds,104,12b
+6182,S,,,,,,,,,,,,Strawberries from seeds,105,13a
+6183,,P,,,,,,,,,,,Strawberries from seeds,105,13a
+6184,S,,,,,,,,,,,,Strawberries from seeds,106,13b
+6185,,P,,,,,,,,,,,Strawberries from seeds,106,13b
+6217,,,,,P,P,,,,,,,Strawberry Plants,107,2a
+6218,,,,,P,P,,,,,,,Strawberry Plants,108,2b
+6219,,,,,P,P,,,,,,,Strawberry Plants,109,3a
+6220,,,,,P,P,,,,,,,Strawberry Plants,110,3b
+6221,,,,,P,P,,,,,,,Strawberry Plants,111,4a
+6222,,,,,P,P,,,,,,,Strawberry Plants,112,4b
+6223,,,,,P,P,,,,,,,Strawberry Plants,11,5a
+6224,,,,,P,P,,,,,,,Strawberry Plants,14,5b
+6225,,,,,P,P,,,,,,,Strawberry Plants,16,6a
+6226,,,,,P,P,,,,,,,Strawberry Plants,113,6b
+6227,,,P,P,P,P,,,,,,,Strawberry Plants,10,7a
+6228,,,P,P,P,P,,,,,,,Strawberry Plants,114,7b
+6229,,,,P,P,,,,P,P,,,Strawberry Plants,13,8a
+6230,,,,P,P,,,,P,P,,,Strawberry Plants,12,8b
+6231,,,,P,P,,,,P,P,,,Strawberry Plants,115,9a
+6232,,,,P,P,,,,P,P,,,Strawberry Plants,116,9b
+6233,,,,P,P,,,,P,P,,,Strawberry Plants,15,10a
+6234,,,,P,P,,,,P,P,,,Strawberry Plants,100,10b
+6235,,,P,,,,,,,P,P,,Strawberry Plants,101,11a
+6236,,,P,,,,,,,P,P,,Strawberry Plants,102,11b
+6237,,P,,,,,,,,P,P,,Strawberry Plants,103,12a
+6238,,P,,,,,,,,P,P,,Strawberry Plants,104,12b
+6239,,P,,,,,,,,P,P,,Strawberry Plants,105,13a
+6240,,P,,,,,,,,P,P,,Strawberry Plants,106,13b
+6279,,,,,P,P,,,,,,,Sunflower,109,3a
+6280,,,,,P,P,,,,,,,Sunflower,110,3b
+6281,,,,,P,P,,,,,,,Sunflower,111,4a
+6282,,,,,P,P,,,,,,,Sunflower,112,4b
+6283,,,,,P,P,,,,,,,Sunflower,11,5a
+6284,,,,,P,P,,,,,,,Sunflower,14,5b
+6285,,,,P,P,,,,,,,,Sunflower,16,6a
+6286,,,,P,P,,,,,,,,Sunflower,113,6b
+6287,,,,P,P,,,,,,,,Sunflower,10,7a
+6288,,,,P,P,,,,,,,,Sunflower,114,7b
+6289,,,P,P,,,,,,,,,Sunflower,13,8a
+6290,,,P,P,,,,,,,,,Sunflower,12,8b
+6291,,P,P,,,,,,,,,,Sunflower,115,9a
+6292,,P,P,,,,,,,,,,Sunflower,116,9b
+6293,P,P,,,,,,,,,,P,Sunflower,15,10a
+6294,P,P,,,,,,,,,,P,Sunflower,100,10b
+6295,P,P,,,,,,,,,,P,Sunflower,101,11a
+6296,P,P,,,,,,,,,,P,Sunflower,102,11b
+6342,,,,,P,P,,,,,,,Sweet corn,109,3a
+6343,,,,,P,P,,,,,,,Sweet corn,110,3b
+6344,,,,,P,P,,,,,,,Sweet corn,111,4a
+6345,,,,,P,P,,,,,,,Sweet corn,112,4b
+6346,,,,,P,P,,,,,,,Sweet corn,11,5a
+6347,,,,,P,P,,,,,,,Sweet corn,14,5b
+6348,,,,,P,P,,,,,,,Sweet corn,16,6a
+6349,,,,,P,P,,,,,,,Sweet corn,113,6b
+6350,,,P,P,P,P,P,,,,,,Sweet corn,10,7a
+6351,,,P,P,P,P,P,,,,,,Sweet corn,114,7b
+6352,,,P,P,P,P,P,,,,,,Sweet corn,13,8a
+6353,,,P,P,P,P,P,,,,,,Sweet corn,12,8b
+6354,,,,P,P,,,,,,,,Sweet corn,115,9a
+6355,,,,P,P,,,,,,,,Sweet corn,116,9b
+6356,,P,P,,,,,P,P,,,,Sweet corn,15,10a
+6357,,P,P,,,,,P,P,,,,Sweet corn,100,10b
+6411,,,,S,,,,,,,,,Sweet Marjoram,16,6a
+6412,,,,,,T,,,,,,,Sweet Marjoram,16,6a
+6413,,,,,,P,,,,,,,Sweet Marjoram,16,6a
+6414,,,,S,,,,,,,,,Sweet Marjoram,113,6b
+6415,,,,,,T,,,,,,,Sweet Marjoram,113,6b
+6416,,,,,,P,,,,,,,Sweet Marjoram,113,6b
+6417,,,,S,,,,,,,,,Sweet Marjoram,10,7a
+6418,,,,,,T,,,,,,,Sweet Marjoram,10,7a
+6419,,,,,,P,,,,,,,Sweet Marjoram,10,7a
+6420,,,,S,,,,,,,,,Sweet Marjoram,114,7b
+6421,,,,,,T,,,,,,,Sweet Marjoram,114,7b
+6422,,,,,,P,,,,,,,Sweet Marjoram,114,7b
+6423,,,S,,,,,,,,,,Sweet Marjoram,13,8a
+6424,,,,,T,,,,,,,,Sweet Marjoram,13,8a
+6425,,,,,P,,,,,,,,Sweet Marjoram,13,8a
+6426,,,S,,,,,,,,,,Sweet Marjoram,12,8b
+6427,,,,,T,,,,,,,,Sweet Marjoram,12,8b
+6428,,,,,P,,,,,,,,Sweet Marjoram,12,8b
+6429,S,,,,,,,,,,,,Sweet Marjoram,115,9a
+6430,,,T,,,,,,,,,,Sweet Marjoram,115,9a
+6431,,,P,,,,,,,,,,Sweet Marjoram,115,9a
+6432,S,,,,,,,,,,,,Sweet Marjoram,116,9b
+6433,,,T,,,,,,,,,,Sweet Marjoram,116,9b
+6434,,,P,,,,,,,,,,Sweet Marjoram,116,9b
+6435,S,,,,,,,,,,,,Sweet Marjoram,15,10a
+6436,,T,,,,,,,,,,,Sweet Marjoram,15,10a
+6437,,P,,,,,,,,,,,Sweet Marjoram,15,10a
+6438,S,,,,,,,,,,,,Sweet Marjoram,100,10b
+6439,,T,,,,,,,,,,,Sweet Marjoram,100,10b
+6440,,P,,,,,,,,,,,Sweet Marjoram,100,10b
+6441,P,,,,,,,,,,,,Sweet Marjoram,101,11a
+6442,P,,,,,,,,,,,,Sweet Marjoram,102,11b
+6466,,,,,P,,,,,,,,Sweet Potato,16,6a
+6467,,,,,P,,,,,,,,Sweet Potato,113,6b
+6468,,,,P,P,,,,,,,,Sweet Potato,10,7a
+6469,,,,P,P,,,,,,,,Sweet Potato,114,7b
+6470,,,,P,P,P,,,,,,,Sweet Potato,13,8a
+6471,,,,P,P,P,,,,,,,Sweet Potato,12,8b
+6472,,,P,P,P,P,,,,,,,Sweet Potato,115,9a
+6473,,,P,P,P,P,,,,,,,Sweet Potato,116,9b
+6474,,P,P,P,P,P,,,,,,P,Sweet Potato,15,10a
+6475,,P,P,P,P,P,,,,,,,Sweet Potato,100,10b
+6476,,P,P,P,P,P,,,,,,P,Sweet Potato,101,11a
+6477,,P,P,P,P,P,,,,,,P,Sweet Potato,102,11b
+6478,P,,,,,,,,,,,,Sweet Potato,103,12a
+6479,P,,,,,,,,,,,,Sweet Potato,104,12b
+6480,P,,,,,,,,,,,,Sweet Potato,105,13a
+6481,P,,,,,,,,,,,,Sweet Potato,106,13b
+6491,,P,P,,,,,,,,,,Taro,103,12a
+6492,,P,P,,,,,,,,,,Taro,104,12b
+6493,,P,P,,,,,,,,,,Taro,105,13a
+6494,,P,P,,,,,,,,,,Taro,106,13b
+6531,,,,S,,,,,,,,,Thyme,111,4a
+6532,,,,,,T,,,,,,,Thyme,111,4a
+6533,,,,,P,P,,,,,,,Thyme,111,4a
+6534,,,,S,,,,,,,,,Thyme,112,4b
+6535,,,,,,T,,,,,,,Thyme,112,4b
+6536,,,,,P,P,,,,,,,Thyme,112,4b
+6537,,,S,,,,,,,,,,Thyme,11,5a
+6538,,,,,T,,,,,,,,Thyme,11,5a
+6539,,,,P,P,,,,,,,,Thyme,11,5a
+6540,,,S,,,,,,,,,,Thyme,14,5b
+6541,,,,,T,,,,,,,,Thyme,14,5b
+6542,,,,P,P,,,,,,,,Thyme,14,5b
+6543,,,S,,,,,,,,,,Thyme,16,6a
+6544,,,,,T,,,,,,,,Thyme,16,6a
+6545,,,,P,P,,,,,,,,Thyme,16,6a
+6546,,,S,,,,,,,,,,Thyme,113,6b
+6547,,,,,T,,,,,,,,Thyme,113,6b
+6548,,,,P,P,,,,,,,,Thyme,113,6b
+6549,,,S,,,,,,,,,,Thyme,10,7a
+6550,,,,,T,,,,,,,,Thyme,10,7a
+6551,,,,P,P,,,,,,,,Thyme,10,7a
+6552,,,S,,,,,,,,,,Thyme,114,7b
+6553,,,,,T,,,,,,,,Thyme,114,7b
+6554,,,,P,P,,,,,,,,Thyme,114,7b
+6555,,S,,,,,,,,,,,Thyme,13,8a
+6556,,,,T,,,,,,,,,Thyme,13,8a
+6557,,,P,P,,,,,,,,,Thyme,13,8a
+6558,,S,,,,,,,,,,,Thyme,12,8b
+6559,,,,T,,,,,,,,,Thyme,12,8b
+6560,,,P,P,,,,,,,,,Thyme,12,8b
+6561,,S,,,,,,,,,,,Thyme,115,9a
+6562,,,T,,,,,,,,,,Thyme,115,9a
+6563,,,P,,,,,,,,,,Thyme,115,9a
+6564,,S,,,,,,,,,,,Thyme,116,9b
+6565,,,T,,,,,,,,,,Thyme,116,9b
+6566,,,P,,,,,,,P,,,Thyme,116,9b
+6567,S,S,,,,,,,,,,,Thyme,15,10a
+6568,,,T,,,,,,,,,,Thyme,15,10a
+6569,,P,P,,,,,,,P,,,Thyme,15,10a
+6570,S,S,,,,,,,,,,,Thyme,100,10b
+6571,,,T,,,,,,,,,,Thyme,100,10b
+6572,,P,P,,,,,,,P,,,Thyme,100,10b
+6573,,,,,,,,,,,,P,Thyme,106,13b
+6627,,,S,,,,,,,,,,Tomatillo,110,3b
+6628,,,,,T,,,,,,,,Tomatillo,110,3b
+6629,,,,,P,,,,,,,,Tomatillo,110,3b
+6630,,,S,,,,,,,,,,Tomatillo,111,4a
+6631,,,,,T,,,,,,,,Tomatillo,111,4a
+6632,,,,,P,,,,,,,,Tomatillo,111,4a
+6633,,,S,,,,,,,,,,Tomatillo,112,4b
+6634,,,,,T,,,,,,,,Tomatillo,112,4b
+6635,,,,,P,,,,,,,,Tomatillo,112,4b
+6636,,,S,,,,,,,,,,Tomatillo,11,5a
+6637,,,,,T,,,,,,,,Tomatillo,11,5a
+6638,,,,,P,,,,,,,,Tomatillo,11,5a
+6639,,,S,,,,,,,,,,Tomatillo,14,5b
+6640,,,,,T,,,,,,,,Tomatillo,14,5b
+6641,,,,,P,,,,,,,,Tomatillo,14,5b
+6642,,S,,,,,,,,,,,Tomatillo,16,6a
+6643,,,,T,,,,,,,,,Tomatillo,16,6a
+6644,,,,P,P,,,,,,,,Tomatillo,16,6a
+6645,,S,,,,,,,,,,,Tomatillo,113,6b
+6646,,,,T,,,,,,,,,Tomatillo,113,6b
+6647,,,,P,P,,,,,,,,Tomatillo,113,6b
+6648,,,,P,P,,,,,,,,Tomatillo,10,7a
+6649,,,,P,P,,,,,,,,Tomatillo,114,7b
+6650,,,P,P,,,,,,,,,Tomatillo,13,8a
+6651,,,P,P,,,,,,,,,Tomatillo,12,8b
+6652,,,P,P,,,,,,,,,Tomatillo,115,9a
+6653,,,P,P,,,,,,,,,Tomatillo,116,9b
+6654,,,,,,,,,,,,S,Tomatillo,15,10a
+6655,,T,,,,,,,,,,,Tomatillo,15,10a
+6656,,P,,,,,,,,,,,Tomatillo,15,10a
+6657,,,,,,,,,,,,S,Tomatillo,100,10b
+6658,,T,,,,,,,,,,,Tomatillo,100,10b
+6659,,P,,,,,,,,,,,Tomatillo,100,10b
+6660,S,,,,,,,,,,,,Tomatillo,101,11a
+6661,,T,,,,,,,,,,,Tomatillo,101,11a
+6662,,P,,,,,,,,,,,Tomatillo,101,11a
+6663,S,,,,,,,,,,,,Tomatillo,102,11b
+6664,,T,,,,,,,,,,,Tomatillo,102,11b
+6665,,P,,,,,,,,,,,Tomatillo,102,11b
+6725,,,,S,,,,,,,,,Tomato,109,3a
+6726,,,,,T,T,,,,,,,Tomato,109,3a
+6727,,,,,P,,,,,,,,Tomato,109,3a
+6728,,,S,S,,,,,,,,,Tomato,110,3b
+6729,,,,,T,T,,,,,,,Tomato,110,3b
+6730,,,,,P,,,,,,,,Tomato,110,3b
+6731,,,S,S,,,,,,,,,Tomato,111,4a
+6732,,,,,T,T,,,,,,,Tomato,111,4a
+6733,,,,,P,,,,,,,,Tomato,111,4a
+6734,,,S,S,,,,,,,,,Tomato,112,4b
+6735,,,,,T,T,,,,,,,Tomato,112,4b
+6736,,,,,P,,,,,,,,Tomato,112,4b
+6737,,,S,,,,,,,,,,Tomato,11,5a
+6738,,,,T,T,T,,,,,,,Tomato,11,5a
+6739,,,,P,P,,,,,,,,Tomato,11,5a
+6740,,,S,,,,,,,,,,Tomato,14,5b
+6741,,,,T,T,T,,,,,,,Tomato,14,5b
+6742,,,,P,P,,,,,,,,Tomato,14,5b
+6743,,,S,,,,,,,,,,Tomato,16,6a
+6744,,,,T,T,T,,,,,,,Tomato,16,6a
+6745,,,,P,P,,,,,,,,Tomato,16,6a
+6746,,,S,,,,,,,,,,Tomato,113,6b
+6747,,,,T,T,T,,,,,,,Tomato,113,6b
+6748,,,,P,P,,,,,,,,Tomato,113,6b
+6749,,S,S,,,,,,,,,,Tomato,10,7a
+6750,,,,T,T,T,,,,,,,Tomato,10,7a
+6751,,,,P,P,,,,,,,,Tomato,10,7a
+6752,,S,S,,,,,,,,,,Tomato,114,7b
+6753,,,,T,T,T,,,,,,,Tomato,114,7b
+6754,,,,P,P,,,,,,,,Tomato,114,7b
+6755,,S,S,,,,,,,,,,Tomato,13,8a
+6756,,,T,T,T,T,T,,,,,,Tomato,13,8a
+6757,,,,P,P,P,,,,,,,Tomato,13,8a
+6758,,S,S,,,,,,,,,,Tomato,12,8b
+6759,,,T,T,T,T,T,,,,,,Tomato,12,8b
+6760,,,,P,P,P,,,,,,,Tomato,12,8b
+6761,S,S,,,,,,,,,,,Tomato,115,9a
+6762,,,T,T,,,,,,,,,Tomato,115,9a
+6763,,,P,P,,,,P,,,,,Tomato,115,9a
+6764,S,S,,,,,,,,,,,Tomato,116,9b
+6765,,,T,T,,,,,,,,,Tomato,116,9b
+6766,,,P,P,,,,P,,,,,Tomato,116,9b
+6767,S,S,,,,,,,,,,,Tomato,15,10a
+6768,,,T,T,,,,,,,,,Tomato,15,10a
+6769,,,P,P,,,,,P,,,,Tomato,15,10a
+6770,S,S,,,,,,,,,,,Tomato,100,10b
+6771,,,T,T,,,,,,,,,Tomato,100,10b
+6772,,,P,P,,,,,P,P,P,P,Tomato,100,10b
+6773,P,P,P,,,,,,,,,P,Tomato,101,11a
+6774,P,P,P,,,,,,,,,P,Tomato,102,11b
+6775,P,P,P,,,,,,,,,,Tomato,103,12a
+6776,P,P,,,,,,,,,,,Tomato,104,12b
+6777,P,,,,,,,,,,,P,Tomato,105,13a
+6778,P,,,,,,,,,,,P,Tomato,106,13b
+6832,,,,P,P,,,P,P,,,,Turnip,107,2a
+6833,,,,P,P,,,P,P,,,,Turnip,108,2b
+6834,,,,P,P,P,,P,,,,,Turnip,109,3a
+6835,,,,P,,P,,P,,,,,Turnip,110,3b
+6836,,,,P,,P,,P,,,,,Turnip,111,4a
+6837,,,,P,,P,,P,,,,,Turnip,112,4b
+6838,,,P,P,P,,,P,P,,,,Turnip,11,5a
+6839,,,P,P,P,,,P,P,,,,Turnip,14,5b
+6840,,,,,P,,P,P,,,,,Turnip,16,6a
+6841,,,P,P,P,,,P,P,,,,Turnip,113,6b
+6842,P,P,P,,,,,P,P,,,,Turnip,10,7a
+6843,P,P,P,,,,,P,P,,,,Turnip,114,7b
+6844,P,P,P,,,,,P,P,,,,Turnip,13,8a
+6845,P,P,P,,,,,P,P,,,,Turnip,12,8b
+6846,P,P,P,,,,,P,P,P,P,P,Turnip,115,9a
+6847,P,P,P,,,,,P,P,P,P,P,Turnip,116,9b
+6848,P,P,P,,,,,P,P,P,P,P,Turnip,15,10a
+6849,P,P,P,,,,,,P,P,P,P,Turnip,100,10b
+6895,,,,,P,P,,,,,,,Watermelon,111,4a
+6896,,,,,P,P,,,,,,,Watermelon,112,4b
+6897,,,,,P,P,,,,,,,Watermelon,11,5a
+6898,,,,P,P,,,,,,,,Watermelon,14,5b
+6899,,,,P,P,,,,,,,,Watermelon,16,6a
+6900,,,,P,P,,,,,,,,Watermelon,113,6b
+6901,,,S,,,,,,,,,,Watermelon,10,7a
+6902,,,,T,,,,,,,,,Watermelon,10,7a
+6903,,,,P,P,,,,,,,,Watermelon,10,7a
+6904,,,S,,,,,,,,,,Watermelon,114,7b
+6905,,,,T,,,,,,,,,Watermelon,114,7b
+6906,,,,P,P,,,,,,,,Watermelon,114,7b
+6907,,,P,P,,,,,,,,,Watermelon,13,8a
+6908,,,P,P,,,,,,,,,Watermelon,12,8b
+6909,,P,P,,,,,,,,,,Watermelon,115,9a
+6910,,P,P,,,,,,,,,,Watermelon,116,9b
+6911,,,,P,,,,P,P,,,,Watermelon,15,10a
+6912,,,P,,,,,P,P,,,,Watermelon,100,10b
+6913,P,P,,,,,,,,,,,Watermelon,101,11a
+6914,P,P,,,,,,,,,,,Watermelon,102,11b
+6915,P,P,,,,,,,,,,,Watermelon,103,12a
+6916,P,P,,,,,,,,,,,Watermelon,104,12b
+6917,,,P,P,P,P,P,P,P,,,,Watermelon,105,13a
+6918,,,P,P,P,P,P,P,P,,,,Watermelon,106,13b
+6932,,,,P,,,,,,,,,Yacon,16,6a
+6933,,,,P,,,,,,,,,Yacon,113,6b
+6934,,,,P,,,,,,,,,Yacon,10,7a
+6935,,,,P,,,,,,,,,Yacon,114,7b
+6936,,,,,,,,,,,,S,Yacon,13,8a
+6937,,,P,,,,,,,,,,Yacon,13,8a
+6938,,,,,,,,,,,,S,Yacon,12,8b
+6939,,,P,,,,,,,,,,Yacon,12,8b
+6940,,,P,,,,,,,,,,Yacon,115,9a
+6941,,,P,,,,,,,,,,Yacon,116,9b
+6961,,,,S,,,,,,,,,Yam/Oca,111,4a
+6962,,,,,T,,,,,,,,Yam/Oca,111,4a
+6963,,,,,P,,,,,,,,Yam/Oca,111,4a
+6964,,,,S,,,,,,,,,Yam/Oca,112,4b
+6965,,,,,T,,,,,,,,Yam/Oca,112,4b
+6966,,,,,P,,,,,,,,Yam/Oca,112,4b
+6967,,,,P,,,,,,,,,Yam/Oca,11,5a
+6968,,,,P,,,,,,,,,Yam/Oca,14,5b
+6969,,,,P,,,,,,,,,Yam/Oca,16,6a
+6970,,,,P,,,,,,,,,Yam/Oca,113,6b
+6971,,,P,P,,,,,,,,,Yam/Oca,10,7a
+6972,,,P,P,,,,,,,,,Yam/Oca,114,7b
+6973,,P,P,P,,,,,,,,,Yam/Oca,13,8a
+6974,,P,P,P,,,,,,,,,Yam/Oca,12,8b
+6975,P,P,P,,,,,,,,,,Yam/Oca,115,9a
+6976,P,P,P,,,,,,,,,,Yam/Oca,116,9b
+7034,,,,S,,,,,,,,,Zucchini,107,2a
+7035,,,,,T,,,,,,,,Zucchini,107,2a
+7036,,,,S,,,,,,,,,Zucchini,108,2b
+7037,,,,,T,,,,,,,,Zucchini,108,2b
+7038,,,,S,,,,,,,,,Zucchini,109,3a
+7039,,,,,T,,,,,,,,Zucchini,109,3a
+7040,,,,,P,P,,,,,,,Zucchini,109,3a
+7041,,,,S,S,,,,,,,,Zucchini,110,3b
+7042,,,,,,T,,,,,,,Zucchini,110,3b
+7043,,,,,,P,,,,,,,Zucchini,110,3b
+7044,,,,S,S,,,,,,,,Zucchini,111,4a
+7045,,,,,,T,,,,,,,Zucchini,111,4a
+7046,,,,,,P,,,,,,,Zucchini,111,4a
+7047,,,,S,S,,,,,,,,Zucchini,112,4b
+7048,,,,,,T,,,,,,,Zucchini,112,4b
+7049,,,,,,P,,,,,,,Zucchini,112,4b
+7050,,,S,,,,,,,,,,Zucchini,11,5a
+7051,,,,T,,,,,,,,,Zucchini,11,5a
+7052,,,,P,P,P,,,,,,,Zucchini,11,5a
+7053,,,S,,,,,,,,,,Zucchini,14,5b
+7054,,,,T,,,,,,,,,Zucchini,14,5b
+7055,,,,P,P,P,,,,,,,Zucchini,14,5b
+7056,,,S,,,,,,,,,,Zucchini,16,6a
+7057,,,,T,,,,,,,,,Zucchini,16,6a
+7058,,,,P,P,P,,,,,,,Zucchini,16,6a
+7059,,,S,,,,,,,,,,Zucchini,113,6b
+7060,,,,T,,,,,,,,,Zucchini,113,6b
+7061,,,,P,P,P,,,,,,,Zucchini,113,6b
+7062,,,S,,,,,,,,,,Zucchini,10,7a
+7063,,,,T,,,,,,,,,Zucchini,10,7a
+7064,,,,P,P,P,,,,,,,Zucchini,10,7a
+7065,,,S,,,,,,,,,,Zucchini,114,7b
+7066,,,,T,,,,,,,,,Zucchini,114,7b
+7067,,,,P,P,P,,,,,,,Zucchini,114,7b
+7068,,S,,,,,,,,,,,Zucchini,13,8a
+7069,,,T,,,,,,,,,,Zucchini,13,8a
+7070,,,P,P,P,,,,,,,,Zucchini,13,8a
+7071,,S,,,,,,,,,,,Zucchini,12,8b
+7072,,,T,,,,,,,,,,Zucchini,12,8b
+7073,,,P,P,P,,,,,,,,Zucchini,12,8b
+7074,,S,,,,,,,,,,,Zucchini,115,9a
+7075,,,P,P,,,,,,,,,Zucchini,115,9a
+7076,,S,,,,,,,,,,,Zucchini,116,9b
+7077,,,P,P,,,,,,,,,Zucchini,116,9b
+7078,,P,P,,,,,,,,,,Zucchini,15,10a
+7079,,P,P,,,,,,,,,,Zucchini,100,10b
+7080,P,P,,,,,,,,,,,Zucchini,101,11a
+7081,P,P,,,,,,,,,,,Zucchini,102,11b
+7082,P,,,,,,,,,,,P,Zucchini,103,12a
