@@ -1,6 +1,5 @@
 from PIL import Image 
 import os 
-import imghdr
 import random
 import shutil
 import matplotlib.pyplot as plt
@@ -12,7 +11,7 @@ from keras.callbacks import EarlyStopping
 import numpy as np
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
-
+from keras.preprocessing.image import ImageDataGenerator
 
 #TRANSFORMATION, REDISTRIBUTION AND RELOCATION OF THE EXTENDED IMAGE DATASET
 
@@ -121,7 +120,7 @@ def plot_images(image_categories, train_path):
     - train_path: folder train"""
     
     # Create plot
-    plt.figure(figsize=(12, 12))
+    fig = plt.figure(figsize=(12, 12))
 
     #Enumerate adds a counter(label) on the list of vegetables categories
     for label, category in enumerate(image_categories): 
@@ -144,10 +143,10 @@ def plot_images(image_categories, train_path):
         plt.title(category)
         plt.axis('off')
         
-    plt.show()
+    return fig
 
 
-def ImageDataGenerator (train_path, validation_path, test_path, target_size, batch_size): 
+def Image_Data_Generator (path, target_size, batch_size): 
 
     """This function is used to create an image data flow generator that serves to provide 
     batches of image data during the training, validation and test phases of the model. The generator
@@ -156,33 +155,18 @@ def ImageDataGenerator (train_path, validation_path, test_path, target_size, bat
     - train_path, validation_path and test_path: paths to each set of images
     - target_size: tuple that is the width and height in pixel of the images
     - batch size: int, number of samples (images) propagated through the network """
-    train_gen = ImageDataGenerator(rescale = 1.0/255.0) # Normalise the data
-    train_image_generator = train_gen.flow_from_directory(
-                                            train_path,
+    gen = ImageDataGenerator(rescale = 1.0/255.0) # Normalise the data (0,1)
+    image_generator = gen.flow_from_directory(
+                                            path,
                                             target_size=target_size,
                                             batch_size=batch_size,
                                             class_mode='categorical')
 
-# 2. Validation Set
-    val_gen = ImageDataGenerator(rescale = 1.0/255.0) # Normalise the data
-    val_image_generator = train_gen.flow_from_directory(
-                                            validation_path,
-                                            target_size=target_size,
-                                            batch_size=batch_size,
-                                            class_mode='categorical')
-
-# 3. Test Set
-    test_gen = ImageDataGenerator(rescale = 1.0/255.0) # Normalise the data
-    test_image_generator = train_gen.flow_from_directory(
-                                            test_path,
-                                            target_size=target_size,
-                                            batch_size=batch_size,
-                                            class_mode='categorical')
     
-    return train_image_generator, val_image_generator, test_image_generator
+    return image_generator
 
 
-def model_creation ():
+def model_creation (input_shape, num_categories):
     """Fucntion:
     - filters: number of patterns learned by the layer from a input
     - kernel_size: dimensions of the filter for feature extraction
@@ -196,21 +180,19 @@ def model_creation ():
     #Creation of sequential model object
     model = Sequential()
 
-    #Add layers: 
-    model.add(Conv2D(filters=filters, kernel_size=3, strides=1, padding='same', activation='relu', input_shape=[150, 150, 3]))
-    model.add(MaxPooling2D(2)) #reduces the spatial dimensions of the input to 2x2
-    model.add(Conv2D(filters=64, kernel_size=3, strides=1, padding='same', activation='relu'))
-    model.add(MaxPooling2D(2))
+    model.add(
+    Conv2D(filters=20, kernel_size=(3, 3), activation="relu", input_shape=input_shape)
+    )
+    model.add(Conv2D(20, (3, 3), activation="relu"))
+    model.add(MaxPooling2D((2, 2), padding="valid"))
 
-    # Flatten the feature map to reshape the previous layer to one dimesional vector
+    model.add(Conv2D(50, (3, 3), activation="relu"))
+    model.add(Conv2D(50, (3, 3), activation="relu"))
+    model.add(MaxPooling2D((2, 2)))
+
     model.add(Flatten())
-
-    # Add the fully connected layers that are responsible for non-linear mapping between input features and output labels
-    model.add(Dense(128, activation='relu'))
-    model.add(Dropout(0.25)) #to prevent over-fitting droping a 0.25 rate 
-    model.add(Dense(128, activation='relu')) #layer of 128 neurons and apply a relu function
-    model.add(Dense(12, activation='softmax'))
-
+    model.add(Dense(num_categories, activation="softmax"))
+    
     model.summary()
 
     return model
@@ -246,7 +228,7 @@ def plot_trainig_metrics (history):
      performance of the model and determine if there's over-fitting, under-fitting or goodfitting. It takes as 
      an argument the history, which is training history of the model"""
     plt.style.use('ggplot')
-    plt.figure(figsize=(10, 5))
+    fig = plt.figure(figsize=(10, 5))
     plt.plot(history.history['loss'], c='teal', label='Training Loss')
     plt.plot(history.history['val_loss'], c='teal', linestyle='--', label='Validation Loss')
     plt.plot(history.history['accuracy'], c='orange', label='Training Accuracy')
@@ -254,9 +236,11 @@ def plot_trainig_metrics (history):
     plt.xlabel("Number of Epochs")
     plt.legend(loc='best')
     plt.show()
+    
+    return fig
 
 
-def generate_predictions(train_image_generator, test_image_path, actual_label):
+def generate_predictions(model, train_image_generator, test_image_path, actual_label):
 
     class_map = dict([(v, k) for k, v in train_image_generator.class_indices.items()])
     
@@ -271,12 +255,14 @@ def generate_predictions(train_image_generator, test_image_path, actual_label):
     predicted_vegetable = class_map[predicted_label] #Retrieve the vegetable name associated with the label
     
     #3. Plotting
-    plt.figure(figsize=(4, 4))
+    fig = plt.figure(figsize=(4, 4))
     plt.imshow(test_img_arr)
     plt.title("Predicted Label: {}, Actual Label: {}".format(predicted_vegetable, actual_label))
     plt.grid()
     plt.axis('off')
     plt.show()
+
+    return fig
 
 
 def confusion_matrix (test_image_generator, predictions):
@@ -294,6 +280,8 @@ def confusion_matrix (test_image_generator, predictions):
         linewidth=0.5,
         square=True)
     plt.show()
+
+    return fig,ax
 
 
 
