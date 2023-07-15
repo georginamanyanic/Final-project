@@ -12,6 +12,7 @@ import numpy as np
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
 from keras.preprocessing.image import ImageDataGenerator
+import pickle
 
 #TRANSFORMATION, REDISTRIBUTION AND RELOCATION OF THE EXTENDED IMAGE DATASET
 
@@ -146,7 +147,45 @@ def plot_images(image_categories, train_path):
     return fig
 
 
-def Image_Data_Generator (path, target_size, batch_size): 
+class CustomImageDataGenerator(ImageDataGenerator):
+    """Claass to overcome a thread lock problem"""
+    def __getstate__(self):
+        # Exclude the thread lock object from pickling
+        state = self.__dict__.copy()
+        del state['_lock']
+        return state
+
+    def __setstate__(self, state):
+        # Restore the excluded thread lock object
+        state['_lock'] = threading.RLock()
+        self.__dict__.update(state)
+
+
+
+def Image_Data_Generator_train (path, target_size, batch_size): 
+
+    """This function is used to create an image data flow generator that serves to provide 
+    batches of image data during the training, validation and test phases of the model. The generator
+    realizes the loading and pre-processing of the data and it returns batches of images along with 
+    their labels. The function takes the following arguments: 
+    - train_path, validation_path and test_path: paths to each set of images
+    - target_size: tuple that is the width and height in pixel of the images
+    - batch size: int, number of samples (images) propagated through the network """
+    gen = ImageDataGenerator(rescale = 1.0/255.0,# Normalise the data (0,1)
+                            shear_range=0.2, # Data augmentation
+                            zoom_range=0.2, # Data augmentation
+                            horizontal_flip=True)  # Data augmentation
+    image_generator = gen.flow_from_directory(
+                                            path,
+                                            target_size=target_size,
+                                            batch_size=batch_size,
+                                            class_mode='categorical')
+
+    
+    return image_generator
+
+
+def Image_Data_Generator_test_val (path, target_size, batch_size): 
 
     """This function is used to create an image data flow generator that serves to provide 
     batches of image data during the training, validation and test phases of the model. The generator
@@ -166,7 +205,7 @@ def Image_Data_Generator (path, target_size, batch_size):
     return image_generator
 
 
-def model_creation (input_shape, num_categories):
+def model_creation (input_shape, train_generator):
     """Fucntion:
     - filters: number of patterns learned by the layer from a input
     - kernel_size: dimensions of the filter for feature extraction
@@ -180,44 +219,36 @@ def model_creation (input_shape, num_categories):
     #Creation of sequential model object
     model = Sequential()
 
-    model.add(
-    Conv2D(filters=20, kernel_size=(3, 3), activation="relu", input_shape=input_shape)
-    )
-    model.add(Conv2D(20, (3, 3), activation="relu"))
-    model.add(MaxPooling2D((2, 2), padding="valid"))
-
-    model.add(Conv2D(50, (3, 3), activation="relu"))
-    model.add(Conv2D(50, (3, 3), activation="relu"))
-    model.add(MaxPooling2D((2, 2)))
-
+    model = Sequential()
+    model.add(Conv2D(32, (3, 3), activation='relu', input_shape=input_shape))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    model.add(Conv2D(64, (3, 3), activation='relu'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
     model.add(Flatten())
-    model.add(Dense(num_categories, activation="softmax"))
-    
+    model.add(Dense(64, activation='relu'))
+    model.add(Dense(train_generator.num_classes, activation='softmax'))
+
     model.summary()
 
     return model
 
 
-def train_model (model, train_image_generator, validation_image_generator):
+def train_model (model, train_generator, validation_generator, epochs):
     """
     - Optimizer: adam optimizer = momentum optimization + RMSProp
     - loss: categorical_crossentropy = measures difference between predicted class probabilities and true class labels
     """
 
-    # Set up EarlyStopping callback, train will stop if there's no improvement in validation loss for 5 epochs
-    early_stopping = EarlyStopping(patience=5)
-
+    
     # Compile the model
     model.compile(optimizer='Adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
     #Training the model
-    history = model.fit(train_image_generator,
-                        epochs=100,
-                        verbose=1,
-                        validation_data=validation_image_generator,
-                        steps_per_epoch=len(train_image_generator),
-                        validation_steps=len(validation_image_generator),
-                        callbacks=[early_stopping])
+    history = model.fit(train_generator,
+                        epochs=epochs,
+                        steps_per_epoch=50,
+                        validation_data=validation_generator,
+                        validation_steps=len(validation_generator))
     
     return history
 
@@ -240,9 +271,9 @@ def plot_trainig_metrics (history):
     return fig
 
 
-def generate_predictions(model, train_image_generator, test_image_path, actual_label):
+def generate_predictions(model, train_generator, test_image_path, actual_label):
 
-    class_map = dict([(v, k) for k, v in train_image_generator.class_indices.items()])
+    class_map = dict([(v, k) for k, v in train_generator.class_indices.items()])
     
     # 1. Load and preprocess the image
     test_img = image.load_img(test_image_path, target_size=(150, 150))
@@ -265,20 +296,29 @@ def generate_predictions(model, train_image_generator, test_image_path, actual_l
     return fig
 
 
-def confusion_matrix (test_image_generator, predictions):
+def conf_matrix (test_generator, predictions):
 
     y_pred_class = np.argmax(predictions, axis=1)
-    y_true_class = test_image_generator.classes
+    y_true_class = test_generator.classes
+    class_labels = list(test_generator.class_indices.keys())
 
+    conf_matrix = confusion_matrix(y_true_class,y_pred_class)
 
     fig, ax = plt.subplots(figsize=(10, 8))
-    sns.heatmap(
-        confusion_matrix(y_true_class, y_pred_class),
+    sns.heatmap(conf_matrix,
         annot=True,
         annot_kws={"fontsize": 10},
         fmt=".0f",
         linewidth=0.5,
-        square=True)
+        square=True,
+        cmap="YlGnBu", 
+        )
+    plt.xticks(np.arange(len(class_labels)), class_labels, rotation=90)
+    plt.yticks(np.arange(len(class_labels)), class_labels)
+    plt.xlabel("Predicted Class")
+    plt.ylabel("True Class")
+    plt.title("Confusion Matrix")
+
     plt.show()
 
     return fig,ax
