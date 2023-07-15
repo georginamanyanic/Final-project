@@ -27,8 +27,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-image = Image.open('"c:/Users/manya/Documents/Ironhack/Course/Final-project/pages/urban_garden_1.jpg')
-st.image(image, caption = 'Barcelona urban garden')
+image = Image.open('c:/Users/manya/Documents/Ironhack/Course/Final-project/images_15/urban_garden_1.jpg')
+st.image(image, caption = 'Barcelona urban garden', use_column_width=True)
+
 
 st.markdown("""
             <p class='center'> GreenAdvisor is a tool that empowers citizens to embark on their journey as urban gardeners by providing them with valuable information on how and when to plant their desired crops. Whether if you're a beginner or an experienced gardener, GreenAdvisor equips you with the necessary knowledge to make well-grounded decisions about your garden.</span></p>
