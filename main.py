@@ -16,6 +16,8 @@ import keras.models
 from keras.preprocessing import image
 from CNN_model import Image_Data_Generator_train
 import numpy as np
+import calendar
+import pandas as pd
 
 #------Functions needed--------#
 def get_hsz (lat,long):
@@ -54,8 +56,23 @@ def predict_label (test_image_path):
 
     return predicted_vegetable
 
+def obtain_values (df):
+    months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    values = ['S', 'T', 'P']
+    values_description = {'S': 'Plant undercover seed trays',
+                           'T': 'Transplant seedlings',
+                           'P': 'Plant seeds'}
+    dict_ = {}
+
+    for value in values:
+        months_value = [month for month in months if df[month].str.contains(value).any()]
+        if months_value:
+            dict_[values_description[value]] = months_value
+
+    return dict_
+
 #-----Image Detection-----#
-st.subheader("Vegetable Recognition")
+st.subheader("Vegetable Recognition" ":camera_with_flash:")
 st.markdown('''
             <style>
                 .body {
@@ -80,14 +97,14 @@ if uploaded_file is not None:
     
     vegetable = predict_label(uploaded_file)
     st.markdown (f"The photo that you have upload is a **{vegetable}**")
-
+    
     
 
 
 
 #-----Location input------# 
 
-st.subheader("Urban Garden Location in Spain ")
+st.subheader("Urban Garden Location in Spain" ":round_pushpin:" )
 st.markdown ("<p class='center'>Simply enter the address of your desired plant location in Spain, whether it's your backyard, a community garden, or a public park. GreenAdvisor will generate the most precise relevant planting recommendation based on the climate zone of your location.</p>", unsafe_allow_html=True)
 address = st.text_input('Enter an address 👇', )
 if address:
@@ -96,13 +113,79 @@ if address:
     coordenadas = geocode(address)
     hsz_ = list(get_hsz(coordenadas[0],coordenadas[1]))[0]
     st.markdown (f"Your desired location is in the climate zone **{hsz_}**")
+    
+
 
 
 #-----Planting Guide-----#
-st.subheader("Planting Guide")
-st.markdown()
+st.subheader("Planting Guide" ":thumbsup:")
+if address and hsz_:
+    st.markdown(f"""<p class='center'> Based on the recognition of the vegetable and the climate zones, GreenAdvisor will provide you the ultimate planting guide with general characteristics to take care of the plant and when and how to sow it. </p>""",  unsafe_allow_html=True)
 
+#Import the data frames from sql
+    characteristics = sql.get_charactersitics(vegetable)
+    seasonality = sql.get_seasonality (vegetable, hsz_)
+    st.markdown (f"##### {vegetable} recommendation in climate zone {hsz_}")
+    
+    #Sowing row
+    st.markdown (f"🌱 Sowing recommendation:{characteristics['sowing'][0]}", unsafe_allow_html=True)
+    #Temperature 
+    st.markdown (f"🌡️ {characteristics['temperature'][0]}", unsafe_allow_html=True)
+    #Harvest
+    st.markdown (f"☀️ {characteristics['harvest'][0]}", unsafe_allow_html=True)
+    #Compatbility
+    st.markdown (f"✅ It is compatible with {characteristics['compatibility'][0]}", unsafe_allow_html=True)
+    #Avoid
+    st.markdown (f"❌ Avoid {characteristics['avoid'][0]}", unsafe_allow_html=True)
+    # Spacing
+    st.markdown (f"📏 Distance between plants {characteristics['spacing'][0]}", unsafe_allow_html=True)
 
+    # When to sow? 
+    #seasonality = seasonality.replace(np.nan,'X', regex = True, inplace= True)
+    st.markdown("📆 Sowing months depending on the practice: ")
+    def color_cells(val):
+        if val == 'S':
+            color = '#A68464'  # Color para 'S'
+        elif val == 'T':
+            color = '#A4AC86'  # Color para 'T'
+        elif val == 'P':
+            color = '#B6AD90'  # Color para 'P'
+        else:
+            color = 'white'  # Color para celdas vacías
+        return f'background-color: {color}'
+    
+    styled_cal = seasonality.style.applymap(color_cells)
+    st.dataframe(styled_cal)
+    
+    st.markdown(
+        """
+        <style>
+        .S {
+            background-color: #A68464;
+        }
+        .T {background-color: #A4AC86;
+        
+        }
+        .P {background-color: #B6AD90;
+        
+        }
+        </style>
+        """
+        , unsafe_allow_html=True
+    )
+    st.markdown("""Sowing Practices:""")
+    st.markdown(
+    '<span class="S">Sowing undercover seed trays (S)</span>',
+    unsafe_allow_html=True
+    )
+    st.markdown(
+    '<span class="T"> Transplanting seedlings (T)</span>',
+    unsafe_allow_html=True
+    )
+    st.markdown(
+    '<span class="P"> Planting seeds (P)</span>',
+    unsafe_allow_html=True
+    )
 
 
 
