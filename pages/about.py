@@ -65,11 +65,41 @@ with tab1:
                 """,unsafe_allow_html=True)
     
     def main():
-        html_donut= """<div class='tableauPlaceholder' id='viz1689460253149' style='position: relative'><noscript><a href='#'><img alt='GreenAdvisor ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;GreenAdvisor&#47;Historia1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GreenAdvisor&#47;Historia1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;GreenAdvisor&#47;Historia1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1689460253149');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>"""
+        html_donut= """<div class='tableauPlaceholder' id='viz1689461336958' style='position: relative'><noscript><a href='#'><img alt='Hardiness Zones Spain Map ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BW&#47;BWGDYKT3B&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;BWGDYKT3B' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BW&#47;BWGDYKT3B&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1689461336958');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>"""
         components.html(html_donut,width=800, height=700)
     if __name__ =="__main__":
         main()
-        
+
+with tab2: 
+    st.markdown('''
+            <style>
+                .body {
+                background-color: #ffffff; /* Establece el color de fondo en blanco */
+                }
+                .center {
+                text-align: justify;
+                font-size: 1.0rem;
+                }
+            </style>
+            ''',  unsafe_allow_html=True)
+
+
+    st.markdown ("""
+                <p class='center'>There are several sowing methods, the implementation of which depends on the climatic zone and the months of the year. For the most begginer urbans gardeners, here is a description of these three practices: </p> 
+                """,unsafe_allow_html=True)
+   
+    st.markdown("##### **Plant undercover in seed trays**")
+    st.markdown ("""
+                <p class='center'>Planting undercover in seed trays is a method of starting seeds indoors in trays or containers. It involves selecting appropriate trays with drainage holes, preparing a seed-starting mix, sowing the seeds at the recommended depth, and providing proper conditions such as light and temperature for germination. Regular monitoring and care are essential to maintain adequate moisture and prevent leggy growth. After hardening off, the seedlings can be transplanted into the outdoor garden. This method allows for early germination, controlled growing conditions, and an extended growing season.</p> 
+                """,unsafe_allow_html=True)
+    st.markdown("##### **Transplant seedlings**")
+    st.markdown ("""
+                <p class='center'>Transplanting seedlings involves moving young plants from their initial containers or seed trays to their final planting location. It requires preparing the planting area, timing the transplant based on seedling development, digging appropriate holes, gently removing the seedlings from their containers, planting them at the right depth, watering thoroughly, and providing ongoing care. Transplanting allows for better spacing, optimal growing conditions, and improved access to sunlight and nutrients for the seedlings.</p> 
+                """,unsafe_allow_html=True) 
+    st.markdown("##### **Plant seeds**")
+    st.markdown ("""
+                <p class='center'>Planting seeds involves placing seed ins the soil to initiate the germination and growth of new plants.It is necessary to preparing the soil, creating furrows or holes, sowing the seeds at the recommended depth and spacing, covering them with soil, watering gently, providing suitable conditions for germination, and maintaining moisture. Ongoing care, such as thinning seedlings and providing proper watering, fertilization, and protection, is essential. Regular monitoring and adjustment of growing conditions are important until the seedling are mature enough through thrive. </p> 
+                """,unsafe_allow_html=True) 
  
     
 
