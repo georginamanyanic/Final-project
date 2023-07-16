@@ -56,15 +56,28 @@ def predict_label (test_image_path):
 
 #-----Image Detection-----#
 st.subheader("Vegetable Recognition")
+st.markdown('''
+            <style>
+                .body {
+                background-color: #ffffff; /* Establece el color de fondo en blanco */
+                }
+                .center {
+                text-align: justify;
+                font-size: 1.0rem;
+                }
+            </style>
+            ''',  unsafe_allow_html=True)
 #st.write("Upload your photo and obtain your veggie category!")
 
 model = keras.models.load_model('C:/Users/manya/Documents/Ironhack/Course/Final-project/models/model_def.keras')
 train_generator = Image_Data_Generator_train('C:/Users/manya/Documents/Ironhack/Course/Final-project/images_15/train',(224,224), 32)
-uploaded_file = st.file_uploader('Upload your photo and obtain your veggie category!',type=["png", "jpg", "jpeg"])
+st.markdown('Upload your photo and GreenAdvisor will recognize what veggie it is!')
+uploaded_file = st.file_uploader('Upload photo',type=["png", "jpg", "jpeg"])
 if uploaded_file is not None:
     image_ = Image.open(uploaded_file)
+    image_ = image_.resize((224,224))
     st.image(image_, caption="Uploaded photo")
-
+    
     vegetable = predict_label(uploaded_file)
     st.markdown (f"The photo that you have upload is a **{vegetable}**")
 
@@ -75,7 +88,7 @@ if uploaded_file is not None:
 #-----Location input------# 
 
 st.subheader("Urban Garden Location in Spain ")
-st.markdown ("Simply enter the address of your desired plant location in Spain, whether it's your backyard, a community garden, or a public park. GreenAdvisor will generate the most precise relevant planting recommendation based on the climate zone of your location. ")
+st.markdown ("<p class='center'>Simply enter the address of your desired plant location in Spain, whether it's your backyard, a community garden, or a public park. GreenAdvisor will generate the most precise relevant planting recommendation based on the climate zone of your location.</p>", unsafe_allow_html=True)
 address = st.text_input('Enter an address 👇', )
 if address:
 
@@ -83,6 +96,13 @@ if address:
     coordenadas = geocode(address)
     hsz_ = list(get_hsz(coordenadas[0],coordenadas[1]))[0]
     st.markdown (f"Your desired location is in the climate zone **{hsz_}**")
+
+
+#-----Planting Guide-----#
+st.subheader("Planting Guide")
+st.markdown()
+
+
 
 
 
