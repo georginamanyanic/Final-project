@@ -79,27 +79,37 @@ st.markdown('''
                 background-color: #ffffff; /* Establece el color de fondo en blanco */
                 }
                 .center {
-                text-align: justify;
-                font-size: 1.0rem;
-                }
-            </style>
+                text-align: justify; 
             ''',  unsafe_allow_html=True)
 #st.write("Upload your photo and obtain your veggie category!")
 
 model = keras.models.load_model('C:/Users/manya/Documents/Ironhack/Course/Final-project/models/model_def.keras')
 train_generator = Image_Data_Generator_train('C:/Users/manya/Documents/Ironhack/Course/Final-project/images_15/train',(224,224), 32)
+
+##Camera
+#img_file_buffer = st.camera_input("Take a picture of a veggie and GreenAdvisor will recognize what it is!")
+#if img_file_buffer is not None:
+    #To save tmeperoray the iamge
+    #image_ = Image.open(img_file_buffer)
+    #image_ = image_.resize((224,224))
+    #st.image(image_, caption="Uploaded photo")
+
+
+
 st.markdown('Upload your photo and GreenAdvisor will recognize what veggie it is!')
 uploaded_file = st.file_uploader('Upload photo',type=["png", "jpg", "jpeg"])
 if uploaded_file is not None:
+    #To save tmeperoray the iamge
     image_ = Image.open(uploaded_file)
     image_ = image_.resize((224,224))
     st.image(image_, caption="Uploaded photo")
     
+    #Predictions
     vegetable = predict_label(uploaded_file)
     st.markdown (f"The photo that you have upload is a **{vegetable}**")
-    
-    
 
+##-----NO photo-------#
+characteristics = pd.read_csv('C:/Users/manya/Documents/Ironhack/Course/Final-project/data/characteristics_cleaned.csv')
 
 
 #-----Location input------# 
@@ -142,7 +152,7 @@ if address and hsz_:
 
     # When to sow? 
     #seasonality = seasonality.replace(np.nan,'X', regex = True, inplace= True)
-    st.markdown("📆 Sowing months depending on the practice: ")
+    st.markdown("📆 Sowing time: ")
     def color_cells(val):
         if val == 'S':
             color = '#A68464'  # Color para 'S'
@@ -173,7 +183,7 @@ if address and hsz_:
         """
         , unsafe_allow_html=True
     )
-    st.markdown("""Sowing Practices:""")
+    st.markdown("""Sowing Practices*:""")
     st.markdown(
     '<span class="S">Sowing undercover seed trays (S)</span>',
     unsafe_allow_html=True
@@ -185,6 +195,30 @@ if address and hsz_:
     st.markdown(
     '<span class="P"> Planting seeds (P)</span>',
     unsafe_allow_html=True
+    )
+    st.write('*See more information in the about page')
+
+    ## Add button for downloading data 
+    @st.cache_data
+    def convert_df(df):
+        # IMPORTANT: Cache the conversion to prevent computation on every rerun
+        return df.to_csv().encode('utf-8')
+
+    csv_1 = convert_df(characteristics)
+
+    st.download_button(
+        label="Download general characteristics as CSV",
+        data=csv_1,
+        file_name='characteristics.csv',
+        mime='text/csv',
+    )
+
+    csv_2 = convert_df (seasonality)
+    st.download_button(
+        label="Download time to sowing as CSV",
+        data=csv_2,
+        file_name='seasonality.csv',
+        mime='text/csv',
     )
 
 
