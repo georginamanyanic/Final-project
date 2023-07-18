@@ -4,11 +4,21 @@ import os
 import streamlit.components.v1 as components
 from PIL import Image
 import codecs
-#from st_pages import Page, show_pages, add_page_title
+from st_pages import Page, show_pages, add_page_title
 
 
 st.set_page_config(page_title = "GreenAdvisor", page_icon = ":seedling:")
+#add_page_title() # By default this also adds indentation
 
+# Specify what pages should be shown in the sidebar, and what their titles and icons
+# should be
+show_pages(
+    [
+        Page("pages/about.py", "Home", "🏠"),
+        Page("main.py", "GreenAdvisor tool", ":seedling:")
+    ]
+       
+)
 st.header("GreenAdvisor" ":seedling:")
 st.markdown('''
             <style>
@@ -41,7 +51,7 @@ st.markdown("""
 )
 
 tab1, tab2= st.tabs(['Climate Zones - Hardiness Zones Classification System', 
-                                  'Sowing practices'])
+                                  'Sowing Tecniques'])
 
 with tab1: 
     st.markdown('''
@@ -103,14 +113,6 @@ with tab2:
  
     
 
-
-
-#show_pages(
-    #[
-        #Page("main.py", "GreenSense Tool", "🌱"),
-        #Page("pages/about.py", "About", "💁‍♀️"),
-    #]
-#)
 
 
 
